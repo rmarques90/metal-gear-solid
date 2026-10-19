@@ -1,115 +1,115 @@
-[Português](README.md) · [English](README.en.md)
+**English** · [Português](README.pt-BR.md)
 
-# Guia Metal Gear Solid
+# Metal Gear Solid Guide
 
-Site interativo que reúne a história dos quatro primeiros jogos da série **Metal Gear Solid**, organizada por seção, com favoritos salvos no navegador e uma linha do tempo dos principais acontecimentos do enredo.
+An interactive site that gathers the story of the first four Metal Gear Solid games, organized by section, with favorites saved in the browser and a timeline of the main plot events.
 
-Jogos cobertos:
+Games covered:
 
 - Metal Gear Solid (1998)
 - Metal Gear Solid 2: Sons of Liberty (2001)
 - Metal Gear Solid 3: Snake Eater (2004)
 - Metal Gear Solid 4: Guns of the Patriots (2008)
 
-> Projeto de fãs, sem vínculo com a Konami ou com Hideo Kojima.
+> Fan project, not affiliated with Konami or Hideo Kojima.
 
-## Funcionalidades
+## Features
 
-- **Leitura por seção:** cada jogo tem sumário com botões, seções e subseções recolhíveis, e um botão **Resumo** que abre um resumo curto da seção em um popup.
-- **Favoritos:** marque seções com a estrela. Os favoritos ficam salvos no IndexedDB do navegador e aparecem agrupados por jogo na página **Favoritos**.
-- **Linha do tempo:** gráfico SVG com os 21 eventos de enredo, na ordem da história. Tem reprodução automática (play/pausa), navegação manual, teclado (setas e espaço) e uma barra de progresso que acompanha a reprodução.
-- **Ligação entre timeline e texto:** cada evento tem o link **Ver na seção**, que leva ao parágrafo correspondente no guia e o destaca.
-- **Dois idiomas:** português (Brasil) e inglês. O idioma aparece na URL (`/pt-BR/...` e `/en/...`) e é lembrado entre visitas. Se o navegador estiver em português, o site abre em pt-BR.
-- **Créditos e atribuição:** página **Sobre** com a licença do conteúdo e página **Créditos** com a fonte de cada texto, capa e imagem.
+- **Section-based reading:** each game has a button-style table of contents, collapsible sections and subsections, and a **Summary** button that opens a short summary of the section in a popup.
+- **Favorites:** mark sections with the star. Favorites are stored in the browser's IndexedDB and appear grouped by game on the **Favorites** page.
+- **Timeline:** an SVG chart with the 21 plot events, in story order. It has autoplay (play/pause), manual navigation, keyboard support (arrow keys and space), and a progress bar that follows playback.
+- **Timeline-to-text links:** each event has a **Go to section** link that takes you to the matching paragraph in the guide and highlights it.
+- **Two languages:** Portuguese (Brazil) and English. The language is part of the URL (`/pt-BR/...` and `/en/...`) and is remembered between visits. If the browser is set to Portuguese, the site opens in pt-BR.
+- **Credits and attribution:** an **About** page with the content license, and a **Credits** page listing the source of each text, cover and image.
 
 ## Stack
 
-- [Vue 3](https://vuejs.org/) com `<script setup>` e [Vite](https://vite.dev/)
-- [Vue Router](https://router.vuejs.org/) para as rotas com prefixo de idioma
-- [Pinia](https://pinia.vuejs.org/) para o estado dos favoritos
-- [vue-i18n](https://vue-i18n.intlify.dev/) para os textos da interface
-- [Dexie](https://dexie.org/) sobre IndexedDB para favoritos e preferências
-- [Vitest](https://vitest.dev/) para testes unitários
-- [Playwright](https://playwright.dev/) para testes ponta a ponta
-- [cheerio](https://cheerio.js.org/) e a API da Wikipédia para gerar os dados
+- [Vue 3](https://vuejs.org/) with `<script setup>` and [Vite](https://vite.dev/)
+- [Vue Router](https://router.vuejs.org/) for routes with a language prefix
+- [Pinia](https://pinia.vuejs.org/) for the favorites state
+- [vue-i18n](https://vue-i18n.intlify.dev/) for interface text
+- [Dexie](https://dexie.org/) on top of IndexedDB for favorites and preferences
+- [Vitest](https://vitest.dev/) for unit tests
+- [Playwright](https://playwright.dev/) for end-to-end tests
+- [cheerio](https://cheerio.js.org/) and the Wikipedia API to generate the data
 
-## Pré-requisitos
+## Requirements
 
-- Node.js 20 ou superior
+- Node.js 20 or newer
 - npm
 
-## Instalação e uso
+## Installation and usage
 
 ```bash
-npm install            # instala as dependências
-npm run dev            # servidor de desenvolvimento (http://localhost:5173)
-npm run build          # build de produção em dist/
-npm run preview        # serve o build localmente
+npm install            # install dependencies
+npm run dev            # development server (http://localhost:5173)
+npm run build          # production build in dist/
+npm run preview        # serve the build locally
 ```
 
-Testes:
+Tests:
 
 ```bash
-npm test               # testes unitários (Vitest)
-npm run test:e2e       # testes ponta a ponta (Playwright, sobe o build automaticamente)
+npm test               # unit tests (Vitest)
+npm run test:e2e       # end-to-end tests (Playwright, builds and serves the site automatically)
 ```
 
-Na primeira vez que for rodar os testes e2e, instale o navegador do Playwright:
+The first time you run the e2e tests, install the Playwright browser:
 
 ```bash
 npx playwright install chromium
 ```
 
-## Dados
+## Data
 
-O conteúdo dos jogos é gerado a partir da Wikipédia em inglês e fica versionado em `src/data/`. Não é preciso rodar o pipeline para usar o site; os scripts servem para regenerar ou atualizar os dados.
+The game content is generated from English Wikipedia and is versioned in `src/data/`. You don't need to run the pipeline to use the site; the scripts are there to regenerate or update the data.
 
-Ordem sugerida:
+Suggested order:
 
-| Comando | O que faz |
+| Command | What it does |
 | --- | --- |
-| `npm run dados:wiki` | Baixa os quatro artigos e gera `src/data/en/mgs1..4.json` (seções com IDs estáveis) |
-| `npm run dados:capas` | Baixa as capas dos jogos para `src/assets/capas/` e gera `src/data/capas.json` com o crédito |
-| `npm run dados:imagens` | Baixa as imagens dos eventos da timeline para `src/assets/timeline/` e atualiza o crédito em `timeline.json` |
-| `npm run dados:paragrafos` | Liga cada evento da timeline ao parágrafo mais relevante da seção (campo `paragrafo`) |
+| `npm run dados:wiki` | Downloads the four articles and generates `src/data/en/mgs1..4.json` (sections with stable IDs) |
+| `npm run dados:capas` | Downloads the game covers to `src/assets/capas/` and generates `src/data/capas.json` with their credits |
+| `npm run dados:imagens` | Downloads the timeline event images to `src/assets/timeline/` and updates their credits in `timeline.json` |
+| `npm run dados:paragrafos` | Links each timeline event to the most relevant paragraph of its section (the `paragrafo` field) |
 
-Pontos importantes:
+Important points:
 
-- `src/data/en/` é a fonte. `src/data/pt-BR/` contém as traduções, e cada arquivo ainda está marcado com `"revisado": false`.
-- Os IDs das seções vêm do título em inglês (ex.: `mgs2/synopsis/plot`) e não mudam com a tradução. Por isso um favorito funciona nos dois idiomas.
-- A tradução mantém o mesmo número de seções e parágrafos do original. O campo `paragrafo` da timeline vale para os dois idiomas por causa disso.
-- Os termos fixos da tradução (nomes de personagens, títulos e termos de marca) ficam em `scripts/glossario.json`.
-- A timeline (`src/data/en/timeline.json` e `src/data/pt-BR/timeline.json`) é curada à mão. Campos principais:
-  - `anoHistoria`: ano na narrativa, usado para ordenar a timeline;
-  - `ordemHistoria`: sequência dentro do mesmo ano;
-  - `anoLancamento`: ano de lançamento do jogo;
-  - `secaoId`: seção vinculada ao evento.
-- Os scripts usam a API pública da Wikipédia, que limita requisições. Os scripts já tentam de novo quando recebem HTTP 429.
+- `src/data/en/` is the source. `src/data/pt-BR/` contains the translations, and each file is still marked with `"revisado": false`.
+- Section IDs come from the English title (e.g. `mgs2/synopsis/plot`) and do not change with translation. That is why a favorite works in both languages.
+- The translation keeps the same number of sections and paragraphs as the original. The timeline's `paragrafo` field is valid for both languages for this reason.
+- Fixed translation terms (character names, titles and brand terms) live in `scripts/glossario.json`.
+- The timeline (`src/data/en/timeline.json` and `src/data/pt-BR/timeline.json`) is curated by hand. Main fields:
+  - `anoHistoria`: year in the story, used to order the timeline;
+  - `ordemHistoria`: sequence within the same year;
+  - `anoLancamento`: the game's release year;
+  - `secaoId`: the section linked to the event.
+- The scripts use the public Wikipedia API, which rate-limits requests. They already retry on HTTP 429.
 
-## Estrutura do projeto
+## Project structure
 
 ```
 src/
-  components/   componentes reutilizáveis (seletor de idioma, popup de resumo, bandeiras)
-  data/         dados dos jogos por idioma, loaders e funções de resumo/preview
-  db/           banco local (Dexie): favoritos e preferências
-  i18n/         configuração do vue-i18n e textos da interface (pt-BR e en)
-  router/       rotas com prefixo de idioma
-  stores/       store Pinia dos favoritos
-  views/        páginas: início, jogo, favoritos, timeline, sobre, créditos e 404
-  assets/       capas e imagens da timeline
-  __tests__/    testes unitários
-e2e/            testes ponta a ponta
-scripts/        pipeline de coleta de dados e glossário de tradução
-public/         arquivos estáticos (favicon)
+  components/   reusable components (language selector, summary popup, flags)
+  data/         game data per language, loaders, and summary/preview helpers
+  db/           local database (Dexie): favorites and preferences
+  i18n/         vue-i18n setup and interface text (pt-BR and en)
+  router/       routes with language prefix
+  stores/       Pinia store for favorites
+  views/        pages: home, game, favorites, timeline, about, credits and 404
+  assets/       covers and timeline images
+  __tests__/    unit tests
+e2e/            end-to-end tests
+scripts/        data collection pipeline and translation glossary
+public/         static files (favicon)
 ```
 
-## Licença e créditos
+## License and credits
 
-**Conteúdo textual:** os textos dos jogos são adaptados de artigos da [Wikipédia em inglês](https://en.wikipedia.org/), publicados sob a [licença CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). As traduções para português são derivadas desses textos e seguem a mesma licença.
+**Text content:** the game texts are adapted from [English Wikipedia](https://en.wikipedia.org/) articles, published under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). The Portuguese translations are derived from those texts and follow the same license.
 
-**Imagens:** capas, screenshots e ícones pertencem aos respectivos detentores de direitos (Konami, Kojima Productions e autores das fotos). Elas são exibidas com crédito à fonte original. A página **Créditos** do site lista cada arquivo e sua origem.
+**Images:** covers, screenshots and icons belong to their respective rights holders (Konami, Kojima Productions and the photo authors). They are shown with credit to the original source. The site's **Credits** page lists each file and its origin.
 
-**Código:** a licença do código ainda não foi definida.
+**Code:** the code license has not been defined yet.
 
-Metal Gear e os personagens citados são marcas e propriedades de Konami e Kojima Productions. Este é um projeto de fãs, sem afiliação com essas empresas.
+Metal Gear and the characters mentioned are trademarks and properties of Konami and Kojima Productions. This is a fan project, not affiliated with those companies.
