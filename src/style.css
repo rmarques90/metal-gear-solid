@@ -1,0 +1,62 @@
+/* Tema "terminal militar": verde-oliva escuro, painéis metálicos e tipografia de monitor */
+:root {
+  --cor-fundo: #1b1f15;
+  --cor-texto: #dcd6b6;
+  --cor-texto-suave: #9ea083;
+  --cor-destaque: #e3a93b;
+  --cor-verde: #8fd49a;
+  --cor-borda: #4d5539;
+  --cor-borda-escura: #161a10;
+
+  /* Painéis e placas: gradiente metálico, usado só como background */
+  --cor-cartao: linear-gradient(180deg, #3b4232 0%, #2a2f22 100%);
+  --cor-metal: linear-gradient(180deg, #5d6548 0%, #373d2c 100%);
+
+  --fonte-titulo: Impact, 'Arial Narrow Bold', 'Arial Black', sans-serif;
+  --fonte-terminal: Consolas, 'Courier New', monospace;
+
+  color: var(--cor-texto);
+  background-color: var(--cor-fundo);
+  font-family: 'Segoe UI', system-ui, -apple-system, Roboto, sans-serif;
+  line-height: 1.6;
+  color-scheme: dark;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  /* Luz central sobre o campo + textura de grade sutil */
+  background-image:
+    radial-gradient(ellipse at 50% 0%, rgba(120, 132, 80, 0.28), transparent 60%),
+    repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.015) 0 1px, transparent 1px 4px);
+  background-attachment: fixed;
+}
+
+a {
+  color: var(--cor-destaque);
+}
+
+h1,
+h2 {
+  font-family: var(--fonte-titulo);
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  text-shadow: 0 2px 0 var(--cor-borda-escura);
+}
+
+button,
+select {
+  font: inherit;
+}
+
+:focus-visible {
+  outline: 2px solid var(--cor-destaque);
+  outline-offset: 2px;
+}

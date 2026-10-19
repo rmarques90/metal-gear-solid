@@ -1,0 +1,70 @@
+{
+  "app": {
+    "nome": "Metal Gear Solid Guide"
+  },
+  "nav": {
+    "inicio": "Home",
+    "timeline": "Timeline",
+    "favoritos": "Favorites",
+    "idioma": "Language",
+    "creditos": "Credits",
+    "sobre": "About"
+  },
+  "home": {
+    "titulo": "Metal Gear Solid",
+    "subtitulo": "The story of each game, section by section.",
+    "abrir": "Open guide",
+    "resumo": "An interactive guide to the story of the first four Metal Gear Solid games. Read each section, save your favorites in your browser, and follow the main events of the plot on the timeline."
+  },
+  "jogo": {
+    "naoEncontrado": "Game not found.",
+    "sumario": "Contents",
+    "traducaoIndisponivel": "This content has not been translated yet. Showing the English original.",
+    "recolher": "Collapse section",
+    "expandir": "Expand section",
+    "resumo": "Summary",
+    "resumoFechar": "Close",
+    "semResumo": "This section has no text to summarize."
+  },
+  "favoritos": {
+    "titulo": "Your favorites",
+    "vazio": "You haven't saved any sections yet.",
+    "remover": "Remove from favorites",
+    "verSecao": "Go to section"
+  },
+  "timeline": {
+    "titulo": "Timeline",
+    "play": "Play",
+    "pausar": "Pause",
+    "anterior": "Previous",
+    "proximo": "Next",
+    "anoHistoria": "story",
+    "verSecao": "Go to section",
+    "descricao": "This timeline gathers the main plot events of the first four Metal Gear Solid games, in the order they happen in the story (not in release order). Click a point, use the arrow keys, or play it automatically. Each event links to the matching section of the guide."
+  },
+  "erro": {
+    "paginaNaoEncontrada": "Page not found.",
+    "voltarInicio": "Back to home"
+  },
+  "rodape": {
+    "creditos": "Credits",
+    "criadoEm": "Created in {ano}"
+  },
+  "creditos": {
+    "titulo": "Credits",
+    "textos": "Texts",
+    "textosDescricao": "The game content is adapted from English Wikipedia articles, under the CC BY-SA 4.0 license. The Portuguese translations are derived from those texts and follow the same license.",
+    "imagens": "Images",
+    "imagensDescricao": "Covers and screenshots belong to their respective rights holders. Files are shown with credit to the original Wikipedia file.",
+    "coletadoEm": "Collected on",
+    "licenca": "License",
+    "icone": "Icon: Solid Snake, Wikipedia (en) — SolidSnakerendercollection1.png"
+  },
+  "sobre": {
+    "titulo": "About the site",
+    "oQue": "This site gathers the story of Metal Gear Solid, Metal Gear Solid 2: Sons of Liberty, Metal Gear Solid 3: Snake Eater and Metal Gear Solid 4: Guns of the Patriots, organized by section. You can read each game, save favorite sections (stored in your browser) and follow the plot events on the timeline, with automatic or manual playback.",
+    "fonte": "The game content is adapted from English Wikipedia articles, published under the CC BY-SA 4.0 license. The Portuguese translations are derived from those texts and follow the same license.",
+    "imagens": "Covers and screenshots belong to their respective rights holders and are shown with credit. Full credits are on the Credits page.",
+    "projeto": "This is a fan project, not affiliated with Konami or Hideo Kojima."
+  }
+}

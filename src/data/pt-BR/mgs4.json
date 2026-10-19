@@ -1,0 +1,229 @@
+{
+  "jogo": {
+    "id": "mgs4",
+    "titulo": "Metal Gear Solid 4: Guns of the Patriots",
+    "anoLancamento": 2008
+  },
+  "fonte": {
+    "url": "https://en.wikipedia.org/api/rest_v1/page/html/Metal%20Gear%20Solid%204%3A%20Guns%20of%20the%20Patriots",
+    "dataColeta": "2026-10-19",
+    "licenca": "CC BY-SA 4.0"
+  },
+  "secoes": [
+    {
+      "id": "mgs4/introducao",
+      "ordem": 0,
+      "nivel": 0,
+      "pai": null,
+      "titulo": "Metal Gear Solid 4: Guns of the Patriots",
+      "paragrafos": [
+        "Metal Gear Solid 4: Guns of the Patriots é um jogo de ação-aventura de furtividade lançado em 2008, desenvolvido pela Kojima Productions e distribuído pela Konami para PlayStation 3. Dirigido, escrito e projetado pelo criador da série, Hideo Kojima, ele é o sexto jogo principal da franquia Metal Gear e uma sequência narrativa de Metal Gear Solid 2: Sons of Liberty (2001). Ambientada cinco anos após os eventos de Sons of Liberty, a história gira em torno de um Solid Snake em rápido envelhecimento, agora conhecido como Old Snake, que parte em uma última missão para assassinar Liquid Ocelot, o corpo de Revolver Ocelot habitado por Liquid Snake, antes que ele assuma o controle dos Sons of the Patriots, um sistema de IA que controla as atividades de empresas militares privadas (PMCs) no mundo todo.",
+        "Guns of the Patriots recebeu aclamação universal, com elogios à sua jogabilidade, aos gráficos, aos personagens e ao peso emocional, enquanto as críticas se concentraram no enredo, considerado confuso, e na ênfase em cenas cinematográficas. O jogo recebeu prêmios de Jogo do Ano de várias grandes publicações de games. É um dos títulos mais significativos da sétima geração de consoles de videogame, já que seu lançamento causou um aumento nas vendas do PlayStation 3, e havia vendido seis milhões de cópias no mundo todo até 2014. O próximo jogo principal, Metal Gear Solid: Peace Walker, foi lançado em 2010, e um spin-off ambientado quatro anos após Guns of the Patriots, Metal Gear Rising: Revengeance, foi lançado em 2013. Em agosto de 2026, o jogo foi lançado para Nintendo Switch, Nintendo Switch 2, PlayStation 5, Windows e Xbox Series X/S como parte de Metal Gear Solid: Master Collection Vol. 2."
+      ]
+    },
+    {
+      "id": "mgs4/gameplay",
+      "ordem": 1,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Jogabilidade",
+      "paragrafos": [
+        "Em Guns of the Patriots, os jogadores assumem o papel de um Solid Snake envelhecido (conhecido informalmente como Old Snake), usando furtividade, combate corpo a corpo e o combate tradicional de Metal Gear. A câmera em terceira pessoa, de visão aérea, dos jogos anteriores foi substituída por uma visão mais enxuta e por uma câmera por cima do ombro para mirar a arma, com uma visão opcional em primeira pessoa, como em um jogo de tiro, ao apertar um botão.",
+        "Outra novidade na mecânica de jogo é o Medidor de Psyche. A Psyche diminui com ataques não letais e é influenciada pela psicologia do campo de batalha. Fatores de estresse (incluindo temperaturas extremas, odores fortes e ser caçado pelo inimigo) aumentam o medidor de estresse de Snake, até esgotar sua Psyche. Os efeitos adversos incluem dificuldade para mirar, dores nas costas mais frequentes e a possibilidade de Snake desmaiar ao receber dano. Se Snake matar muitos inimigos em pouco tempo, ele terá uma visão de Liquid e vomitará, reduzindo muito sua Psyche. Entre os métodos disponíveis para recuperar a Psyche estão comer, beber, fumar e ler uma revista adulta.",
+        "Snake tem alguns apetrechos para ajudá-lo em batalha. O traje OctoCamo imita a aparência e a textura de qualquer superfície, de maneira semelhante a um polvo, diminuindo a probabilidade de Snake ser notado. Além disso, o FaceCamo fica disponível para os jogadores depois que derrotam Laughing Octopus. O FaceCamo pode ser usado por Solid Snake no rosto e pode ser configurado para funcionar em conjunto com o OctoCamo ou para imitar o rosto de outros personagens do jogo. Para obter esses FaceCamos exclusivos, os jogadores precisam antes cumprir certos requisitos no jogo. Quando o FaceCamo é usado com o OctoCamo, em condições ideais, a furtividade de Snake pode chegar a 100%. O dispositivo Solid Eye destaca itens e inimigos e pode funcionar em modo de visão noturna e em modo binocular. Ele também oferece um mapa básico, que indica a localização de unidades próximas. Essa última função também é desempenhada pelo Threat Ring, uma visualização dos sentidos de Snake que se deforma conforme a proximidade das unidades e as transmite ao jogador.",
+        "Metal Gear Mk.II (depois substituído pelo Mk.III) é um pequeno robô de apoio que sempre acompanha Snake, oferece a função de codec e dá acesso ao menu do jogo durante grande parte da missão de Snake. Ele pode ser controlado remotamente para atordoar inimigos, fazer reconhecimento e interagir com o ambiente. Seu design é baseado no robô homônimo de Snatcher, jogo criado por Hideo Kojima. Ele também é controlado no início de cada “Ato”, embora o jogador não possa usar suas capacidades nesse período.",
+        "Sempre que o menu Drebin estiver disponível, armas, acessórios e munição podem ser comprados com Drebin Points (DPs), concedidos pela aquisição, no local, de armas já presentes no inventário e ao iniciar eventos roteirizados específicos ou destruir Veículos Não Tripulados. A taxa de conversão entre armas e DPs depende das condições atuais do campo de batalha, com combates mais intensos rendendo preços mais altos. Drebin também compra itens do jogador por um preço com desconto, especialmente em certos pontos da história e em determinados dias do calendário real. O jogo também pode ser concluído sem matar ninguém, usando armas não letais.",
+        "O Virtual Range, semelhante ao treinamento de realidade virtual dos títulos anteriores, funciona como uma instalação de testes para o desempenho das armas e dos controles do jogo."
+      ]
+    },
+    {
+      "id": "mgs4/synopsis",
+      "ordem": 2,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Sinopse",
+      "paragrafos": []
+    },
+    {
+      "id": "mgs4/synopsis/setting",
+      "ordem": 3,
+      "nivel": 3,
+      "pai": "mgs4/synopsis",
+      "titulo": "Cenário",
+      "paragrafos": [
+        "Guns of the Patriots se passa em uma linha do tempo de história alternativa em que a Guerra Fria continuou até a década de 1990, terminando pouco antes da virada do século. Os eventos ocorrem em 2014 e formam o capítulo final da história do personagem Solid Snake, oferecendo desfechos para os acontecimentos que levaram a Guns of the Patriots.",
+        "A economia mundial depende de guerras civis contínuas travadas por empresas militares privadas (PMCs), que superam em número as forças militares dos governos. Os soldados são equipados com nanomáquinas que monitoram e aprimoram seu desempenho no campo de batalha, controladas por uma vasta rede conhecida como sistema Sons of the Patriots (SOP). Liquid Ocelot ressurge de seu esconderijo para lançar uma insurreição contra os Patriots, um grupo secreto que manipula os assuntos globais nas sombras.",
+        "Enquanto isso, Solid Snake sofre um envelhecimento acelerado e tem pouco tempo de vida. Ele vive a bordo do avião Nomad com o Dr. Hal Emmerich, apelidado de Otacon, e com Sunny, filha de Olga Gurlukovich e uma criança prodígio em programação de computadores. Desde as consequências do incidente de Big Shell, Raiden se afastou de Rose, que aparentemente sofrera um aborto espontâneo do filho do casal e fora morar com o antigo comandante de Snake, Colonel Roy Campbell, e se tornou um ninja ciborgue que luta contra os Patriots. Meryl Silverburgh comanda uma unidade de inspeção de PMCs no exército dos Estados Unidos, que inclui Johnny Sasaki."
+      ]
+    },
+    {
+      "id": "mgs4/synopsis/plot",
+      "ordem": 4,
+      "nivel": 3,
+      "pai": "mgs4/synopsis",
+      "titulo": "Enredo",
+      "paragrafos": [
+        "Cinco anos após o incidente de Big Shell, Otacon diz a Snake que ele tem apenas um ano de vida devido a sintomas semelhantes à síndrome de Werner. Snake encontra Campbell, que agora trabalha com o Conselho de Segurança das Nações Unidas, e que lhe conta que Revolver Ocelot, desaparecido desde o incidente de Big Shell, possuído pela vontade de Liquid Snake e agora sob o disfarce de “Liquid Ocelot”, foi localizado no Oriente Médio, e que Snake tem a missão de assassiná-lo. Em uma zona de guerra do Oriente Médio ocupada por uma das PMCs de Liquid, Snake encontra Drebin, um comerciante de armas que lhe injeta nanomáquinas para usar o armamento mais recente, e Meryl, agora líder da Equipe de Patrulha Rat 01, que guarda ressentimento de Campbell por ser seu pai biológico e pelo casamento dele com a muito mais jovem Rose. Snake alcança Liquid, mas este transmite um sinal que incapacita com nanomáquinas quem está por perto. Ele avista a Dra. Naomi Hunter, que o auxilia contra o sinal e depois parte com Liquid.",
+        "Após acordar um dia depois no Nomad, Snake e Otacon recebem um vídeo de Naomi, que revela estar na América do Sul, mantida prisioneira por Liquid para realizar pesquisas. Na Colômbia, Snake localiza Naomi, que explica que seu envelhecimento acelerado se deve a mutações genéticas intencionais, por ele ser um clone humano de Big Boss, e que o vírus FOXDIE, com o qual ela o infectou, também sofrerá mutação em poucos meses, espalhando-se pela população em geral e causando uma pandemia mortal. Ela também explica que Liquid pretende usar a biometria de Big Boss para acessar e assumir o comando do sistema de controle de armamento dos Patriots. Os soldados das PMCs de Liquid sequestram Naomi, mas Snake a resgata, auxiliado por Drebin e Raiden, e eles escapam, embora Raiden seja ferido por Vamp.",
+        "Snake encontra um grupo de resistência do Leste Europeu em Praga, liderado por Big Mama (revelada como EVA, mãe substituta de Snake e Liquid). EVA revela que, após a Operação Snake Eater, o Major Zero usou o Philosophers' Legacy para formar os Patriots, composto por Zero, EVA, Ocelot, Sigint, Para-Medic e Big Boss, para cumprir a vontade de The Boss. Zero usou Big Boss como um ícone, mas, como Big Boss ressentia isso, Zero iniciou o projeto Les Enfants Terrible com Para-Medic e EVA para clonar substitutos (Snake e Liquid). Big Boss deixou o grupo para se opor a Zero, formando Outer Heaven, e iniciou uma guerra secreta em torno da vontade de The Boss. Big Boss não conseguiu dar um golpe com a FOXHOUND e foi derrotado por Snake em Outer Heaven e na Zanzibar Land. Zero então o colocou em coma e garantiu o controle dos Patriots por meio das IAs GW, TJ, AL, TR e JD. Ela revela a Snake que está de posse do corpo de Big Boss, que eles transportam de barco enquanto os soldados das PMCs de Liquid atacam iscas.",
+        "Liquid captura o corpo e obtém a biometria, com a intenção de se infiltrar no sistema dos Patriots usando o núcleo de inteligência artificial (IA) reparado, GW, como cavalo de Troia. Soldados americanos chegam para prender Liquid, mas ele os elimina após desativar suas armas. O corpo de Big Boss é incinerado, e Snake salva EVA do fogo quando ela tenta salvá-lo, mas ambos ficam gravemente feridos no processo. Naomi deixa o local com Liquid, mas Otacon os rastreia. EVA aparentemente morre devido aos ferimentos.",
+        "Snake e Otacon descobrem que Liquid pretende destruir a IA mestra dos Patriots com um ataque nuclear, permitindo que GW assuma o controle. É preciso uma ogiva sem etiqueta de identificação do Metal Gear REX, em Shadow Moses, no Alasca. Lá, Snake é emboscado por Vamp, acompanhado de Naomi, mas morre quando suas nanomáquinas de autorregeneração são desativadas por injeção. Naomi revela que tem câncer terminal e, tomada pela culpa por seus erros, desativa as nanomáquinas que a mantêm viva e morre. Snake e Raiden usam o REX para escapar e repelir Liquid, que pilota um Metal Gear RAY. Liquid revela o Outer Haven, um Arsenal Gear modificado. Raiden salva Snake de ser esmagado diante do USS Missouri, comandado por Mei Ling, que chega e força o Haven a recuar.",
+        "Snake, Meryl e Johnny embarcam no Haven quando ele emerge, para lançar a bomba nuclear. No núcleo, Snake instala um vírus de computador programado por Naomi e Sunny no cavalo de Troia de Liquid, o que destrói tanto o núcleo de IA quanto toda a rede dos Patriots que controla os assuntos globais, deixando o necessário para a sobrevivência da civilização. No topo do Haven, Liquid explica a Snake que permitiu a instalação do vírus para destruir os Patriots. Os dois lutam, Snake sai vitorioso e Liquid volta a ser Ocelot antes de morrer. Meryl se reconcilia com Campbell e se casa com Johnny. Raiden se reencontra com Rose após descobrir que o filho deles, John, não sofrera aborto espontâneo, e que o casamento dela com Campbell fora uma farsa para protegê-los dos Patriots. Snake visita o túmulo de The Boss no Cemitério Nacional de Arlington e, sentindo que não tem mais propósito e que precisa impedir uma epidemia causada por seu FOXDIE, tenta se suicidar, mas hesita no último momento.",
+        "Snake é então encontrado por Big Boss, ao lado de um Zero em estado vegetativo, e Big Boss explica que o corpo queimado na Europa era o de Solidus Snake. Em seguida, revela que os Patriots foram fundados para realizar a vontade de The Boss, seu mentor. Interpretações divergentes dividiram o grupo em duas facções: a de Zero, que defendia o controle governamental da sociedade para evitar conflitos; e a de Big Boss, na qual os soldados lutavam por crenças pessoais, sem as restrições dos governos. Zero entregou o controle a redes de IA, os Patriots. Depois da queda de Big Boss na Zanzibar Land, os Patriots o colocaram em coma induzido e, mais tarde, iniciaram a economia de guerra, uma visão muito distante da vontade de The Boss. Ocelot e EVA planejaram restaurar Big Boss destruindo os Patriots, e a posse de Ocelot por meio de Liquid era uma armadilha para atrair a atenção deles. Big Boss então mata Zero, desligando seu suporte de vida.",
+        "Ele informa Snake de que as nanomáquinas de Drebin continham FOXDIE, projetado pelos Patriots para matar EVA, Ocelot e o próprio Big Boss. Com a nova cepa substituindo a cepa mutada, Snake não representa risco de se tornar uma arma biológica, a menos que viva o suficiente para que ela sofra mutação. Após compreender a vontade de seu mentor e pedir a Snake que encontre um novo motivo para continuar vivendo, Big Boss morre ao lado do túmulo de The Boss. Snake decide viver o tempo que lhe resta em paz, com Otacon e Sunny."
+      ]
+    },
+    {
+      "id": "mgs4/development",
+      "ordem": 5,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Desenvolvimento",
+      "paragrafos": [
+        "O desenvolvimento de Metal Gear Solid 4 começou por causa da demanda dos fãs. O criador da série, Hideo Kojima, já havia dirigido a prequela Metal Gear Solid 3: Snake Eater, que deveria encerrar a série. A demanda do público por uma sequência de Metal Gear Solid 2: Sons of Liberty, e por esclarecer os mistérios que Kojima quisera deixar à interpretação dos jogadores, resultou na criação de Metal Gear Solid 4. Kojima anunciou que se aposentaria como diretor da série Metal Gear após Snake Eater e deixaria o cargo aberto para outra pessoa em Metal Gear Solid 4. Como uma brincadeira, o novo diretor foi anunciado como Alan Smithee; no livro R, de 400 páginas incluído no pacote Japanese Premium Package de Metal Gear Solid 3, revelou-se que o diretor era Shuyo Murata, coautor de Snake Eater e diretor de Zone of the Enders: The 2nd Runner. Ele também contribuiu com easter eggs para Sons of Liberty e Metal Gear: Ghost Babel. Foi anunciado que Kojima dirigiria o jogo em conjunto com Murata após uma forte reação negativa dos fãs, que incluiu ameaças de morte.",
+        "Kojima queria implementar um novo estilo de jogabilidade, ambientado em uma zona de guerra em grande escala. Ele também queria manter os elementos de furtividade das entradas anteriores da série, o que levou a equipe a abandonar o conceito original de “No Place to Hide”. A única zona de guerra anunciada antes do lançamento foi o Oriente Médio. O uso de vários locais enfatizou a intenção original de Kojima de apresentar o mundo em um conflito armado em grande escala. Solid Snake foi envelhecido fisicamente para transmitir ao jogador o tema geral do jogo, SENSE, e para atribuir a ele um personagem cuja tarefa era transmitir valores morais às gerações futuras. O final inicial de Kojima para Guns of the Patriots envolveria Snake e Otacon se entregando por terem infringido a lei, sendo depois condenados e executados. Isso foi evitado após críticas negativas da equipe de desenvolvimento. A experiência de Snake ao longo da série tornou desafiadora a criação de novos inimigos, o que incentivou a equipe a criar grupos de inimigos não humanos para rivalizar com Snake.",
+        "Durante o desenvolvimento, a exclusividade do jogo foi constantemente questionada, mesmo depois que Kojima a confirmou oficialmente várias vezes. A exclusividade ainda era posta em dúvida por jogadores que não tinham PlayStation 3 por um longo período após o lançamento inicial, e a empresa confirmou que a edição de 25º aniversário, lançada no fim de 2012, continuava exclusiva do PlayStation 3. Por ocasião do lançamento de Metal Gear Solid: The Legacy Collection, Kojima negou mais uma vez firmemente a possibilidade de lançamento em qualquer outro console, afirmando que “uma versão para Xbox 360 foi lançada, porque uma versão para Xbox 360 de MGS4 não chegou às lojas” e que “a quantidade de dados em MGS4 é simplesmente grande demais”. O Xbox 360 só consegue usar DVD para jogos, o que limita seu tamanho a 8,5 GB, embora alguns jogos usassem vários discos. MGS4 usa um disco Blu-ray de camada dupla de 50 GB, enquanto a versão digital tem 30 GB, o que tornava muito difícil comprimir os dados em um DVD sem perda de qualidade ou sem usar vários discos.",
+        "O jogo foi anunciado publicamente pela primeira vez na E3 2005, por meio de um machinima de gag bem-humorado e um tanto abstrato, com personagens de Snake Eater, sob o slogan “No Place to Hide”. Em janeiro de 2008, o título foi descrito como “essencialmente finalizado” e passou por extensos testes beta. No Destination PlayStation, em 26 de fevereiro de 2008, a Sony anunciou que o jogo seria lançado mundialmente em 12 de junho de 2008, junto com o pacote especial de PlayStation 3 com tema de Guns of the Patriots.",
+        "O orçamento do jogo foi estimado entre US$ 50 e 70 milhões. Kenichiro Imaizumi, da Kojima Productions, negou isso, afirmando que, se tivesse custado tanto, o jogo teria sido lançado para várias plataformas. Um dos principais objetivos do orçamento foi a pesquisa dos ambientes que o jogo apresentaria."
+      ]
+    },
+    {
+      "id": "mgs4/development/music",
+      "ordem": 6,
+      "nivel": 3,
+      "pai": "mgs4/development",
+      "titulo": "Música",
+      "paragrafos": [
+        "A trilha sonora de Metal Gear Solid 4 foi liderada por Harry Gregson-Williams, sua terceira trilha da série Metal Gear Solid, e por Nobuko Toda, que compôs músicas para Metal Gear Acid e Metal Gear Acid 2. Outros colaboradores são os funcionários da Konami Shuichi Kobori, Kazuma Jinnouchi, Akihiro Honda e Sota Fujimori. Sob a direção de Norihiko Hibino, os funcionários da GEM Impact Yoshitaka Suzuki e Takahiro Izutani também fizeram composições no fim da produção do jogo. Em uma entrevista com Norihiko Hibino, revelou-se que a equipe, na verdade, escreveu 90 minutos de música para as cenas cinematográficas do jogo, dos quais apenas 15 minutos foram incluídos na trilha sonora oficial.",
+        "O jogo tem dois temas vocais. O tema de abertura, “Love Theme”, é cantado por Jackie Presti e composto por Nobuko Toda. O tema de encerramento, “Here's to You”, é cantado por Lisbeth Scott. Antes do lançamento do jogo, “MGS4 – Theme of Love – Smash Bros. Brawl Version” foi disponibilizado para Super Smash Bros. Brawl, na fase Shadow Moses Island. O “Metal Gear Solid Main Theme”, composto por Tappi “Tappy” Iwase, foi notavelmente omitido da trilha sonora do jogo e da trilha de Metal Gear Solid: Portable Ops. Em entrevista à Electronic Gaming Monthly, Norihiko Hibino afirmou que a empresa teve dificuldades com “compositores russos que disseram que roubamos a música deles”, referindo-se a uma ocasião em que um grupo de jornalistas de games russos apresentou a Hideo Kojima uma composição de Georgy Sviridov e alegou que ela havia sido plagiada para criar o tema. Hibino afirma que “eles não fizeram isso de fato”, mas a empresa estava “sensível demais à situação” e optou por retirar o tema.",
+        "A trilha sonora oficial foi lançada em 28 de maio de 2008 pela Konami Digital Entertainment, sob o número de catálogo GFCA-98/9. Ela consiste em dois discos com 47 faixas de música. Um álbum com a trilha sonora também foi incluído na Metal Gear Solid 4: Guns of the Patriots Limited Edition."
+      ]
+    },
+    {
+      "id": "mgs4/development/trophy-support",
+      "ordem": 7,
+      "nivel": 3,
+      "pai": "mgs4/development",
+      "titulo": "Suporte a troféus",
+      "paragrafos": [
+        "Em agosto de 2009, quando questionado se haveria um patch para adicionar Troféus da PlayStation Network ao jogo, Sean Eyestone, da Kojima Productions, pediu às pessoas que “tivessem paciência”. Isso levou a especulações de que uma versão atualizada do jogo, nos moldes de Substance ou Subsistence, seria lançada junto com um patch de Troféus. Em novembro de 2010, uma arte de capa atualizada da linha Greatest Hits do jogo foi lançada, a qual, no canto superior direito, anunciava a adição de Troféus ao jogo. Posteriormente, isso foi tido como um erro de digitação, e a informação foi removida das impressões seguintes. Relatos falsos de um “próximo patch de Troféus” apareciam com frequência, geralmente em fóruns da internet e no Dia da Mentira, alguns chegando ao ponto de incluir uma lista de troféus simulada. Em julho de 2012, foi anunciado um patch que incluiria Troféus para o jogo, lançado em 6 de agosto de 2012. Além do suporte a Troféus, o patch também permitiu a instalação completa do jogo no disco rígido, eliminando as instalações entre os atos."
+      ]
+    },
+    {
+      "id": "mgs4/marketing",
+      "ordem": 8,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Marketing",
+      "paragrafos": [
+        "Em uma entrevista coletiva em 13 de maio de 2008, Hideo Kojima anunciou uma campanha de marketing e acordos com várias empresas para divulgar o jogo. Computadores e monitores Apple aparecem no jogo, e um iPod da Apple é um item que Snake pode usar para trocar a música de fundo, ouvir podcasts dentro do jogo e coletar músicas escondidas espalhadas pelo jogo. Bebidas energéticas ReGain são usadas no jogo como um item que recarrega o medidor de Psyche, e celulares da Sony Ericsson são usados, especificamente por Naomi e Vamp. Além disso, as motos do jogo são uma Triumph Bonneville e uma Speed Triple. A Konami e a Ubisoft incluíram no jogo um traje desbloqueável para Snake, Altaïr, do jogo de furtividade da Ubisoft Assassin's Creed. Revelado inicialmente no Dia da Mentira de 2008, Kojima anunciou depois que o traje estaria de fato no jogo, desbloqueável ao fazer “algo especial”. Para obter a roupa, o jogador deve adquirir o Assassin Emblem, uma referência ao título do jogo, ou digitar uma senha na seção Extras.",
+        "A Konami havia planejado inicialmente grandes eventos de lançamento em Tóquio, mas alguns deles foram cancelados por “segurança dos participantes”, em razão do massacre de Akihabara, ocorrido em 8 de junho de 2008. Em 15 de junho de 2009, um ano após o lançamento, a Konami relançou Guns of the Patriots como parte da coleção Sony Greatest Hits."
+      ]
+    },
+    {
+      "id": "mgs4/release",
+      "ordem": 9,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Lançamento",
+      "paragrafos": [
+        "Metal Gear Solid 4 inclui o Starter Pack do Metal Gear Online 2 (MGO2). O MGO2 apresenta batalhas táticas online com até 16 jogadores e incorpora vários elementos de jogabilidade de Metal Gear Solid 4, incluindo o sistema SOP, que permite aos jogadores ter confirmação visual da posição e do status de batalha de seus companheiros de equipe. O MGO2 também permite personagens totalmente personalizáveis. O Starter Pack permite que os jogadores realizem missões de furtividade, nas quais Old Snake e Metal Gear Mk.II obtêm placas de identificação de outros participantes humanos, além dos modos padrão Deathmatch, Team Deathmatch e vários modos especiais. Pacotes de expansão, que oferecem mais mapas e personagens especiais jogáveis (Mei Ling, Meryl, Akiba, Liquid Ocelot, Raiden e Vamp), podem ser comprados pelo item de menu do MGO2 “MGO Shop (PlayStation Network)”, pelo próprio MGO2 ou pela loja da Konami. A PlayStation Wallet é usada na primeira opção, e um cartão de crédito nas outras duas. O Metal Gear Online 2 foi completamente desativado em 13 de junho de 2012.",
+        "Em 19 de junho de 2008, a Konami lançou o Metal Gear Solid 4 Database na PlayStation Store da América do Norte e do Japão, e uma semana depois na loja europeia. O Database é um aplicativo para download para PlayStation 3 que cataloga todo o conteúdo de lore de Metal Gear de todas as entradas canônicas da série lançadas até Metal Gear Solid 4, na forma de uma enciclopédia (navegável por ordem alfabética e por categoria), uma linha do tempo e diagramas de relações entre personagens. Palavras destacadas em cada artigo levam a artigos relacionados, e ele registra quais deles o usuário já leu. O Database bloqueia automaticamente qualquer item relacionado ao jogo, para evitar que spoilers sejam revelados a jogadores que ainda não o concluíram. Para liberar esses artigos, o usuário precisa ter um save concluído de Guns of the Patriots, criado no mesmo console e com uma versão do jogo da mesma região de sua conta."
+      ]
+    },
+    {
+      "id": "mgs4/release/editions-and-bundles",
+      "ordem": 10,
+      "nivel": 3,
+      "pai": "mgs4/release",
+      "titulo": "Edições e pacotes",
+      "paragrafos": [
+        "A Limited Edition foi lançada simultaneamente com a edição padrão do jogo, como uma versão aprimorada. A edição contém Guns of the Patriots, uma caixa com arte de Yoji Shinkawa, um disco Blu-ray com dois documentários de “making of” e uma trilha sonora parcial do jogo, com apenas músicas compostas por Harry Gregson-Williams. A Limited Edition foi disponibilizada exclusivamente na GameStop dos Estados Unidos e na EB Games do Canadá, enquanto um pacote semelhante, com uma figura de 6 polegadas de Old Snake na cor “Olive Drab”, foi disponibilizado na Play.com do Reino Unido. Ela também está incluída no pacote do PlayStation 3 Metal Gear Solid 4 de 40 GB.",
+        "Na América do Norte, um pacote contendo um PlayStation 3 de 80 GB, um controle sem fio DualShock 3, um cupom de download de jogo para Pain e uma cópia de Metal Gear Solid 4: Guns of the Patriots foi lançado por US$ 499 em 12 de junho de 2008, para coincidir com o lançamento da edição avulsa. No Japão, foi lançado o Guns of the Patriots Welcome Box, que contém o jogo, um controle DualShock 3, um controle Sixaxis e um PlayStation 3 de 40 GB nas cores preta, branca ou prateada.",
+        "A Sony também anunciou um pacote limitado de pré-venda contendo Guns of the Patriots Limited Edition e um PlayStation 3 de 40 GB na cor cinza fosco (oficialmente chamada Gunmetal Grey). Anunciado inicialmente no Japão em 18 de março de 2008, por ¥ 51.800, o pacote esgotou-se até 25 de março de 2008. Um pacote idêntico ficou disponível para pré-venda na América do Norte em 19 de maio de 2008, em quantidade “muito limitada”, por US$ 600 no site oficial da Konami. David Reeves anunciou um pacote semelhante para a Europa, que incluía um PlayStation 3 de 40 GB, o jogo e um controle DualShock 3, mas que não foi lançado na Europa, restando apenas os pacotes de 80 GB e 40 GB em preto piano.",
+        "Uma versão para download do jogo foi lançada na PlayStation Store no fim de 2014. Ela também esteve brevemente disponível como título de aluguel no PlayStation Now na América do Norte, até ser removida pela Konami por motivos não divulgados. Voltou ao serviço em março de 2019."
+      ]
+    },
+    {
+      "id": "mgs4/release/downloadable-content",
+      "ordem": 11,
+      "nivel": 3,
+      "pai": "mgs4/release",
+      "titulo": "Conteúdo para download",
+      "paragrafos": [
+        "O jogo recebeu novo conteúdo pela PlayStation Network (downloads dentro do jogo) entre 2008 e 2009. Foram lançados ao todo 49 complementos gratuitos, que incluem 12 padrões OctoCamo adicionais, 12 podcasts do MGS4 Integral (a versão japonesa recebeu, em vez disso, 18 podcasts Guns of the HIDECHAN!Radio) e 25 músicas do iPod (uma vigésima sexta música, chamada “Chair Race”, foi removida por motivos de direitos autorais em 2011). Em 16 de julho de 2014, foi anunciado no site japonês que todos os downloads de DLC seriam encerrados em 31 de julho; no entanto, uma solução alternativa foi criada em janeiro de 2015. Atualmente, essa é a única forma de obter o conteúdo em um console não modificado, já que ele nunca foi disponibilizado na PlayStation Store."
+      ]
+    },
+    {
+      "id": "mgs4/related-media",
+      "ordem": 12,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Mídias relacionadas",
+      "paragrafos": [
+        "Metal Gear Solid Touch para iOS é um jogo de “tiro por toque” que revisita o enredo e a ação de Guns of the Patriots por meio da interface de toque. Os desenvolvedores de LittleBigPlanet, a Media Molecule, lançaram um pacote de expansão baseado em Guns of the Patriots em 23 de dezembro de 2008. Ele inclui skins de personagens para Old Snake, Raiden, Meryl e Screaming Mantis, além de um conjunto de fases com temática de Metal Gear.",
+        "Em outubro de 2011, a Konami e a Hasbro produziram uma versão especial de Risk com tema de Guns of the Patriots, com peças baseadas nos vários personagens do jogo e um mapa de batalha baseado em Outer Haven. Os personagens do jogo também podem ser usados como aliados especiais. Uma novelização de Guns of the Patriots, escrita por Project Itoh, foi publicada pela Kadokawa Shoten no Japão no dia do lançamento do jogo. Uma tradução para o inglês do romance foi publicada na América do Norte em junho de 2012."
+      ]
+    },
+    {
+      "id": "mgs4/reception",
+      "ordem": 13,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Recepção",
+      "paragrafos": []
+    },
+    {
+      "id": "mgs4/reception/critical-reception",
+      "ordem": 14,
+      "nivel": 3,
+      "pai": "mgs4/reception",
+      "titulo": "Recepção da crítica",
+      "paragrafos": [
+        "Metal Gear Solid 4 recebeu aclamação universal, segundo o agregador de avaliações Metacritic. A primeira análise foi uma nota 10/10 da PlayStation Official Magazine – UK, que comentou: “MGS4 muda de marcha constantemente, inovando sempre”. O jogo recebeu 10/10 da Game Informer, além de nota máxima em todas as categorias (gráficos, controle, som e diversão) da GamePro, da Famitsu (40/40) e da Empire. O jogo recebeu 9,9/10 da IGN Reino Unido, 9,5/10 da IGN Austrália e 10/10 da IGN EUA. A IGN foi citada em uma análise em vídeo, dizendo que ele é “um dos melhores jogos já feitos”. A Edge e a Eurogamer deram 8/10 ao jogo. A GameSpot deu nota 10/10, afirmando que “Metal Gear Solid 4: Guns of the Patriots é o videogame tecnicamente mais impressionante já feito”, tornando Guns of the Patriots um dos apenas cinco jogos a receber nota perfeita tanto da IGN quanto da GameSpot, e o sexto entre apenas nove jogos a receber nota dez da GameSpot no geral. A IGN também incluiu o jogo na 59ª posição de sua lista dos 100 Melhores Jogos de uma Geração.",
+        "Os críticos aplaudiram a forma como o título conclui a série. A Eurogamer afirmou: “Você não poderia pedir uma conclusão mais engraçada, inteligente, ambiciosa, inspirada ou exagerada”, e a IGN considerou que o resultado “refina a fórmula de MGS e introduz ideias novas (ou respeitosamente influenciadas) o suficiente para que ele se sustente como jogo por conta própria”. A Edge concluiu que “é fiel aos seus fãs, à sua premissa e ao seu coração, entregando uma experiência que, de muitas maneiras, não tem igual”, enquanto a IGN Reino Unido o descreveu simplesmente como “o Metal Gear definitivo” e “uma jornada de descoberta deslumbrante e que aquece o coração”. O jogo também foi descrito como incomumente triste e deprimente para um videogame. O Kotaku disse: “Metal Gear Solid 4 é tão incomum por ser um dos raros jogos que pedem que o público se interesse por outra coisa: uma marcha rumo à derrota, uma tragédia interativa.”",
+        "O novo esquema de controle (“o equilíbrio ideal entre intuitividade e alcance”), o sistema de camuflagem e a mudança para uma jogabilidade mais livre e rejogável, em especial o sistema de Drebin Points e as alternativas ao jogo furtivo, foram particularmente elogiados, com poucas irritações menores. A variedade de sequências marcantes, detalhes como o medidor de Psyche e a generosa quantidade de segredos também foram destacados. A Eurogamer moderou seus elogios gerais com a preocupação de que um dos capítulos pudesse provocar tédio, mas que o jogo logo se recuperava, enquanto a Edge expressou leve decepção por a Beauty and the Beast Unit ser pouco comparável aos principais inimigos do título anterior, a Cobra Unit.",
+        "O jogo foi elogiado por suas conquistas tecnológicas e artísticas. A Edge descreveu o personagem Otacon como “a verdadeira estrela” e “uma revolução nos games”, além de considerar a trilha sonora do jogo superior à de muitas produções de Hollywood. A revista considerou que as poucas deficiências visuais, como os detalhes de textura, não diminuíam a qualidade geral do jogo. A IGN Reino Unido comentou que a atenção aos detalhes em visuais e áudio representava “brilhantismo sublime” e destacou inovações como o uso extensivo de tela dividida em algumas cenas cinematográficas.",
+        "As críticas ao jogo se concentraram principalmente na história, que os analistas consideraram às vezes confusa ou mal executada, e a IGN Reino Unido recomendou que os jogadores revisitassem os títulos anteriores para entender melhor. O resultado geral foi elogiado como emocionalmente envolvente e atual, e personagens como Liquid Ocelot foram destacados pela qualidade de sua representação. De modo geral, reconheceu-se que, embora o uso de cenas cinematográficas fosse mais intrusivo do que precisava ser, compondo “cerca de metade do conteúdo do jogo” segundo uma estimativa, e que “pode fazer você desejar ação, ou se perguntar por que elas não poderiam ter sido transformadas em sequências interativas”, o estilo era, de certa forma, adequado ao restante da série (“de muitas maneiras, é uma comprovação da interpretação única de Kojima sobre o videogame como meio”) e improvável de incomodar os fãs. A adição de uma função de pausa para essas sequências narrativas foi universalmente bem recebida.",
+        "A Edge e a Eurogamer concluíram que, embora o jogo represente uma apoteose do estilo da série, ele acaba não conseguindo revitalizá-la e não conquistaria novos fãs. A IGN Reino Unido temia que o hype e os elogios generalizados ao jogo pudessem levar à decepção, mas considerou que ele era uma “obra-prima”."
+      ]
+    },
+    {
+      "id": "mgs4/reception/review-restrictions",
+      "ordem": 15,
+      "nivel": 3,
+      "pai": "mgs4/reception",
+      "titulo": "Restrições de análise",
+      "paragrafos": [
+        "Várias publicações comentaram sobre as limitações impostas pela Konami aos analistas antes do lançamento, incluindo discussões sobre a duração das cenas cinematográficas e o tamanho da instalação no PlayStation 3. Essas limitações fizeram a Electronic Gaming Monthly adiar sua análise. No lugar dela, a revista publicou uma mesa-redonda sobre o jogo. O porta-voz da Kojima Productions, Ryan Payton, explicou depois, de forma mais específica, o que o acordo de confidencialidade (NDA) restringe, e reconheceu que “alguns itens estão desatualizados e exigem mais explicação”. Ele também citou a duração dos tempos de instalação, observando que as restrições tinham o objetivo de evitar spoilers sobre o que acontece durante as instalações.",
+        "Após essa declaração, o site de games GameSpot publicou uma postagem em seu blog em que afirmava que também não poderia analisar o jogo, alegando que a Konami havia retido o código de análise por descumprimento das limitações. O artigo sugeria originalmente que a ausência de análise se devia à recusa da GameSpot em participar do evento Boot Camp no escritório da Kojima Productions. Depois, foi revisado para afirmar que o Boot Camp era um exercício de feedback e relações públicas durante o desenvolvimento, e que, em nenhum caso, levaria a uma análise.",
+        "No dia anterior ao fim das restrições da Konami, o analista Jeremy Parish, da Electronic Gaming Monthly (EGM), esclareceu os motivos do embargo de análise autoimposto, desfazendo rumores de um desentendimento entre a Konami e a EGM sobre as condições da análise, em um longo comentário no blog. Sua análise do jogo apareceu no site pouco depois."
+      ]
+    },
+    {
+      "id": "mgs4/reception/sales",
+      "ordem": 16,
+      "nivel": 3,
+      "pai": "mgs4/reception",
+      "titulo": "Vendas",
+      "paragrafos": [
+        "Segundo a Konami, foram enviadas mais de 3 milhões de unidades do jogo no mundo todo no dia de seu lançamento. Segundo a Enterbrain, Guns of the Patriots vendeu 476.334 cópias em seus primeiros quatro dias à venda no Japão, incluindo cópias empacotadas com o PlayStation 3, e causou um aumento nas vendas do console. O PlayStation 3, que na época vendia cerca de 10.000 unidades por semana, passou a vender 77.208 unidades na semana de estreia do jogo. Foi o 11º jogo mais vendido do Japão em 2008, com 686.254 cópias. Segundo a Chart-Track, o jogo é o segundo título de PlayStation 3 que mais vendeu rápido no Reino Unido, atrás de Grand Theft Auto IV, e ficou 14.000 cópias abaixo do desempenho do fim de semana de estreia de Metal Gear Solid 2: Sons of Liberty, registrado em 2002. As vendas do PlayStation 3 aumentaram um “mínimo” de 7% em relação ao fim de semana de estreia. A Konami informou que Guns of the Patriots vendeu mais de um milhão de cópias na Europa em sua primeira semana, com 25.000 cópias da edição limitada “esgotadas quase imediatamente”.",
+        "O jogo recebeu um prêmio de vendas Platinum da Entertainment and Leisure Software Publishers Association, indicando vendas de pelo menos 300.000 cópias no Reino Unido. Nos Estados Unidos, foi o jogo mais vendido de junho de 2008, com 774.600 cópias (quase um milhão se incluídas as cópias empacotadas com o console PlayStation 3), e fez as vendas de consoles dobrarem em relação ao mês anterior, segundo o NPD Group. Tornou-se um dos videogames mais vendidos do PlayStation 3 e foi o exclusivo do console mais vendido até o lançamento de Gran Turismo 5. Como resultado, Guns of the Patriots faz parte da faixa Platinum/Greatest Hits dos jogos mais vendidos, ajudou a aumentar as vendas da franquia Metal Gear e contribuiu para os lucros recordes da Konami entre 2008 e 2010. Em 21 de maio de 2014, Ryan Payton, ex-funcionário da Kojima Productions que trabalhou em Metal Gear Solid 4, afirmou que o jogo havia vendido 6 milhões de cópias."
+      ]
+    },
+    {
+      "id": "mgs4/reception/awards",
+      "ordem": 17,
+      "nivel": 3,
+      "pai": "mgs4/reception",
+      "titulo": "Prêmios",
+      "paragrafos": [
+        "Após a aclamação da crítica no lançamento, Guns of the Patriots conquistou muitos prêmios de Jogo do Ano de veículos internacionais, entre eles GameSpot, Gamezine e PALGN, além de um número significativo de prêmios escolhidos pelos leitores e de prêmios voltados à narrativa, aos aspectos gráficos e à dublagem. A GameSpot elogiou muito o jogo e lhe concedeu “Jogo do Ano”, “Melhor Jogo de PS3”, “Melhores Gráficos (Técnicos)”, “Melhores Chefes”, “Melhor História”, “Melhor Dublagem”, “Momento Mais Memorável” e “Melhor Jogo de Ação-Aventura”. A IGN concedeu “Melhor Jogo de PS3 de 2008”, “Melhor Tecnologia Gráfica”, “Melhor Trilha Sonora Original” e “Melhor Jogo de Ação”. A PALGN concedeu “Jogo do Ano”, “Jogo do Ano de PS3” e “Melhores Visuais”. A PC World o consagrou com “Jogo do Ano”. A Playfire lhe concedeu “Jogo do Ano”, “Melhor Jogo de Ação-Aventura” e “Melhores Gráficos”. Também venceu como “Jogo do Ano” pela Eurogamer de Portugal. No NeoGAF, recebeu “Jogo do Ano”. O site alemão 4PLAYER.de lhe deu “Jogo do Ano”. A GamePro concedeu “Melhor Jogo de PS3 de 2008” e “Melhor Jogo de Ação-Aventura”. A 1UP.com lhe deu “Jogo do Ano”, “Melhor Jogo de PS3”, “Melhor Jogo de Ação” e “Melhor Experiência Audiovisual”. O Fox News Channel concedeu ao jogo “Melhor Jogo de PS3 de 2008” e “Melhor Jogo de 2008”. A GameSpy lhe concedeu “Melhor Jogo de Ação de PS3”. Pela Gamezine, venceu “Jogo do Ano” e “Melhor Jogo de PS3”. A Giant Bomb lhe deu “Melhor Jogo Exclusivo de PS3”, “Melhores Gráficos” e “Sequência Mais Satisfatória”. Nos prêmios Golden Joystick 2008, recebeu “Melhor Jogo de PS3”. Na Tokyo Game Show 2009, recebeu o Grande Prêmio (junto com Mario Kart Wii) e o Prêmio de Excelência. Os leitores da PlayStation Official Magazine – UK o elegeram o 5º melhor título lançado para PlayStation.",
+        "Na 12ª edição anual dos Interactive Achievement Awards, a Academy of Interactive Arts & Sciences concedeu a Guns of the Patriots o prêmio de “Excelência em Composição Musical Original”, além de indicações para “Jogo do Ano Geral”, “Jogo do Ano para Console” e nas categorias de “Animação”, “Atuação de Personagem” (Old Snake), “Direção de Jogo” e “Engenharia Visual”."
+      ]
+    }
+  ],
+  "idioma": "pt-BR",
+  "revisado": false,
+  "traduzidoEm": "2026-10-18"
+}

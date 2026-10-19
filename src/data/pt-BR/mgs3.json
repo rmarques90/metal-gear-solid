@@ -1,0 +1,268 @@
+{
+  "jogo": {
+    "id": "mgs3",
+    "titulo": "Metal Gear Solid 3: Snake Eater",
+    "anoLancamento": 2004
+  },
+  "fonte": {
+    "url": "https://en.wikipedia.org/api/rest_v1/page/html/Metal%20Gear%20Solid%203%3A%20Snake%20Eater",
+    "dataColeta": "2026-10-19",
+    "licenca": "CC BY-SA 4.0"
+  },
+  "secoes": [
+    {
+      "id": "mgs3/introducao",
+      "ordem": 0,
+      "nivel": 0,
+      "pai": null,
+      "titulo": "Metal Gear Solid 3: Snake Eater",
+      "paragrafos": [
+        "Metal Gear Solid 3: Snake Eater é um jogo de ação-aventura de furtividade lançado em 2004, desenvolvido e distribuído pela Konami para o PlayStation 2. Escrito, produzido e dirigido por Hideo Kojima, o jogo é a quinta parcela principal da série Metal Gear e a primeira em ordem cronológica, servindo de prequela para toda a série. Ambientada em 1964, a história gira em torno do agente da FOX conhecido pelo codinome Naked Snake, que tenta resgatar o cientista de foguetes russo Nikolai Sokolov, sabotar a superarma experimental Shagohod e assassinar seu antigo mentor, que desertou, The Boss. Enquanto os jogos anteriores se passavam principalmente em ambientes urbanos, Metal Gear Solid 3 adota um cenário de selva soviética dos anos 1960. Vários elementos de jogabilidade novos foram acrescentados para combinar com o cenário, destacando-se a camuflagem, um novo sistema de combate CQC, um medidor de vigor que pode ser recuperado comendo alimentos encontrados pelo caminho, e um sistema de ferimentos e tratamento.",
+        "Inicialmente, o jogo deveria ser desenvolvido para o PlayStation 3, mas Kojima transferiu o desenvolvimento para o PlayStation 2 por causa da longa espera pelo console. O cenário de selva foi difícil de desenvolver, exigindo um novo motor de colisão e o corte de funcionalidades planejadas. Harry Gregson-Williams e Norihiko Hibino voltaram de Metal Gear Solid 2: Sons of Liberty (2001) para compor a trilha sonora, e Hibino escreveu o tema de abertura do jogo, \"Snake Eater\". O jogo foi lançado no final de 2004 na América do Norte e no Japão, e no início de 2005 na Europa e na Austrália. Uma edição expandida, intitulada Metal Gear Solid 3: Subsistence, foi lançada no Japão no final de 2005, e depois na América do Norte, na Europa e na Austrália em 2006; essa versão acrescentou, em especial, uma câmera em terceira pessoa ao jogo principal e o componente multijogador online Metal Gear Online.",
+        "Metal Gear Solid 3 recebeu aclamação da crítica, com muitos considerando-o uma melhoria em relação a Sons of Liberty. Os críticos elogiaram a narrativa, os personagens, os elementos de sobrevivência e os gráficos, mas algumas das novas mecânicas de jogabilidade e o sistema de câmera ultrapassado receberam uma recepção mais mista; a versão Subsistence, lançada depois, seria elogiada por corrigir esses problemas. O jogo também foi um sucesso comercial, vendendo mais de quatro milhões de cópias no mundo todo, e desde então é considerado um dos melhores videogames de todos os tempos. Uma sequência numerada, Metal Gear Solid 4: Guns of the Patriots, foi lançada em 2008, enquanto uma sequência narrativa, Metal Gear Solid: Peace Walker, saiu em 2010. Um remaster foi incluído na Metal Gear Solid HD Collection (2011), que foi relançada na compilação Metal Gear Solid: Master Collection Vol. 1 (2023). Um remake, Metal Gear Solid Delta: Snake Eater, foi lançado em 2025."
+      ]
+    },
+    {
+      "id": "mgs3/gameplay",
+      "ordem": 1,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Jogabilidade",
+      "paragrafos": [
+        "A jogabilidade de Snake Eater é semelhante à dos jogos anteriores da série Metal Gear Solid. Snake, controlado pelo jogador, precisa se mover sem ser detectado em um ambiente hostil e cheio de inimigos. Embora Snake consiga diversas armas (de pistolas a lança-granadas), a ênfase está no uso da furtividade para evitar confrontos. Muitos objetos e equipamentos podem ser encontrados pelo caminho para ajudar nisso, incluindo detectores de movimento para rastrear soldados inimigos e a caixa de papelão, marca registrada da série Metal Gear, sob a qual Snake pode se esconder para não ser visto.",
+        "Apesar das semelhanças fundamentais, Snake Eater introduz muitos aspectos de jogabilidade inexistentes nos jogos anteriores de Metal Gear, incluindo a camuflagem, um novo sistema de combate corpo a corpo chamado \"close quarters combat\" ou \"CQC\", um medidor de vigor e um sistema de ferimentos e tratamento.",
+        "Dois terços do jogo se passam ao ar livre, em uma floresta tropical soviética, e usar o ambiente da melhor forma possível costuma ser a chave para o sucesso. Entre as novidades, a ênfase especial recai sobre a camuflagem e sobre o uso da própria selva para evitar ser visto pelo inimigo (por exemplo, subindo em árvores ou se escondendo na grama alta). O radar avançado dos jogos anteriores foi removido em favor de um detector de movimento e de um sistema de sonar mais simples e adequados ao cenário do jogo.",
+        "Um valor percentual chamado \"índice de camuflagem\" mede a exposição de Snake, em uma escala que vai de valores negativos (muito visível e que atrai atenção) até 100% (totalmente invisível para o inimigo). Para minimizar a visibilidade, o jogador precisa trocar entre diferentes uniformes de camuflagem e pinturas faciais para se misturar ao ambiente; por exemplo, vestir um uniforme com padrão de casca de árvore ao se encostar em uma árvore, ou usar pintura facial listrada ao se esconder na grama alta. Outros recursos de camuflagem, como uma cabeça falsa de gavial para diminuir as chances de ser detectado na água, ou uma máscara de macaco, também estão disponíveis.",
+        "O combate corpo a corpo básico dos títulos anteriores foi bastante refinado e expandido no sistema CQC. Desarmado ou usando uma arma de uma mão, Snake pode agarrar oponentes e prendê-los em um estrangulamento, momento em que diversas ações podem ser executadas, como estrangular o inimigo até desmaiar, jogar o guarda no chão, cortar a garganta do inimigo ou interrogá-lo sob a ameaça de uma faca para obter informações. O contexto, a pressão aplicada ao botão e o movimento do analógico determinam a ação realizada.",
+        "Enquanto os jogos anteriores usavam apenas uma barra de vida simples, Snake Eater acompanha os ferimentos em todo o corpo. Por exemplo, uma queda longa pode fraturar a perna de Snake, reduzindo sua vida máxima até que a lesão se cure sozinha com o tempo ou seja curada instantaneamente com um tratamento usando tala e bandagem.",
+        "Além dos recursos mencionados, também é preciso depender da flora e da fauna nativas para sobreviver. Isso se manifesta no medidor de vigor, que se esgota continuamente durante o jogo. Não recuperar o medidor comendo tem efeitos prejudiciais, como reduzir a capacidade de Snake de mirar sua arma e fazer com que os inimigos o ouçam por causa do ronco alto de seu estômago. A comida pode ser guardada na mochila até ser necessária. No entanto, alguns tipos de alimento apodrecem com o tempo, e consumir comida estragada pode fazer Snake ter dor de estômago, o que acelera o esgotamento do medidor de vigor.",
+        "A versão para PlayStation 2 de Snake Eater inclui um minijogo intitulado \"Snake vs. Monkey\", um crossover com a série Ape Escape, da Sony Computer Entertainment, em que Snake precisa capturar macacos. Além do humor irônico associado às duas séries, itens bônus utilizáveis no jogo principal podem ser desbloqueados ao avançar pelas diversas fases."
+      ]
+    },
+    {
+      "id": "mgs3/synopsis",
+      "ordem": 2,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Sinopse",
+      "paragrafos": []
+    },
+    {
+      "id": "mgs3/synopsis/setting",
+      "ordem": 3,
+      "nivel": 3,
+      "pai": "mgs3/synopsis",
+      "titulo": "Cenário",
+      "paragrafos": [
+        "Snake Eater se passa em uma história alternativa, ambientada na Guerra Fria durante os anos 1960. A história do jogo funciona como uma prequela de toda a série Metal Gear, explorando as origens de diversos eventos abordados nos jogos anteriores, além de ser o primeiro capítulo cronológico de uma história maior que acompanha Big Boss."
+      ]
+    },
+    {
+      "id": "mgs3/synopsis/characters",
+      "ordem": 4,
+      "nivel": 3,
+      "pai": "mgs3/synopsis",
+      "titulo": "Personagens",
+      "paragrafos": [
+        "O protagonista de Snake Eater, Naked Snake (David Hayter/Akio Ōtsuka), conhecido como Big Boss nos jogos seguintes, é um jovem ex-boina verde designado para a unidade FOX da CIA. Durante a missão, Snake é auxiliado pelos outros membros da FOX pelo rádio: Major Zero (Jim Piddock/Banjō Ginga), comandante da FOX e ex-integrante do Special Air Service (SAS) britânico, que fornece a Snake conselhos de missão e táticas de batalha; Para-Medic (Heather Halley/Houko Kuwashima), que fornece informações médicas, bem como conselhos sobre flora e fauna; e Sigint (James C. Mathis III/Keiji Fujiwara), que fornece informações sobre armas e equipamentos.",
+        "Os dois principais antagonistas do jogo são Colonel Volgin (Neil Ross/Kenji Utsumi), um coronel do GRU capaz de controlar eletricidade e membro da extremista facção Brezhnev, que tenta derrubar Nikita Khrushchev para dar o poder a Leonid Brezhnev e Alexei Kosygin; e The Boss (Lori Alan/Kikuko Inoue), antiga mentora de Naked Snake e cofundadora da unidade FOX. A Cobra Unit, uma unidade de forças especiais liderada por The Boss, é composta por The End (J. Grant Albrecht/Osamu Saka), um veterano e respeitado atirador de elite creditado como o \"pai do tiro de precisão moderno\"; The Fear (Michael Bell/Kazumi Tanaka), que possui flexibilidade e agilidade sobrenaturais; The Fury (Richard Doyle/Masato Hirano), um ex-cosmonauta desfigurado armado com lança-chamas e um jetpack; The Pain (Gregg Berger/Hisao Egawa), que consegue controlar vespas para se defender e atacar seus inimigos; e The Sorrow (David Thomas/Yukitoshi Hori), o espírito de um médium falecido.",
+        "Outros personagens incluem o Dr. Sokolov (Brian Cummings/Naoki Tatsuta), um cientista de foguetes que Snake deve resgatar; o cientista rival Aleksandr Granin (Jim Ward/Takeshi Aono); EVA (Jodi Benson/Misa Watanabe), interesse amoroso de Snake, desertora americana e agente da KGB enviada para auxiliá-lo; e um jovem Ocelot (Josh Keaton/Takumi Yamazaki), comandante da elite Ocelot Unit dentro do GRU de Volgin."
+      ]
+    },
+    {
+      "id": "mgs3/synopsis/plot",
+      "ordem": 5,
+      "nivel": 3,
+      "pai": "mgs3/synopsis",
+      "titulo": "Enredo",
+      "paragrafos": [
+        "Em 1964, o agente da CIA Naked Snake é enviado a Tselinoyarsk, na URSS, em uma operação conhecida como \"Virtuous Mission\". Auxiliado por seu superior, Major Zero, pela conselheira médica Para-Medic e por seu antigo mentor, The Boss, Snake recebe a missão de resgatar o cientista soviético Dr. Nikolai Sokolov, um destacado desenvolvedor de armas que desertou dois anos antes, até que os russos obrigaram o governo dos Estados Unidos a devolvê-lo para encerrar a Crise dos Mísseis de Cuba. Zero informa a Snake que, após seu retorno, a CIA recebeu informações de que Sokolov fora encarregado de um projeto militar secreto para criar um tanque com armamento nuclear chamado Shagohod, que poderia pôr fim à Guerra Fria. Embora Snake localize o cientista, a missão desmorona quando The Boss aparece diante dele e anuncia sua intenção de desertar para a URSS. Enquanto sua unidade de forças especiais, os Cobras, recaptura Sokolov para o novo benfeitor deles, o oficial russo Colonel Volgin, The Boss derrota Snake em combate corpo a corpo, ferindo-o e deixando-o por morto. Volgin captura rapidamente o Shagohod, que estava sendo testado na região, e usa um projétil nuclear Davy Crockett fornecido por The Boss para destruir o centro de pesquisa e encobrir o roubo. Snake, ferido, é recuperado por meio de uma extração Fulton, momentos depois da explosão nuclear.",
+        "Após a destruição, a União Soviética acusa os Estados Unidos do ataque, depois de detectar suas aeronaves sobre Tselinoyarsk. Para evitar uma guerra nuclear, o primeiro-ministro soviético Nikita Khrushchev, que suspeita do envolvimento de Volgin, concorda em permitir que o presidente Lyndon B. Johnson prove a inocência dos EUA. Snake, que se vê designado por Zero para auxiliar nesse processo, recebe a ordem de completar a \"Operation Snake Eater\", que compreende três objetivos: deter a facção de Volgin; destruir o Shagohod; e eliminar The Boss. Reenviado a Tselinoyarsk para cumprir essas exigências, Snake é primeiro encaminhado para se encontrar com o agente da NSA ADAM, que desertou para a União Soviética a fim de se infiltrar nas fileiras de Volgin junto com a agente EVA; em vez disso, Snake é recebido e auxiliado por EVA, que o direciona a um laboratório onde Sokolov foi levado. Snake sobrevive a encontros com Ocelot e elimina The Pain, um dos Cobras. Ele chega ao laboratório e encontra o cientista soviético Granin, cuja concepção de um tanque bípede foi preterida em favor do Shagohod. Desanimado, Granin revela que Sokolov e o Shagohod estão localizados na fortaleza militar de Volgin, Groznyj Grad. Snake elimina os membros restantes dos Cobras: The Fear, The End e The Fury. Em Groznyj Grad, Snake encontra Sokolov, mas é capturado. Depois de matar Granin, um Volgin desconfiado espanca Sokolov até a morte e tortura Snake, que perde um olho ao proteger uma EVA disfarçada de Ocelot, depois de suspeitar que ela era uma espiã. Snake é preso, mas escapa.",
+        "Snake retorna a Groznyj Grad para destruir o Shagohod, mas é confrontado por Volgin, The Boss e Ocelot, que descobriram que EVA é a espiã. Volgin informa Snake sobre os Philosophers, uma organização secreta formada pelas figuras mais poderosas dos Estados Unidos, da União Soviética e da China, que firmaram um pacto para vencer a Segunda Guerra Mundial e criar uma nova ordem mundial. O grupo reuniu conjuntamente 100 bilhões de dólares, o Legado dos Filósofos, para financiar suas pesquisas e operações. No entanto, após a guerra, a organização começou a se fragmentar em disputas internas e se desintegrou, e o Legado foi dividido e escondido em bancos ao redor do mundo. Volgin herdara esse dinheiro de forma ilegal, e Snake descobre que os EUA estão tentando recuperá-lo. Snake derrota Volgin e destrói o hangar, mas Volgin persegue no Shagohod. Snake desativa o Shagohod e Volgin aparentemente é morto por um raio. Snake e EVA fogem para um lago, onde um WIG está escondido. Antes de escaparem, Snake confronta The Boss e a derrota em combate. The Boss entrega a ele um microfilme do Legado e, depois, Snake, relutantemente, a mata.",
+        "Snake e EVA fogem para o Alasca e passam a noite juntos. Antes do amanhecer, EVA desaparece com o microfilme e deixa uma fita revelando que é uma espiã chinesa enviada para roubar o Legado para a China. Ela também revela que The Boss não desertou, mas recebeu ordem de se infiltrar nas fileiras de Volgin e encontrar o Legado para levá-lo de volta aos Estados Unidos. No entanto, por causa do ataque nuclear de Volgin, The Boss precisou ser vista como traidora e morrer pelas mãos de Snake para provar a inocência dos EUA.",
+        "Um Snake desmoralizado recebe o título de Big Boss e a Cruz do Serviço Distinto do presidente Johnson. No Cemitério Nacional de Arlington, Snake enfeita a lápide sem nome de The Boss e a saúda, emocionado.",
+        "Ocelot telefona para o diretor-chefe da KGB para sugerir que a KGB use o conhecimento das missões Virtuous e Operation Snake Eater para chantagear os Estados Unidos em futuras negociações. Em seguida, Ocelot informa ao diretor da CIA que o microfilme roubado por EVA era falso e que metade do Legado dos Filósofos está agora nas mãos da América, enquanto a outra metade está com a KGB, revelando-se como ADAM."
+      ]
+    },
+    {
+      "id": "mgs3/synopsis/themes",
+      "ordem": 6,
+      "nivel": 3,
+      "pai": "mgs3/synopsis",
+      "titulo": "Temas",
+      "paragrafos": [
+        "O tema central de Metal Gear Solid 3 é a \"Scene\", que diz respeito à forma como a política muda com o tempo e o lugar. A técnica narrativa da hiper-realidade é usada, o que envolve mesclar ficção e história. O jogo faz isso ao entrelaçar eventos e pessoas históricas, como a Crise dos Mísseis de Cuba, o presidente Lyndon B. Johnson e Nikita Khrushchev, com elementos ficcionais próprios."
+      ]
+    },
+    {
+      "id": "mgs3/development",
+      "ordem": 7,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Desenvolvimento",
+      "paragrafos": [
+        "Inicialmente, o jogo deveria ser desenvolvido para o então futuro PlayStation 3, mas, por causa da longa espera pelo console, o desenvolvimento foi transferido para o PlayStation 2. Desde o início, o diretor do jogo, Hideo Kojima, queria mudar drasticamente o cenário em relação aos jogos anteriores. Ele afirmou que o cenário de selva era o que tanto sua equipe de desenvolvimento quanto os fãs de Metal Gear queriam. No entanto, reconheceu que os elementos de um ambiente de selva, como o clima, a paisagem e a vida selvagem, seriam características que apresentariam problemas durante o desenvolvimento. Enquanto nos títulos anteriores o jogador começava perto da base inimiga, ou até dentro dela, Kojima queria que Snake Eater fosse mais realista, com Snake começando a quilômetros da civilização e tendo de chegar ao acampamento inimigo por conta própria.",
+        "Kojima pediu a Yoji Shinkawa que fizesse Naked Snake parecido com Solid Snake. No entanto, ao contrário de Solid Snake, Naked Snake era um novato e, por isso, agia de forma mais ingênua. Shinkawa afirmou não ter tido dificuldades em desenhar Naked Snake, essencialmente, como uma versão revisada de Solid Snake. Como resultado, Naked Snake é praticamente idêntico a Solid Snake dos jogos anteriores de Metal Gear Solid no que diz respeito à aparência. A cena de amor entre Naked Snake e EVA foi inspirada no filme The Pink Panther (1963). Kojima e Shinkawa assistiram ao filme, mas o primeiro afirmou que a cena poderia ter saído diferente da versão original. Como os trailers do jogo não diziam que Naked Snake era Big Boss, Kojima frequentemente dava respostas vagas sobre a verdadeira identidade do personagem. Originalmente, Naked Snake deveria ser dublado por Kurt Russell, a pedido de Kojima, mas o ator recusou. Russell confirmou em janeiro de 2024 que, embora entendesse que Naked Snake foi inspirado em Snake Plissken, personagem que ele interpretou no filme Escape from New York, de 1981, não tinha interesse em reprisar papéis nem em trabalhar em um projeto que não envolvesse o diretor de cinema John Carpenter.",
+        "Kojima comentou que o ambiente externo era um desafio para criar. Ele explicou que a razão de os jogos anteriores se passarem principalmente em ambientes internos é que os consoles da época não eram poderosos o bastante para representar uma verdadeira selva. Em contraste com ambientes urbanos, a selva não tem uma superfície plana. O protagonista de Snake Eater precisa atravessar um terreno irregular, com pedras, montes de terra e tocos de árvore. Como resultado, o motor de colisão usado nos títulos anteriores não pôde ser aproveitado, e um novo precisou ser construído do zero. Configurar a tecnologia de captura de movimento para que os jogadores pudessem andar sobre esses montes foi um problema durante o desenvolvimento. Muitos fãs queriam que Snake Eater usasse uma câmera 3D, mas isso acabou não sendo implementado no jogo. Kojima considera Metal Gear Solid, Sons of Liberty e Snake Eater uma trilogia e desejava manter a câmera igual à dos dois anteriores, para preservar a sensação dos três jogos, apesar da tendência crescente de movimentação de câmera totalmente 3D.",
+        "Kojima projetou as batalhas contra chefes de Snake Eater para serem totalmente diferentes das de jogos anteriores de Metal Gear, ou de quaisquer outros jogos. Ele disse que a batalha contra o atirador de elite The End representava melhor a jogabilidade livre e aberta do jogo. A batalha acontece em uma grande área de selva densa, e o jogador precisa procurar extensamente por The End, que ataca a longa distância de uma posição desconhecida. Esse combate de desgaste pode durar horas e contrasta com outros confrontos com chefes, nos quais o inimigo está bem à frente do jogador e visível o tempo todo. Além disso, o jogador pode evitar essa batalha por completo ao matar The End mais cedo no jogo, ou salvar e sair durante o combate, aguardar uma semana (ou simplesmente avançar o relógio interno do console) e recarregar o jogo para descobrir que The End morreu de velhice. Kojima comentou que recursos como esse não aparecem em outros jogos."
+      ]
+    },
+    {
+      "id": "mgs3/development/music",
+      "ordem": 8,
+      "nivel": 3,
+      "pai": "mgs3/development",
+      "titulo": "Música",
+      "paragrafos": [
+        "A trilha sonora de Snake Eater foi composta por Harry Gregson-Williams e Norihiko Hibino, que forneceram material tanto para as cenas cinematográficas quanto para o próprio jogo. Hibino escreveu o tema de abertura do jogo, \"Snake Eater\", uma faixa vocal com um estilo claramente inspirado em James Bond, que também aparece no jogo e foi interpretada por Cynthia Harrell. A compositora e letrista Rika Muranaka forneceu uma canção intitulada \"Don't Be Afraid\", tocada durante o final do jogo. A música é interpretada por Elisa Fiorillo.",
+        "Rompendo com a tradição, um dos temas de encerramento do jogo não foi uma produção interna, mas \"Way To Fall\", da Starsailor. Hideo Kojima revelou mais tarde em seu blog que originalmente queria usar \"Space Oddity\" e \"Ashes to Ashes\" (de David Bowie) como temas de encerramento, por causa do tema de desenvolvimento espacial do jogo, mas, durante o desenvolvimento, esse tema perdeu seu significado. Um de seus colegas então o aconselhou a ouvir o Stellastarr, mas Kojima entendeu Starsailor. Ele gostou da música \"Way To Fall\" e a escolheu como tema de encerramento."
+      ]
+    },
+    {
+      "id": "mgs3/release",
+      "ordem": 9,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Lançamento",
+      "paragrafos": [
+        "Snake Eater foi lançado primeiro na América do Norte; o lançamento japonês foi adiado por quase um mês. A versão japonesa trazia vários padrões de camuflagem adicionais para download que não estavam disponíveis na versão norte-americana, alguns dos quais só podiam ser baixados com dados de CDs de trilha sonora relacionados a Metal Gear Solid 3. Uma edição limitada \"premium package\" de Snake Eater foi lançada junto com a versão padrão no Japão. O pacote premium vem com um DVD que reúne todos os trailers promocionais exibidos antes do lançamento do jogo (incluindo um vídeo de prova de conceito exibido internamente na Konami), dois livretos e uma miniatura pintada à mão, na escala 1/144, do Shagohod. Um CD especial de edição limitada foi distribuído a quem fez pré-venda da versão japonesa de Snake Eater, contendo várias faixas da trilha sonora do jogo, além de protetores de tela para computador e camuflagens extras para o jogo principal. O pacote de pré-venda permitia que usuários de celular acessassem um site especial com downloads de imagens e músicas.",
+        "Para o lançamento europeu, a Konami acrescentou vários recursos novos, incluindo a configuração de dificuldade \"European Extreme\", um \"demo theater\" que permite ao jogador rever todas as cenas cinematográficas a qualquer momento depois de tê-las visto uma vez durante o jogo principal, e um Duel Mode, em que o jogador pode repetir batalhas contra chefes do jogo principal. Também foram incluídas pinturas faciais extras baseadas nas bandeiras europeias e duas novas fases de \"Snake vs. Monkey\". A maioria das camuflagens disponíveis para download na versão japonesa também foi lançada para a versão europeia, com poucas exceções.",
+        "Em julho de 2007, a Konami relançou todos os jogos principais de Metal Gear Solid do PlayStation e do PlayStation 2, junto com o jogo de PSP Metal Gear Solid: Portable Ops, tanto individualmente quanto como parte de uma caixa de edição limitada no Japão, em comemoração aos 20 anos do Metal Gear original. Essa edição de Metal Gear Solid 3 traz o primeiro disco da versão Subsistence e um novo segundo disco com versões adaptadas dos jogos MSX2 Metal Gear e Solid Snake, sem o Metal Gear Online (devido à desativação de seus servidores), além de todo o outro conteúdo presente no segundo disco original de Subsistence (Snake vs. Monkey, Duel Mode e Secret Theater). Uma caixa semelhante foi lançada para o mercado norte-americano em março de 2008, intitulada Metal Gear Solid: The Essential Collection, que inclui o primeiro disco de Metal Gear Solid 3: Subsistence junto com o Metal Gear Solid original e Metal Gear Solid 2: Substance, mas não tem o segundo disco com os jogos MSX2 da edição japonesa de 20º aniversário."
+      ]
+    },
+    {
+      "id": "mgs3/release/subsistence",
+      "ordem": 10,
+      "nivel": 3,
+      "pai": "mgs3/release",
+      "titulo": "Subsistence",
+      "paragrafos": [
+        "Metal Gear Solid 3: Subsistence foi lançado no Japão em 22 de dezembro de 2005, depois na América do Norte em 14 de março de 2006, na Europa em 6 de outubro de 2006 e na Austrália em 13 de outubro de 2006. Subsistence segue a tradição da série Metal Gear Solid de lançar versões expandidas posteriores. Enquanto lançamentos anteriores, como Metal Gear Solid: Integral e Metal Gear Solid 2: Substance, incluíam missões de desafio de habilidade e/ou missões paralelas da história, Subsistence dispensa as missões extras para um jogador e inclui versões adaptadas da versão MSX2 do Metal Gear original e de sua sequência, Metal Gear 2: Solid Snake (esta última localizada oficialmente pela primeira vez); o Metal Gear Online, um componente multijogador online; e uma câmera totalmente 3D, controlada pelo usuário, no jogo principal. Por causa de todo o conteúdo adicional, a edição Subsistence foi dividida em dois discos: o primeiro contém apenas o jogo principal (incluindo o visualizador de cenas cinematográficas), enquanto o segundo traz o modo multijogador online e todo o restante do conteúdo complementar.",
+        "O Metal Gear Online consiste em cinco modos de jogo no estilo torneio, cada um com capacidade para até oito jogadores. Esse modo coloca os jogadores, cada um controlando um soldado genérico, uns contra os outros em batalhas de mata-mata e variações de captura a bandeira, usando fases, itens, manobras e unidades (como a KGB, o GRU ou a Ocelot Unit) do jogo principal. Dependendo das configurações do servidor, a cada rodada o jogador com maior pontuação em cada unidade assume automaticamente o papel de um dos personagens principais (ou de Reiko Hinomoto, de Rumble Roses), com habilidades e/ou itens exclusivos. Por exemplo, o jogador com maior pontuação na equipe do GRU assumiria o papel do Major Raikov, líder do GRU, na rodada seguinte. O serviço Metal Gear Online da Konami para o PlayStation 2 foi encerrado no Japão em 26 de dezembro de 2006, seguido pelo encerramento na América do Norte em 2 de abril de 2007 e na Europa em 30 de outubro de 2007, embora uma comunidade de fãs o tenha revivido emulando os servidores. Como observado acima, o modo online, depois que um dos jogadores desbloqueia um codinome animal, também permitia jogar como Reiko Hinomoto ou Rowdy Reiko, de Rumble Roses (dependendo de o jogador estar na equipe vermelha ou na azul, respectivamente). Segundo o criador da série Metal Gear, Hideo Kojima, ele incluiu os personagens no jogo como segredos em parte por oportunidade: Kojima havia recebido antes uma proposta do produtor de Rumble Roses, Akari Uchida, para fazer um crossover entre Metal Gear e Rumble Roses. No entanto, a equipe de desenvolvimento de Metal Gear da época recusou-se a trabalhar com eles. Kojima acabou aceitando a proposta ao decidir quais seriam os personagens secretos do modo online de Subsistence, para amarrar as pontas soltas. Ele também admitiu que considerou oferecer a Tomonobu Itagaki, na época produtor da série de jogos de luta da Tecmo, Dead or Alive, a oportunidade de usar um de seus personagens como personagem secreto.",
+        "Além das versões anteriores e do modo online, Subsistence inclui vários recursos introduzidos nos lançamentos japonês e europeu. Ele inclui os designs extras de camuflagem e pinturas faciais para download e as fases de \"Snake vs. Monkey\", antes exclusivas da versão europeia, a dificuldade European Extreme, cenas cinematográficas paródicas e trailers do site oficial, além de conectividade com Metal Gear Acid 2. A versão japonesa também inclui um URL para um site oculto que permite baixar o OtaClock, um programa de relógio para PC e Mac que apresenta Otacon, personagem recorrente da série Metal Gear Solid. Esse site agora está disponível publicamente.",
+        "As edições \"Limited Edition\" de Subsistence também incluem Existence, as cenas cinematográficas do jogo editadas em um longa-metragem de três horas e meia, com cenas adicionais e som remasterizado. A embalagem \"Limited Edition\" norte-americana estava disponível apenas para consumidores que a pré-encomendaram antes do lançamento do jogo. A edição de três discos é a versão padrão de Subsistence na Europa, para compensar seu lançamento posterior na região.",
+        "Um documentário em DVD bônus intitulado Metal Gear Saga Vol. 1 foi incluído nas pré-vendas de Subsistence na América do Norte e na reedição europeia Platinum de Snake Eater, lançada na Alemanha em 23 de março de 2006. O disco inclui uma reportagem de cinco partes, de 30 minutos, sobre toda a série Metal Gear, intercalada com uma entrevista de Hideo Kojima, além de trailers de vários jogos atuais de Metal Gear.",
+        "Subsistence recebeu notas de críticas ligeiramente mais altas do que o Snake Eater original, com média de 94% no Metacritic. Os críticos comentaram que a introdução da câmera 3D eliminou o \"único problema de primeira linha\" e deixou a jogabilidade \"menos restritiva e mais natural\". O modo online é considerado \"impressionante para um jogo de PS2\", embora \"... as convenções de jogabilidade distintivas do jogo não se adaptem totalmente à experiência de ação online.\" Subsistence recebeu o prêmio de \"melhor jogo online\" da IGN para PlayStation 2 em dezembro de 2006."
+      ]
+    },
+    {
+      "id": "mgs3/release/hd-edition",
+      "ordem": 11,
+      "nivel": 3,
+      "pai": "mgs3/release",
+      "titulo": "Edição HD",
+      "paragrafos": [
+        "Metal Gear Solid 3: Snake Eater - HD Edition foi lançado para os consoles PlayStation 3 e Xbox 360 no final de 2011. Foi lançado como parte da Metal Gear Solid HD Collection, além de ser vendido como download digital na PlayStation Network e na Xbox Live Arcade. As versões para PlayStation 3 e Xbox 360 rodam em resolução de 720p e têm como meta uma taxa de 60 quadros por segundo, em comparação com o máximo de 30 FPS da versão para PlayStation 2. A proporção de tela também foi ampliada, da apresentação 4:3 do original para a resolução 16:9, mais larga, o que dá aos jogadores uma visão mais ampla do ambiente. A Edição HD inclui parte do conteúdo da versão Subsistence, como a câmera em terceira pessoa e o demo theater, mas não tem o modo multijogador online nem o minijogo \"Snake vs. Monkey\" (por causa do lançamento desta versão também no Xbox 360). Os jogos originais de Metal Gear também estão incluídos nessa versão, acessíveis pelo menu principal. Uma versão para PlayStation Vita da Metal Gear Solid HD Collection foi lançada em junho de 2012, incluindo Metal Gear Solid 2 e 3; nesta versão de Metal Gear Solid 3, os controles por toque são limitados para aproveitar a tela sensível ao toque do Vita e, em comparação com a versão para PlayStation 2, a taxa de quadros é mais constante, em 30 FPS, com menos rasgos de imagem."
+      ]
+    },
+    {
+      "id": "mgs3/release/snake-eater-3d",
+      "ordem": 12,
+      "nivel": 3,
+      "pai": "mgs3/release",
+      "titulo": "Snake Eater 3D",
+      "paragrafos": [
+        "Na Electronic Entertainment Expo de 2010, a Konami exibiu uma demonstração técnica para o Nintendo 3DS intitulada Metal Gear Solid 3D: Snake Eater – The Naked Sample. O subtítulo da demonstração, \"The Naked Sample\", pretendia transmitir seu propósito de ser apenas uma amostra do hardware do 3DS, sem planos de colocar um jogo em produção naquele momento. O produtor da série, Hideo Kojima, afirmou na época que, se um jogo de Metal Gear para o 3DS fosse realmente feito, consideraria alguns elementos do título para PlayStation Portable Metal Gear Solid: Peace Walker, incluindo seu sistema de jogabilidade cooperativa. Mais tarde, em 2010, a Konami anunciou um jogo completo de Metal Gear para o 3DS, revelado na Nintendo World 2011 como Metal Gear Solid: Snake Eater 3D. Ele foi lançado em 21 de fevereiro de 2012 na América do Norte e em 8 de março de 2012 no mundo todo.",
+        "Por causa da interface limitada do 3DS e para aproveitar a tela sensível ao toque, a versão 3D tem controles próprios em comparação com outros jogos da série Metal Gear. Embora o jogo tenha sido muito criticado por essas mudanças, o uso do acessório Circle Pad Pro tem sido citado como um recurso que alivia muitos dos problemas de controle do 3DS. Isso acontece ao restaurar a movimentação da câmera para o segundo analógico, adicionar os botões ZL e ZR para mirar e atacar, e permitir que os botões frontais sejam usados de maneira mais alinhada com todos os outros lançamentos da série Metal Gear.",
+        "A versão 3D também tem algumas diferenças opcionais dentro do jogo que afetam a jogabilidade, como a visão concisa em terceira pessoa por cima do ombro e a adição de andar agachado. Atirar nessa visão substitui a mira de cruz aberta pela mira direta pelo cano da visão padrão em primeira pessoa. Esse método de mira pode parecer menos preciso, mas permite uma margem de erro maior. A versão 3D utiliza o giroscópio do console 3DS, que serve para manter o equilíbrio ao andar em uma ponte ou ficar sobre galhos de árvores. O sistema de camuflagem também foi atualizado, permitindo que o jogador use a câmera do 3DS para criar um padrão de camuflagem personalizado. A versão adaptada apresenta inúmeras melhorias gráficas em relação à versão original para PlayStation 2, como modelos de personagens melhores e a adição de normal mapping. Apesar disso, a taxa de quadros foi criticada por ficar muito abaixo das outras versões de Snake Eater. Snake Eater 3D recebeu críticas positivas, com média de 78/100 no Metacritic com base em 46 avaliações."
+      ]
+    },
+    {
+      "id": "mgs3/release/master-collection",
+      "ordem": 13,
+      "nivel": 3,
+      "pai": "mgs3/release",
+      "titulo": "Master Collection",
+      "paragrafos": [
+        "Uma versão aprimorada de Metal Gear Solid 3: Snake Eater - HD Edition foi lançada para PlayStation 4, PlayStation 5, Xbox Series X|S, Nintendo Switch e Steam em 2023. Essa versão abandona o sufixo \"HD Edition\" no título e inclui um Digital Screenplay Book, bem como um Digital Master Book. No Nintendo Switch, o jogo roda em 720p a 30 FPS no modo portátil e em 1080p a 30 FPS no modo TV. Nas demais plataformas, o jogo roda em 1080p a 60 FPS."
+      ]
+    },
+    {
+      "id": "mgs3/release/remake",
+      "ordem": 14,
+      "nivel": 3,
+      "pai": "mgs3/release",
+      "titulo": "Remake",
+      "paragrafos": [
+        "Um remake de Metal Gear Solid 3, intitulado Metal Gear Solid Delta: Snake Eater, foi desenvolvido pela Konami com apoio da Virtuos. Delta foi anunciado durante a PlayStation Showcase de maio de 2023 e lançado em 28 de agosto de 2025 para PlayStation 5, Windows e Xbox Series X/S."
+      ]
+    },
+    {
+      "id": "mgs3/related-media",
+      "ordem": 15,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Mídias relacionadas",
+      "paragrafos": []
+    },
+    {
+      "id": "mgs3/related-media/novel",
+      "ordem": 16,
+      "nivel": 3,
+      "pai": "mgs3/related-media",
+      "titulo": "Romance",
+      "paragrafos": [
+        "Uma novelização de Metal Gear Solid: Snake Eater, escrita por Satoshi Hase, foi publicada pela Kadokawa Shoten no Japão em 25 de janeiro de 2014."
+      ]
+    },
+    {
+      "id": "mgs3/related-media/pachislot",
+      "ordem": 17,
+      "nivel": 3,
+      "pai": "mgs3/related-media",
+      "titulo": "Pachislot",
+      "paragrafos": [
+        "A KPE, subsidiária de entretenimento para salões da Konami, anunciou uma adaptação de Metal Gear Solid 3: Snake Eater para pachislot. Ela roda em um novo tipo de gabinete chamado \"Big Boss\", que apresenta um monitor LCD de 32 polegadas em Full HD cobrindo sua superfície frontal. Cenas do jogo original foram refeitas em CGI atualizado para mostrar as capacidades de vídeo de alto nível do gabinete. A máquina foi oficialmente distribuída em 17 de outubro de 2016 para diversos salões em todo o Japão."
+      ]
+    },
+    {
+      "id": "mgs3/reception",
+      "ordem": 18,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Recepção",
+      "paragrafos": [
+        "Snake Eater foi um sucesso comercial, vendendo 2,38 milhões de unidades na Ásia e nas Américas até dezembro de 2004, e 3,6 milhões de cópias no mundo todo até agosto de 2005. Esse número foi consideravelmente menor que o de Metal Gear Solid 2: Sons of Liberty, que vendeu 7 milhões de cópias. As vendas de Snake Eater subiram para mais de 3,7 milhões de unidades até setembro de 2005, e para mais de quatro milhões de unidades no mundo todo até março de 2010. No Japão, Subsistence vendeu 133.339 cópias e Snake Eater 3D vendeu 79.284 cópias."
+      ]
+    },
+    {
+      "id": "mgs3/reception/critical-reception",
+      "ordem": 19,
+      "nivel": 3,
+      "pai": "mgs3/reception",
+      "titulo": "Recepção da crítica",
+      "paragrafos": [
+        "Metal Gear Solid 3: Snake Eater recebeu \"aclamação universal\", segundo o agregador de avaliações Metacritic. O site de jogos IGN deu nota 9,6/10 e a Edge deu nota 8/10. A GameSpot, que lhe atribuiu nota 8,7/10, comentou que o jogo é \"ricamente cinematográfico\" e \"uma grande conquista\". A GameSpy o classificou como \"provavelmente o melhor Metal Gear Solid até agora\", e a Eurogamer o chamou de \"esmagadoramente superior a MGS2: Sons of Liberty\" em sua análise.",
+        "Os críticos ficaram satisfeitos com o novo protagonista, Naked Snake, muito parecido com o protagonista da série, Solid Snake, depois que os fãs ficaram decepcionados com Raiden em MGS2. Alguns críticos, que consideravam os diálogos longos e a infinidade de reviravoltas de Sons of Liberty prejudiciais à experiência de jogo, acharam a história de Snake Eater uma agradável homenagem ao Metal Gear Solid original, com menos da \"baboseira filosófica\" presente em Sons of Liberty. A GameTrailers deu ao jogo original nota 9/10, destacando a melhora nos gráficos, na jogabilidade e na história em relação aos dois jogos anteriores, mas criticou a câmera e os tempos mortos entre as cenas cinematográficas.",
+        "Os revisores tiveram opiniões divididas sobre o sistema de camuflagem do jogo. A Edge comentou que \"deitar-se camuflado na grama baixa, a centímetros de um inimigo em patrulha, é uma reviravolta envolvente na furtividade\", enquanto a GameSpy o criticou por ser \"apenas um número para monitorar, e não um muito interessante\". Entre as diversas novidades, a GameSpot o considerou \"o mais importante e melhor implementado\". O jogo também foi criticado pela baixa taxa de quadros, reduzida para 30 quadros por segundo (em comparação com 60 quadros por segundo em Sons of Liberty). Outros revisores criticaram a câmera, que a IGN classificou como \"ultrapassada\" e a Eurogamer como \"desajustada\".",
+        "As cenas cinematográficas de Snake Eater foram chamadas pela Edge de \"visualmente empolgantes e evocativas, lindamente filmadas\". No entanto, a revista comentou que o roteiro \"vai de desajeitado a péssimo\" e criticou a atuação de David Hayter como Snake, concluindo que \"o discurso de Snake Eater não está à altura de outros jogos, muito menos do cinema.\" A GameSpot afirmou que parte do humor \"não tem graça, como se tivesse se perdido na tradução do japonês\" e que \"deve agradar... fãs hardcore, mas... tira você do momento.\""
+      ]
+    },
+    {
+      "id": "mgs3/reception/awards",
+      "ordem": 20,
+      "nivel": 3,
+      "pai": "mgs3/reception",
+      "titulo": "Prêmios",
+      "paragrafos": [
+        "Desde o lançamento, em 2004, o jogo recebeu inúmeros prêmios. Entre os mais notáveis estão Melhor Jogo de Ação Geral, Melhor História Geral e Melhor Uso de Som no PS2 nos prêmios Best of 2004 da IGN, e Melhor História, Melhores Efeitos Sonoros e Melhor Personagem Novo nos prêmios Game of the Year 2004 da GameSpot. Ficou como finalista nas categorias Melhor Jogo de Ação-Aventura, Melhores Gráficos, Artísticos e Melhor Trilha Sonora Original da GameSpot.",
+        "Na 9ª edição do CESA Game Awards, o jogo foi um dos premiados com o Prêmio de Excelência. O tema de Snake Eater venceu o prêmio de Melhor Canção Vocal Original - Pop, da Game Audio Network Guild Awards, na Game Developers Conference de agosto de 2005, enquanto o jogo em si ganhou o prêmio de Melhor Jogo de PS2 na Game Convention de 2005, na Alemanha. Na 8ª edição anual dos Interactive Achievement Awards (hoje conhecidos como D.I.C.E. Awards), Metal Gear Solid 3: Snake Eater foi indicado nas categorias \"Console Action/Adventure Game of the Year\" e \"Outstanding Achievement in Character Performance - Male\", pela atuação vocal de David Hayter como Naked Snake."
+      ]
+    },
+    {
+      "id": "mgs3/legacy",
+      "ordem": 21,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Legado",
+      "paragrafos": [
+        "Snake Eater foi desenvolvido como uma prequela de toda a série Metal Gear e foi seguido por várias sequências diretas: Metal Gear Solid: Portable Ops, Metal Gear Solid: Peace Walker, Metal Gear Solid V: Ground Zeroes e Metal Gear Solid V: The Phantom Pain. Em 2011, Kojima revelou que chegou a cogitar a ideia de um Metal Gear Solid 5 ambientado na invasão da Normandia durante a Segunda Guerra Mundial, com a ajuda de The Boss e da Cobra Unit na luta. No entanto, a equipe hesitou diante de um projeto tão grande, e Kojima depois sentiu que \"simplesmente jogar o MGS5 nos membros mais jovens da equipe era um pouco pesado.\" Embora o final de Metal Gear Solid 3 revele que Naked Snake recebeu o título de Big Boss, Kojima afirmou que \"ele ainda não é realmente o Big Boss\". Com Metal Gear Solid: Peace Walker, ele quis explicar como Naked Snake se tornou o homem que apareceu nos jogos Metal Gear originais como inimigo de Solid Snake.",
+        "O jogo já foi listado em diversas listas de \"melhores\" de publicações de videogames. Em 2009, a IGN colocou Subsistence em 3º lugar em sua lista \"The Top 25 PS2 Games of All Time\". A GamePro incluiu Snake Eater e Subsistence em 8º lugar em sua lista \"The 36 Best PS2 Games\", em 2010. No mesmo ano, a IGN classificou Snake Eater em 2º lugar em sua lista \"Top 100 PlayStation 2 Games\", e afirmou que o jogo tinha \"a melhor história da franquia\". Em 2013, a GamesRadar colocou o jogo em 22º lugar em sua lista \"The 100 Best Games of All Time\". No mesmo ano, a história do jogo ficou em 10º lugar na lista \"The Best Videogame Stories Ever\", da GamesRadar. Em 2015, o jogo ficou em 2º lugar na lista \"The 15 Best Games Since 2000\", da USgamer.",
+        "Em certo momento do jogo, o jogador precisa escalar uma escada extremamente alta por aproximadamente três minutos enquanto \"Snake Eater\" toca ao fundo. Essa sequência foi citada como um dos momentos mais memoráveis da série, além de um exemplo de metaficção que destaca a linearidade dos videogames. Desde então, tornou-se um meme bem conhecido, com jogadores chamando atenção para escadas muito longas ou criando-as em outros jogos, como Starfield."
+      ]
+    }
+  ],
+  "idioma": "pt-BR",
+  "revisado": false,
+  "traduzidoEm": "2026-10-18"
+}

@@ -1,0 +1,70 @@
+{
+  "app": {
+    "nome": "Guia Metal Gear Solid"
+  },
+  "nav": {
+    "inicio": "Início",
+    "timeline": "Linha do tempo",
+    "favoritos": "Favoritos",
+    "idioma": "Idioma",
+    "creditos": "Créditos",
+    "sobre": "Sobre"
+  },
+  "home": {
+    "titulo": "Metal Gear Solid",
+    "subtitulo": "A história de cada jogo, seção por seção.",
+    "abrir": "Abrir guia",
+    "resumo": "Um guia interativo sobre a história dos quatro primeiros jogos da série Metal Gear Solid. Leia cada seção, salve as favoritas no seu navegador e acompanhe os principais acontecimentos da narrativa na linha do tempo."
+  },
+  "jogo": {
+    "naoEncontrado": "Jogo não encontrado.",
+    "sumario": "Sumário",
+    "traducaoIndisponivel": "Esta seção ainda não foi traduzida. Exibindo o original em inglês.",
+    "recolher": "Recolher seção",
+    "expandir": "Expandir seção",
+    "resumo": "Resumo",
+    "resumoFechar": "Fechar",
+    "semResumo": "Esta seção não tem texto para resumir."
+  },
+  "favoritos": {
+    "titulo": "Seus favoritos",
+    "vazio": "Você ainda não salvou nenhuma seção.",
+    "remover": "Remover dos favoritos",
+    "verSecao": "Ver na seção"
+  },
+  "timeline": {
+    "titulo": "Linha do tempo",
+    "play": "Reproduzir",
+    "pausar": "Pausar",
+    "anterior": "Anterior",
+    "proximo": "Próximo",
+    "anoHistoria": "história",
+    "verSecao": "Ver na seção",
+    "descricao": "Esta linha do tempo reúne os principais acontecimentos do enredo dos quatro primeiros Metal Gear Solid, na ordem em que acontecem na história (e não na ordem de lançamento). Clique em um ponto, use as setas do teclado ou reproduza automaticamente. Cada evento leva à seção correspondente do guia."
+  },
+  "erro": {
+    "paginaNaoEncontrada": "Página não encontrada.",
+    "voltarInicio": "Voltar ao início"
+  },
+  "rodape": {
+    "creditos": "Créditos",
+    "criadoEm": "Criado em {ano}"
+  },
+  "creditos": {
+    "titulo": "Créditos",
+    "textos": "Textos",
+    "textosDescricao": "O conteúdo dos jogos é adaptado de artigos da Wikipédia em inglês, sob licença CC BY-SA 4.0. As traduções para português são derivadas desses textos e seguem a mesma licença.",
+    "imagens": "Imagens",
+    "imagensDescricao": "Capas e screenshots pertencem às respectivas detentoras de direitos. Os arquivos são exibidos com crédito ao arquivo original da Wikipédia.",
+    "coletadoEm": "Coletado em",
+    "licenca": "Licença",
+    "icone": "Ícone: Solid Snake, Wikipedia (en) — SolidSnakerendercollection1.png"
+  },
+  "sobre": {
+    "titulo": "Sobre o site",
+    "oQue": "Este site reúne a história de Metal Gear Solid, Metal Gear Solid 2: Sons of Liberty, Metal Gear Solid 3: Snake Eater e Metal Gear Solid 4: Guns of the Patriots, organizada por seção. Você pode ler cada jogo, salvar as seções favoritas (guardadas no seu navegador) e acompanhar os eventos do enredo na linha do tempo, com avanço automático ou manual.",
+    "fonte": "O conteúdo dos jogos é adaptado de artigos da Wikipédia em inglês, publicados sob a licença CC BY-SA 4.0. As traduções para português são derivadas desses textos e seguem a mesma licença.",
+    "imagens": "Capas e screenshots pertencem às respectivas detentoras de direitos e são exibidas com crédito. Os créditos completos estão na página Créditos.",
+    "projeto": "Este é um projeto de fãs, sem vínculo com a Konami ou com Hideo Kojima."
+  }
+}

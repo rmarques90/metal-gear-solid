@@ -1,0 +1,299 @@
+{
+  "jogo": {
+    "id": "mgs2",
+    "titulo": "Metal Gear Solid 2: Sons of Liberty",
+    "anoLancamento": 2001
+  },
+  "fonte": {
+    "url": "https://en.wikipedia.org/api/rest_v1/page/html/Metal%20Gear%20Solid%202%3A%20Sons%20of%20Liberty",
+    "dataColeta": "2026-10-19",
+    "licenca": "CC BY-SA 4.0"
+  },
+  "idioma": "pt-BR",
+  "revisado": false,
+  "traduzidoEm": "2026-10-18",
+  "secoes": [
+    {
+      "id": "mgs2/introducao",
+      "ordem": 0,
+      "nivel": 0,
+      "pai": null,
+      "titulo": "Metal Gear Solid 2: Sons of Liberty",
+      "paragrafos": [
+        "Metal Gear Solid 2: Sons of Liberty é um jogo de ação-aventura e furtividade lançado em 2001, desenvolvido e distribuído pela Konami para o PlayStation 2. Dirigido, produzido, projetado e roteirizado por Hideo Kojima, é o quarto jogo principal da série Metal Gear e a sequência de Metal Gear Solid (1998). Dividido em dois capítulos, a seção de prólogo, “Tanker”, acompanha Solid Snake enquanto ele se infiltra em um navio-tanque sequestrado do Corpo de Fuzileiros Navais para obter provas de um novo mecha chamado Metal Gear RAY. A seção principal, “Plant”, gira em torno do agente novato da FOXHOUND Raiden, que se infiltra no Big Shell, uma enorme instalação offshore de limpeza ambiental tomada pelo grupo terrorista Sons of Liberty, que mantém o Presidente dos Estados Unidos como refém e ameaça destruir a instalação caso suas exigências não sejam atendidas. No entanto, os protagonistas logo descobrem uma conspiração capaz de abalar o mundo, construída por uma poderosa organização conhecida como Patriots, e o jogo explora temas como memética, engenharia social, inteligência artificial, realidade virtual e a luta interna pela liberdade de pensamento.",
+        "Desenvolvido ao longo de quatro anos por uma equipe de mais de 100 pessoas, Metal Gear Solid 2 traz muitas mecânicas de jogo inéditas em relação ao antecessor, incluindo ambientes de múltiplos níveis, IA de inimigos baseada em esquadrões e mira em primeira pessoa. Raiden foi mantido em segredo nos materiais de marketing, que mostravam e davam a entender que Solid Snake era o principal protagonista do jogo. A história passou por inúmeras mudanças, como um cenário inicial no Oriente Médio e revisões no desfecho em resposta aos ataques de 11 de setembro. Harry Gregson-Williams e Norihiko Hibino compuseram a trilha sonora. O jogo foi lançado em novembro de 2001 na América do Norte e no Japão, e em março de 2002 na Europa. Uma edição expandida, intitulada Metal Gear Solid 2: Substance, foi lançada no ano seguinte em cada região para PlayStation 2, Xbox e Windows.",
+        "Metal Gear Solid 2 recebeu aclamação por sua jogabilidade, seus gráficos e sua atenção aos detalhes. No entanto, a crítica inicialmente se dividiu quanto a Raiden e à natureza filosófica da história do jogo. O jogo foi um sucesso comercial, vendendo sete milhões de cópias até 2004. Desde então, é considerado um dos maiores videogames de todos os tempos, além de um exemplo de destaque da expressão artística nos games. Frequentemente, o jogo é visto como estando à frente de seu tempo por tratar de temas e conceitos como política pós-verdade, notícias falsas, fatos alternativos, mídia sintética e câmaras de eco, que se tornaram culturalmente relevantes em meados e no fim da década de 2010. Uma remasterização em alta definição foi lançada como parte da Metal Gear Solid HD Collection (2011), que foi relançada na Metal Gear Solid: Master Collection Vol. 1 (2023). Uma pré-sequência da série, Metal Gear Solid 3: Snake Eater, foi lançada em 2004, enquanto uma sequência direta, Metal Gear Solid 4: Guns of the Patriots, foi lançada em 2008."
+      ]
+    },
+    {
+      "id": "mgs2/gameplay",
+      "ordem": 1,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Jogabilidade",
+      "paragrafos": [
+        "Metal Gear Solid 2 traz o subtítulo de “Tactical Espionage Action”, e a maior parte do jogo consiste em o protagonista se esgueirar para não ser visto pelos inimigos. O mais fundamental é a gama mais ampla de habilidades oferecidas ao jogador. O modo de mira em primeira pessoa permite mirar em pontos específicos do jogo, ampliando bastante as opções táticas: guardas podem ser cegados por vapor, distraídos por uma fruta arremessada ou atingidos em pontos fracos. Os jogadores podem andar devagar, o que permite atravessar pisos barulhentos sem fazer ruído, ou pendurar-se em passarelas para passar por baixo dos pés dos guardas. O movimento de encostar-se na quina da parede, de Metal Gear Solid, que permitia espiar a próxima curva, foi expandido para permitir atirar a partir de cobertura. Outras habilidades incluíam pular e pendurar-se em corrimãos, abrir e se esconder em armários de armazenamento e se aproximar de inimigos por trás para ameaçá-los com uma arma e obter itens e munição. Os jogadores podem destruir o rádio do inimigo, impedindo-o de se comunicar com os colegas de equipe. O ambiente também tem impacto maior na jogabilidade furtiva, levando em conta fatores como clima, cheiro, atmosfera e temperatura.",
+        "Em Metal Gear Solid 2, os guardas inimigos recebem uma IA mais avançada “para evitar um desequilíbrio de poder” e, diferentemente de Metal Gear Solid original, atuam em esquadrões. Ao avistar o jogador, eles chamam por rádio uma equipe de ataque, depois tentam flanqueá-lo e cortar sua fuga, evitando os ataques do jogador. Com frequência, as equipes de ataque usam coletes balísticos e escudos antimotim, o que as torna uma ameaça maior. Mesmo que o jogador escape para um esconderijo, uma equipe vasculha a área para verificar. O jogo tem uma IA coletiva, em que os guardas trabalham juntos em esquadrões, podem se comunicar entre si e reagem de forma mais realista ao jogador. A IA dos inimigos foi considerada uma das melhores dos videogames por muitos anos.",
+        "O jogo expandiu a mecânica de cobertura de seu antecessor: Solid Snake ou Raiden podem se abrigar atrás de paredes ou objetos e surgir para atirar nos inimigos, enquanto a IA aprimorada permite que os inimigos também usem cobertura contra o personagem do jogador. Os inimigos frequentemente se abrigam para pedir reforços, mas, durante o combate, se escondem, surgem e atiram no jogador ou arremessam granadas às cegas de trás da cobertura. O jogo tem uma mecânica de mira a laser, em que um laser ajuda a mirar a arma manualmente. As batalhas contra chefes e as sequências cenográficas continuam sendo uma questão de encontrar uma estratégia que contorne as defesas do inimigo. No entanto, numa grande quebra com os padrões de jogos de ação, também é possível terminar o jogo inteiro, incluindo as lutas contra chefes, sem causar uma única morte deliberada, usando armas tranquilizantes, granadas de atordoamento e ataques corpo a corpo."
+      ]
+    },
+    {
+      "id": "mgs2/synopsis",
+      "ordem": 2,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Sinopse",
+      "paragrafos": []
+    },
+    {
+      "id": "mgs2/synopsis/setting",
+      "ordem": 3,
+      "nivel": 3,
+      "pai": "mgs2/synopsis",
+      "titulo": "Cenário",
+      "paragrafos": [
+        "Sons of Liberty se passa em uma história alternativa, na qual a Guerra Fria terminou no fim da década de 1990. A trama se concentra em duas narrativas que ocorrem na cidade de Nova York e em suas proximidades: a primeira em 2007, dois anos após os eventos de Metal Gear Solid; e a segunda em 2009. O enredo do jogo é o quarto capítulo de uma trama mais ampla que envolve o personagem Solid Snake."
+      ]
+    },
+    {
+      "id": "mgs2/synopsis/characters",
+      "ordem": 4,
+      "nivel": 3,
+      "pai": "mgs2/synopsis",
+      "titulo": "Personagens",
+      "paragrafos": [
+        "O protagonista principal de Metal Gear Solid 2 é um jovem agente novato chamado Raiden. Ele é apoiado por seu comandante, o Coronel, e por Rosemary, sua namorada. Os aliados que se unem à missão incluem o Tenente Júnior Iroquois Pliskin, um SEAL da Marinha de passado misterioso que fornece seu conhecimento sobre a instalação; Peter Stillman, especialista em desarme de bombas da NYPD; Otacon, especialista em segurança de computadores e amigo de Solid Snake; e um ninja ciborgue que imita a persona de Gray Fox, inicialmente chamando a si mesmo de Deepthroat e depois mudando seu nome para Mr. X.",
+        "Os antagonistas são os Sons of Liberty, um grupo de terroristas que assume o controle do Big Shell, instalação de limpeza ambiental na costa de Nova York, incluindo a unidade antiterrorista desgarrada Dead Cell e uma força de mercenários russos que patrulha a instalação. Os membros da Dead Cell são Vamp, um homem aparentemente imortal com atributos semelhantes aos de vampiros; Fatman, um homem corpulento com conhecimento excepcional sobre bombas; e Fortune, uma mulher cuja habilidade psíquica incontrolável impede que qualquer dano físico a atinja. O líder dos Sons of Liberty afirma ser Solid Snake, anteriormente declarado morto após um ataque terrorista, mas que depois se revela ser Solidus Snake, um terceiro clone do projeto “Les Enfants Terribles”. Auxiliam os Sons of Liberty Olga Gurlukovich, comandante dos mercenários russos, e Revolver Ocelot, um nacionalista russo desfavorecido e ex-agente da FOXHOUND, antigo inimigo de Solid Snake e capanga de Solidus Snake.",
+        "Outros personagens incluem Emma Emmerich, meia-irmã de Otacon e uma jovem prodígio da informática; Sergei Gurlukovich, antigo comandante de Ocelot e pai de Olga; o Presidente James Johnson, mantido refém pelos Sons of Liberty; e o agente da DIA Richard Ames. Liquid Snake retorna, aparentemente possuindo o corpo de Ocelot por meio de uma mão transplantada. O jogo também conta com participações especiais de Mei Ling, a especialista em comunicações que auxiliou Snake no primeiro jogo, e de Johnny Sasaki, o soldado azarado com problemas digestivos crônicos."
+      ]
+    },
+    {
+      "id": "mgs2/synopsis/plot",
+      "ordem": 5,
+      "nivel": 3,
+      "pai": "mgs2/synopsis",
+      "titulo": "Enredo",
+      "paragrafos": [
+        "Em 2007, Solid Snake se infiltra em um navio-tanque que navega pelo rio Hudson, na cidade de Nova York, transportando um novo modelo de Metal Gear, o RAY. O navio é sequestrado por um grupo de mercenários russos liderado pelo Coronel Sergei Gurlukovich, por sua filha Olga e por Ocelot. Ocelot trai seus aliados e afunda o navio na parte baixa do porto de Nova York. Ao ver Snake, Ocelot é possuído pela vontade de Liquid Snake e foge com o RAY.",
+        "Dois anos depois, Solid Snake foi incriminado como terrorista por suas ações, e uma instalação de limpeza ambiental chamada Big Shell foi erguida na parte baixa do porto de Nova York para limpar o derramamento de óleo causado pelo Incidente do Tanker.",
+        "Durante uma visita do Presidente dos Estados Unidos, James Johnson, um grupo terrorista conhecido como Sons of Liberty invade a instalação, sequestra Johnson e ameaça destruí-la caso suas exigências não sejam atendidas. O Coronel ordena que Raiden, da FOXHOUND, resgate os reféns e desarme os terroristas. Os sobreviventes de uma equipe de SEALs da Marinha enviada em resposta, Iroquois Pliskin (na verdade Solid Snake) e o especialista em explosivos Peter Stillman, ajudam Raiden a desativar bombas plantadas por Fatman por toda a instalação. No entanto, as bombas são uma isca que, depois de desarmadas, ativam uma bomba com temporizador, que explode e mata Stillman. Raiden mata Fatman e encontra um misterioso ninja ciborgue, que o ajuda com informações. Raiden e Pliskin combinam transportar os reféns para fora do Big Shell de helicóptero, mas são confrontados pelo líder da Dead Cell, que se identifica como Solid Snake e pilota um Harrier. Raiden abate o Harrier, mas “Solid Snake” escapa com o Metal Gear RAY roubado. Pliskin revela ser o verdadeiro Solid Snake e, junto com Otacon, ajuda a localizar Johnson.",
+        "Ao ser resgatado, Johnson revela a Raiden que o processo democrático dos Estados Unidos é apenas um drama orquestrado por uma organização conhecida como “os Patriots”, que controlam secretamente o país nas sombras. Além disso, ele revela que o Big Shell é uma fachada criada para esconder o Arsenal Gear, uma fortaleza móvel submersível que abriga uma IA chamada “GW”. Ele explica que o líder da Dead Cell é seu antecessor, George Sears, um clone de Big Boss conhecido como Solidus Snake, que, após romper com os Patriots, planeja tomar o Arsenal e derrubá-los. Johnson tenta fazer Raiden matá-lo para impedir que os Sons of Liberty realizem um ataque nuclear, mas Raiden se recusa; Ocelot então aparece e mata Johnson em seu lugar.",
+        "Raiden recebe então a missão de resgatar a programadora Emma Emmerich, meia-irmã de Otacon, que planeja enviar um vírus à GW para desativar o Arsenal. Antes que consiga encontrar Emma, Raiden é confrontado por Vamp, com quem luta e que aparentemente mata. Emma é resgatada, mas, antes que Raiden possa se reunir com Snake e Otacon, Vamp reaparece e esfaqueia Emma, sendo então baleado por Raiden. Emma envia o vírus, mas morre em decorrência dos ferimentos, e o vírus é interrompido prematuramente. Snake encarrega um Otacon abalado de resgatar os reféns e depois aparentemente trai Raiden, permitindo que ele seja capturado pelo ninja, revelado como Olga. O Big Shell desaba enquanto o Arsenal parte.",
+        "Raiden acorda no Arsenal diante de Solidus, que revela ter sido quem criou Raiden como soldado-criança durante a guerra civil liberiana. Solidus sai, e Olga liberta Raiden, explicando que é uma agente dupla dos Patriots, forçada a ajudar Raiden em troca da segurança de seu filho. Depois que o Coronel começa a agir de forma errática, Raiden descobre que ele era apenas uma construção da GW durante toda a missão, agora danificada pelo vírus. Rose confessa a Raiden que havia recebido ordens dos Patriots para se tornar sua amante e espioná-lo. Ela começa a contar que está grávida do filho dele, mas sua transmissão é interrompida de repente. Raiden encontra Snake, que havia ajudado Olga a capturar Raiden para que pudessem entrar no Arsenal. Fortune luta contra Snake, enquanto Raiden é forçado a combater os Metal Gear RAYs controlados pela IA. O vírus faz os RAYs funcionarem mal, e Olga se sacrifica para permitir que Raiden escape de Solidus.",
+        "Snake e Raiden são capturados e levados ao topo do Arsenal por Solidus, Fortune e Ocelot. Solidus revela que seu objetivo não era tomar o Arsenal, mas usar as informações contidas na GW para descobrir as verdadeiras identidades dos doze membros de maior escalão dos Patriots, conhecidos como o Comitê dos Sábios. No entanto, Ocelot revela ser um agente dos Patriots. Ele explica que todo o episódio foi um exercício chamado Solid Snake Simulation, ou Plano S3, cuidadosamente orquestrado pelos Patriots ao longo de vários anos com o objetivo de criar artificialmente um soldado (Raiden) à altura de Solid Snake, o que foi conseguido recriando o ambiente do Incidente de Shadow Moses. Ocelot mata Fortune antes de ser possuído novamente por Liquid Snake. Liquid explica que o braço direito decepado de Ocelot foi substituído pelo seu próprio e planeja caçar os Patriots usando o conhecimento de seu hospedeiro e o RAY roubado. Snake persegue Liquid enquanto o Arsenal perde o controle.",
+        "O Arsenal colide com Manhattan e para na Federal Hall. Raiden é contatado por uma IA que se passa pelo Coronel e por Rose. Ela afirma que a GW foi a única IA destruída e que, em vez de Solid Snake Simulation, o Plano S3 é na realidade um método conhecido como “Selection for Societal Sanity”. O verdadeiro propósito do Plano S3 é controlar o pensamento humano para evitar que a sociedade regrida na era digital, quando informações triviais afogam o conhecimento e a verdade, e o incidente do Big Shell foi, na verdade, um exercício destinado a testar sua eficácia sob circunstâncias extremas. Eles ordenam que Raiden elimine Solidus; a recusa resultará na morte do filho de Olga e de Rose. Raiden deixa Solidus mortalmente ferido, que se atira do telhado da Federal Hall e morre aos pés da estátua de George Washington.",
+        "Snake reaparece, tendo plantado um rastreador no RAY de Liquid. Ele diz a Raiden que ele e Otacon planejam resgatar o filho de Olga e localizar os Patriots, cujos detalhes estavam escondidos no disco do vírus GW. Raiden deseja se juntar aos dois, mas Snake recusa e vai embora. Em vez disso, Raiden reencontra a verdadeira Rose. Os dois se reconciliam, e Raiden a pede em casamento.",
+        "No epílogo, depois de decodificar o disco, Otacon e Snake descobrem que ele contém dados sobre todos os doze membros do Comitê dos Sábios; no entanto, os membros citados nos dados aparentemente estão mortos há cerca de 100 anos."
+      ]
+    },
+    {
+      "id": "mgs2/themes-and-analysis",
+      "ordem": 6,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Temas e análise",
+      "paragrafos": [
+        "Metal Gear Solid 2 é frequentemente considerado o primeiro exemplo de videogame pós-moderno e tem sido citado como um dos principais exemplos de expressão artística nos videogames. A história explora em detalhes muitos temas sociais, filosóficos e cyberpunk, incluindo teoria dos memes, engenharia social, sociologia, inteligência artificial, controle de informação, guerra de quinta geração, teorias da conspiração, manobras políticas e militares, evolução, existencialismo, censura, a natureza da realidade, a Era da Informação, realidade virtual, exploração infantil, temas LGBT e o dilema moral entre segurança e liberdade pessoal. Desde o lançamento, os temas do jogo foram estudados e analisados por inúmeros escritores, jornalistas e acadêmicos. MGS2, junto com seu antecessor, foi apresentado na exposição “The Art of Video Games”, do Smithsonian American Art Museum, em 2012.",
+        "Em seu artigo “How Videogames Express Ideas”, Matthew Weise, do Massachusetts Institute of Technology, descreveu Sons of Liberty como “talvez o exemplo mais vívido de um jogo que usa a tensão entre diferentes níveis de agência do jogador para alimentar um argumento ideológico multifacetado”, observou a sugestão de Solidus Snake de que os Estados Unidos seriam um “regime totalitário de controle do pensamento” e apontou o “conceito muito meta” de “como o plano ou caminho imposto pelo designer ao jogador corresponde à natureza tirânica do governo”, em que, “assim como o jogador, Jack não tem outra agência além daquela que seus marionetistas lhe dão”. No livro “Joystick Soldiers: The Politics of Play in Military Video Games”, Tanner Higgin examinou a “contra-história resistente e subversiva do engajamento militar” do jogo, descrevendo sua “narrativa complexa e lógicas de jogabilidade não convencionais” como uma “crítica” às “próprias redes de controle biopolítico e informacional que compõem o militar pós-moderno, e a pós-humanidade em geral”, e observando que ele “fabrica deliberadamente frustração e afeto negativo” para “evidenciar os códigos, convenções e prazeres ocultos, normalmente não examinados, do gênero de jogos militares”.",
+        "Steven Poole comentou em uma coluna da revista Edge, em 2012: “a história de MGS2, com sua sagacidade mítica e amplitude, ainda está em uma liga diferente da grande maioria das narrativas de videogames. ... Porém, o fato de MGS2 ainda parecer tão vanguardista hoje pode levantar uma preocupação: ele representa o ápice de uma era já desaparecida, a era do mainstream experimental? Afinal, tratava-se de um produto comercial de caixa, de grande orçamento, que assumia riscos com prazer e subvertia convenções de gênero a cada passo. Em comparação, os blockbusters modernos jogam de forma dolorosamente segura.” A Gamasutra observa que o jogo trata de questões relacionadas à Era da Informação e comparou seus temas às filosofias de Thomas Hobbes, Friedrich Nietzsche e Georg Wilhelm Friedrich Hegel. Os temas existenciais do jogo se alinham à filosofia política e às teses de Isaiah Berlin e Georg Wilhelm Friedrich Hegel, concentrando-se na luta entre liberdade e igualdade e no conceito de Berlin de “busca pelo ideal”, já que o conflito interno do jogador entre ideais é uma das principais forças motrizes do enredo.",
+        "O jogo é considerado à frente de seu tempo por tratar de temas e conceitos que se tornaram culturalmente relevantes na década de 2010. O jogo foi descrito como “profundo”, especialmente a cena de diálogo final entre Raiden e a IA que se passa pelo Coronel e por Rose. Em 2011, Dugan Patrick, da Gamasutra, traçou comparações com redes sociais e jogos sociais e constatou que o jogo previa elementos do Facebook, como permitir que “as pessoas censurem intencionalmente a própria experiência dentro dos muros autocurados do Facebook”. Em 2016, Alex Wiltshire, da Glixel, considerou o jogo “estranhamente premonitório não apenas de seu próprio tempo, mas também de hoje”, observando como ele fugia da “verdade a cada passo” e comparando-o à política pós-verdade, ao feed de notícias selecionado do Facebook e às eleições presidenciais dos Estados Unidos de 2016. Outras comparações foram feitas com conceitos que se tornaram mainstream durante a década de 2010, como notícias falsas, câmaras de eco e fatos alternativos. Segundo Cameron Kunzelman, da Vice, Metal Gear Solid 2 continua politicamente relevante em 2017. Em março de 2018, a GamesRadar traçou comparações com eventos políticos recentes, incluindo o escândalo de dados do Facebook–Cambridge Analytica e as investigações sobre a interferência russa nas eleições presidenciais dos Estados Unidos de 2016.",
+        "Em 2018, Adrian Mróz publicou um artigo no periódico acadêmico “Kultura i Historia”, em que a “ideia de Selection for Societal Sanity” do jogo é “aplicada a um marco filosófico baseado em conceitos selecionados dos escritos de Bernard Stiegler e incorporando-os a eventos atuais, como a pós-verdade ou as notícias falsas, a fim de explorar o papel da techne e da filtragem dentro das organizações sociais e das psiques individuais”. Ele observa que, apesar de ter sido lançado em uma era de dominância neoliberal, os temas do jogo ressoam com os acontecimentos atuais do fim da década de 2010, como a pós-verdade, o colapso do politicamente correto, a dissonância cognitiva e “o problema da filtragem dentro de uma sociedade inundada de informação”. A IGN afirmou que seu ato final, que “destrói a quarta parede”, levantou “uma série de questões aterrorizantes sobre a sobrecarga de dados na Era da Informação e como a tecnologia levou a uma definição cada vez mais instável” de “realidade”, e traçou comparações com deepfakes, aprendizado de máquina e guerra de informação."
+      ]
+    },
+    {
+      "id": "mgs2/development",
+      "ordem": 7,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Desenvolvimento",
+      "paragrafos": [
+        "O documento de design original do jogo, criado por Hideo Kojima, foi concluído em janeiro de 1999. O documento em japonês foi publicado pela Konami em 2002 e traduzido para o inglês em 2006. Ele menciona que o jogo originalmente se chamaria Metal Gear Solid III, para simbolizar os três arranha-céus mais altos de Manhattan. O documento descreve novas mecânicas e recursos, como corpos que precisam ser escondidos, inimigos capazes de detectar sombras, luzes em uma área que podem ser destruídas para afetar a visão dos inimigos, uma IA realista que se baseia em táticas de esquadrão em vez de agir individualmente, e ambientes de múltiplos níveis que acrescentam um elemento de “tensão vertical” à jogabilidade furtiva. Ele também descreve temas como a transmissão de memórias, questões ambientais e, em especial, temas sociais relativos à “digitalização dos militares”, às simulações digitais, à “digitalização do planejamento operacional”, à “digitalização da vida cotidiana” e aos “efeitos da digitalização sobre a personalidade”. O documento afirma que o “objetivo da história” envolve “uma série de traições e reviravoltas repentinas, a ponto de o jogador não conseguir distinguir fato de ficção” (em contraste com a “história muito clara e compreensível” de seu antecessor), que “todo personagem trai alguém uma vez”, borrando a linha entre “o que é real e o que é fantasia”, e “ironias voltadas à sociedade digital e à cultura dos games”.",
+        "O orçamento de produção do jogo foi de US$ 10 milhões, semelhante ao orçamento de um filme japonês de Godzilla. Kojima afirma que, ao “ouvir sobre o hardware do PlayStation 2”, ele “quis tentar algo novo. Até então, todas as cenas cinematográficas focavam mais em detalhes como expressões faciais, mas eu queria prestar mais atenção aos arredores, para ver quanto eu poderia alterá-los em tempo real”. O jogo esteve em desenvolvimento por quatro anos e mais de 100 pessoas trabalharam nele."
+      ]
+    },
+    {
+      "id": "mgs2/development/protagonist-switch",
+      "ordem": 8,
+      "nivel": 3,
+      "pai": "mgs2/development",
+      "titulo": "Troca de protagonista",
+      "paragrafos": [
+        "Em Metal Gear Solid 2, o protagonista já estabelecido, Solid Snake, só foi jogável na parte do prólogo. Um novo protagonista chamado Raiden o substituiria como personagem do jogador na parte principal. A decisão de introduzir um novo protagonista veio da ideia de retratar Solid Snake sob a perspectiva de outro personagem, mas também de contornar o dilema de escrever tutoriais de jogabilidade voltados a Snake, já que Kojima considerava que explicar procedimentos de missão e manuseio de armas a um soldado veterano como Snake pareceria artificial após três títulos principais. Raiden também foi deliberadamente projetado para atrair mais jogadores, depois que a equipe recebeu feedback de depuradores e testadores do primeiro jogo sobre “apenas caras rudes e de aparência velha nesses jogos”. A presença de Raiden foi mantida em segredo antes do lançamento, com trailers de pré-lançamento mostrando Snake em situações e batalhas que, no jogo publicado, aconteciam com Raiden, como uma batalha contra um Harrier na Ponte George Washington e um encontro com o novo Ninja Ciborgue dentro do navio-tanque."
+      ]
+    },
+    {
+      "id": "mgs2/development/plot-changes",
+      "ordem": 9,
+      "nivel": 3,
+      "pai": "mgs2/development",
+      "titulo": "Mudanças no enredo",
+      "paragrafos": [
+        "Segundo Kojima no documentário “Metal Gear Saga Vol. 1”, o enredo original do jogo girava em torno de inspeções de armas nucleares no Iraque e no Irã, e fazia com que Solid Snake tentasse impedir o Metal Gear, que estaria em um porta-aviões, dentro de um prazo determinado, enquanto tentava deter Liquid Snake e seu grupo. No entanto, cerca de seis meses após o início do projeto, a situação política no Oriente Médio tornou-se uma preocupação, e a equipe decidiu que não poderia fazer um jogo com aquele enredo. O navio-tanque do jogo lançado é baseado nesse enredo original.",
+        "Metal Gear Solid 2 também pretendia fazer referência ao romance “City of Glass”, principalmente nos nomes de seus personagens. A equipe de apoio de Raiden originalmente tinha um comandante de campo diferente, o Coronel Daniel Quinn; Maxine “Max” Work, uma mulher asiática que salva os dados do jogo e cita Shakespeare; e William “Doc” Wilson, o criador da GW. Todos eles tiram seus nomes de personagens-chave do livro, e os três acabariam se revelando IAs. Nenhum desses personagens sobreviveu à versão final, e seus papéis foram absorvidos por outros personagens, a saber, a simulação do “Coronel Campbell”, Rose e Emma Emmerich. Peter Stillman, no entanto, tira seu nome de outro personagem de “City of Glass”.",
+        "Um personagem chamado Chinaman, originalmente planejado como vilão, foi posteriormente omitido, e suas habilidades foram incorporadas a Vamp, como a capacidade de andar sobre água e paredes. Chinaman teria movimentos inspirados em Jet Li e uma tatuagem de dragão no corpo que ganharia vida assim que ele mergulhasse na água.",
+        "Mudanças significativas no final do jogo foram feitas no fim do desenvolvimento, após os ataques de 11 de setembro em Nova York, onde ocorre o desfecho. Uma sequência que mostrava o Arsenal Gear deslocando a Estátua da Liberdade e atravessando metade de Manhattan foi removida, assim como uma breve cena extra que apareceria após os créditos, um noticiário de última hora mostrando o novo local de repouso da Estátua da Liberdade, a Ellis Island. Outras cenas excluídas incluíam Solidus rasgando a bandeira da Bolsa de Valores de Nova York com sua espada durante a queda do Arsenal Gear e a queda dessa bandeira sobre seu corpo após sua morte, e as bandeiras americanas que deveriam estar em todos os mastros de Nova York foram removidas do título. A grafia japonesa do nome “Raiden” foi alterada de katakana (ライデン) para kanji (雷電), devido à semelhança da forma anterior do nome com “Bin Laden” em japonês."
+      ]
+    },
+    {
+      "id": "mgs2/development/music",
+      "ordem": 10,
+      "nivel": 3,
+      "pai": "mgs2/development",
+      "titulo": "Música",
+      "paragrafos": [
+        "A escolha do compositor de Metal Gear Solid 2 por Kojima foi bastante divulgada na reta final antes do lançamento do jogo. A intenção original era contar com o compositor de cinema Hans Zimmer, mas seu cachê era excepcionalmente alto. Kojima decidiu-se por Harry Gregson-Williams, outro compositor do estúdio de Zimmer, depois de assistir a “The Replacement Killers” com o diretor de som Kazuki Muraoka. Um CD com 18 faixas do trabalho de Gregson-Williams foi enviado ao seu escritório. Lisonjeado pela pesquisa feita para criar o CD (já que algumas faixas eram inéditas e algumas músicas que ele havia composto para certos filmes não estavam documentadas), ele entrou para o projeto logo em seguida.",
+        "Para contornar a barreira do idioma e permitir que a trilha fosse desenvolvida antes da finalização das cenas, Gregson-Williams recebeu pequenas frases ou descrições das ações pretendidas. Os temas resultantes moldaram, em troca, as sequências de ação. Gregson-Williams também arranjou e reorquestrou o “Metal Gear Solid Main Theme” original para uso na sequência de abertura do jogo.",
+        "Norihiko Hibino, que havia trabalhado em jogos anteriores da Konami, como Metal Gear: Ghost Babel, foi o responsável pela música dentro do jogo. Ele também trabalhou na maioria das cenas cinematográficas do jogo, reorquestrando a remixagem do “Main Theme” de Gregson-Williams para uso em várias sequências.",
+        "Assim como em Metal Gear Solid, a música das cenas cinematográficas inclui peças orquestrais e corais, enquanto a trilha dentro do jogo é ambiente. No entanto, a trilha como um todo incorpora mais elementos eletrônicos (especialmente breakbeat) do que seu antecessor, para refletir o impulso temático do enredo de uma sociedade dominada por máquinas. Rika Muranaka forneceu novamente o tema vocal de encerramento, uma faixa de jazz intitulada “Can't Say Goodbye to Yesterday”, interpretada por Carla White. A música do jogo foi lançada em quatro CDs: Metal Gear Solid 2: Sons of Liberty Original Soundtrack, Metal Gear Solid 2: Sons of Liberty Soundtrack 2: The Other Side, Metal Gear Solid 2: Substance Limited Sorter (Black Edition) e Metal Gear Solid 2: Substance Ultimate Sorter (White Edition).",
+        "O tema principal do jogo foi escolhido pela London Philharmonic Orchestra para sua coletânea Greatest Video Game Music, e o tema é um elemento recorrente no concerto Video Games Live, quando o segmento de Metal Gear Solid é apresentado. Um trecho do refrão principal da música está incluído na sequência de encerramento de Metal Gear Solid 3: Snake Eater."
+      ]
+    },
+    {
+      "id": "mgs2/release",
+      "ordem": 11,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Lançamento",
+      "paragrafos": [
+        "Ao contrário de Metal Gear Solid original, Sons of Liberty foi lançado primeiro na América do Norte, em 13 de novembro de 2001. Por causa do lançamento posterior na região, a troca de protagonista não foi mantida em segredo na versão japonesa nas semanas anteriores ao lançamento. Um evento de pré-lançamento foi realizado na Zepp Tokyo no dia do lançamento norte-americano do jogo, no qual o personagem Raiden foi apresentado ao público japonês. Como resultado, a arte da embalagem japonesa mostra Raiden em destaque, ao lado de Solid Snake, e não apenas Snake, como na arte de capa usada na versão americana (e, mais tarde, na europeia). Também foi acrescentado um questionário na versão japonesa, no qual os jogadores são questionados sobre sua experiência com o Metal Gear Solid original e com jogos de ação em geral; as respostas determinam o nível de dificuldade do jogo e se o jogador começa pelo capítulo Tanker ou pula diretamente para o capítulo Plant (uma opção disponível apenas após zerar o jogo uma vez na versão americana). A versão japonesa tem outros recursos adicionais em relação à americana, incluindo dois modos de jogo extras desbloqueados após concluir a história principal: Boss Survival, em que o jogador repete as batalhas contra chefes da história principal como Snake ou Raiden, e Casting Theater, em que o jogador pode assistir a certas cenas cinematográficas da história principal e substituir os modelos dos personagens.",
+        "A versão japonesa foi lançada em 29 de novembro, duas semanas após a versão americana. Assim como Metal Gear Solid original, Sons of Liberty foi vendido em uma edição limitada “Premium Package”, além do lançamento padrão. Essa edição vinha em uma caixa preta contendo o jogo, com uma capa reversível no estojo do DVD (com Snake de um lado e Raiden do outro), um DVD de vídeo conhecido como Premium Disc, que reúne uma coleção de comerciais e trailers relacionados a Metal Gear Solid, uma figura metálica de Solid Snake e um livreto de 80 páginas intitulado Metal Gear Chronicle, com ilustrações e comentários sobre a série.",
+        "A versão europeia, inicialmente programada para 22 de fevereiro de 2002, foi lançada em 8 de março, quase quatro meses após as outras regiões. Os recursos adicionais do lançamento japonês foram mantidos na versão europeia, junto com uma nova configuração de dificuldade (European Extreme). A versão europeia veio acompanhada de um DVD de vídeo intitulado The Making of Metal Gear Solid 2. Além de reunir todos os trailers promocionais do jogo e uma reportagem da GameSpot sobre os últimos dias de desenvolvimento, ele apresenta um documentário homônimo produzido pela produtora de televisão francesa FunTV, gravado no estúdio japonês da KCE Japan West. O DVD foi incluído como um pedido de desculpas aos consumidores europeus pelo atraso de vários meses em relação ao lançamento original de novembro na América do Norte e no Japão, período em que diversas revistas europeias de games detalharam as várias reviravoltas do jogo."
+      ]
+    },
+    {
+      "id": "mgs2/release/substance",
+      "ordem": 12,
+      "nivel": 3,
+      "pai": "mgs2/release",
+      "titulo": "Substance",
+      "paragrafos": [
+        "Metal Gear Solid 2: Substance, a edição expandida do jogo, foi lançada para o Xbox original e para Windows, além do PlayStation 2. A versão para Xbox foi inicialmente lançada na América do Norte como exclusividade temporária do console, em 5 de novembro de 2002. Em seguida veio a versão para PlayStation 2, lançada no Japão em 19 de dezembro do mesmo ano. Substance foi posteriormente lançado para PlayStation 2 e Windows na América do Norte e nas três plataformas na Europa, em março de 2003. As versões para console foram desenvolvidas internamente pela KCE Japan, enquanto a adaptação para Windows foi terceirizada para a Success.",
+        "Substance contém vários modos de jogo complementares além do modo história principal dos lançamentos originais de Sons of Liberty. O jogo principal reúne todas as mudanças e adições feitas nas versões japonesa e europeia do lançamento original (por exemplo, Boss Survival, Casting Theater, European Extreme), além de outras alterações adicionais. Os jogadores agora podem começar o modo história principal nos capítulos Tanker ou Plant sem precisar responder primeiro a um questionário, e um novo conjunto de plaquetas de identificação colecionáveis foi adicionado (exclusivamente na versão para PlayStation 2), com base em nomes enviados em um segundo concurso, além do conjunto original de 2001. O efeito visual dos óculos térmicos também foi alterado em Substance, e os pôsteres licenciados pela FHM que adornavam vários locais na versão original de Sons of Liberty foram substituídos por imagens de domínio público (eles também foram substituídos em The Document of Metal Gear Solid 2). As versões para Xbox e Windows apresentam pequenas mudanças nos diálogos durante explicações específicas de controles, nas quais o termo “analog stick” foi substituído por “thumbstick” (termo preferido pela Microsoft). Os controles também foram ligeiramente alterados na versão para Xbox, devido ao menor número de botões de ombro (clicar no analógico esquerdo alterna entre a visão normal e a visão em primeira pessoa, enquanto o botão Y serve como mira automática para a mira do jogador). A versão para Xbox tem suporte a som surround 5.1.",
+        "A principal adição de Substance é um modo extra de missões, com 350 missões de VR em um ambiente construído por computador e 150 missões “Alternative” em áreas da história principal. O jogador pode escolher jogar essas missões como Solid Snake ou Raiden, com versões alternativas de ambos os personagens (com roupas diferentes) disponíveis conforme o jogador progride. Essas missões são divididas em oito categorias (embora nem todas estejam disponíveis para todos os personagens): Sneaking, Weapon, First Person View (que simula um jogo de tiro em primeira pessoa), Variety, Hold Up, Bomb Disposal, Elimination e Photograph.",
+        "Outra novidade é “Snake Tales”, um conjunto de cinco missões baseadas em história, com Solid Snake como personagem do jogador. Essas missões se passam principalmente no Big Shell e envolvem personagens da história principal em novos papéis, como Fatman, Emma, Vamp e Solidus Snake, enquanto uma missão ambientada no navio-tanque apresenta Meryl Silverburgh. Essas missões, que não têm relação com a campanha principal e não são canônicas, não têm cenas cinematográficas dubladas; em vez disso, a história é contada por meio de interlúdios apenas em texto.",
+        "Exclusivo da versão para PlayStation 2 é um minijogo de skate, no qual o jogador controla Snake ou Raiden em duas fases com temática do Big Shell. O jogador deve cumprir uma série de objetivos antes que o tempo acabe, que vão de coletar plaquetas de identificação espalhadas pela fase a explodir partes do Big Shell. O minijogo usa o mesmo motor de Evolution Skateboarding, desenvolvido pela Konami Computer Entertainment Osaka.",
+        "No lançamento, a revista japonesa Famitsu deu à versão para PlayStation 2 do jogo nota 35 de 40."
+      ]
+    },
+    {
+      "id": "mgs2/release/hd-edition",
+      "ordem": 13,
+      "nivel": 3,
+      "pai": "mgs2/release",
+      "titulo": "Edição HD",
+      "paragrafos": [
+        "Metal Gear Solid 2: Sons of Liberty – HD Edition foi lançado para PlayStation 3 e Xbox 360 em 2011, e para PlayStation Vita em 2012. Essa versão está incluída na Metal Gear Solid HD Collection, mas também está disponível para download digital na PlayStation Network e na Xbox Live Arcade. As versões para PS3 e Xbox 360 têm resolução aumentada para 720p e proporção de 16:9, oferecendo uma visão mais clara e ampla dos arredores do jogador em comparação com a resolução 480i e a proporção 4:3 da versão para PlayStation 2, enquanto a versão para PS Vita roda em resolução qHD. As cenas cinematográficas agora podem ser vistas em tela cheia ou em formato letterbox, e também foram adicionadas conquistas e troféus online. A maior parte do conteúdo adicional de Metal Gear Solid 2: Substance também foi transposta para esta versão, como os modos Missions e Snake Tales, embora o minijogo de skate presente na versão para PlayStation 2 de Substance esteja ausente. As versões para PS3 e Vita têm uma opção de “transfarring” que permite transferir os dados salvos entre as duas versões por Wi-Fi ou por uma rede em nuvem. A versão para Vita tem suporte a tela sensível ao toque e ao touchpad para certas funções de jogabilidade, como trocar itens e armas ou aproximar a visão nas cenas cinematográficas."
+      ]
+    },
+    {
+      "id": "mgs2/release/master-edition",
+      "ordem": 14,
+      "nivel": 3,
+      "pai": "mgs2/release",
+      "titulo": "Edição Master",
+      "paragrafos": [
+        "Metal Gear Solid 2: Sons of Liberty foi lançado em formato digital e físico para PlayStation 4, PlayStation 5, Xbox Series X|S e Nintendo Switch, e digitalmente na Steam, em 24 de outubro de 2023. Esta versão também está incluída na Metal Gear Solid Master Collection Vol 1. Esta edição inclui o Digital Screenplay Book e o Digital Master Book. Embora o título deixe de lado o sufixo “HD Edition”, esta versão é baseada no lançamento HD Edition para PlayStation 3 e Xbox 360, de 2011. No Nintendo Switch, o jogo roda em 720p30 no modo portátil e em 1080p30 no modo TV. Nas demais plataformas, o jogo roda em 1080p60."
+      ]
+    },
+    {
+      "id": "mgs2/related-media",
+      "ordem": 15,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Mídias relacionadas",
+      "paragrafos": []
+    },
+    {
+      "id": "mgs2/related-media/the-document-of-metal-gear-solid-2",
+      "ordem": 16,
+      "nivel": 3,
+      "pai": "mgs2/related-media",
+      "titulo": "The Document of Metal Gear Solid 2",
+      "paragrafos": [
+        "The Document of Metal Gear Solid 2 foi lançado como software para PlayStation 2 em 26 de setembro de 2002, no Japão e na América do Norte. É um banco de dados interativo que documenta minuciosamente o desenvolvimento de Sons of Liberty.",
+        "Ele inclui modelos 3D de personagens, cenários e objetos usados no jogo (além de recursos não utilizados), junto com a arte conceitual correspondente quando disponível. Todas as cenas em tempo real (ou demos em polígonos) também podem ser assistidas (sem áudio), com a opção de pausá-las em qualquer ponto, alterar o ângulo da câmera e avançá-las quadro a quadro. Outros conteúdos incluem storyboards, imagens dos bastidores, trailers de pré-lançamento, faixas musicais (com a opção de reproduzir padrões alternativos quando aplicável), o roteiro final, o rascunho original de Hideo Kojima (disponível apenas em japonês), uma linha do tempo do desenvolvimento e uma galeria de produtos e mercadorias relacionados a Metal Gear Solid.",
+        "O disco também inclui uma seleção de missões de treinamento em VR que mais tarde apareceriam em Metal Gear Solid 2: Substance. Na Europa, o disco foi incluído com a versão para PlayStation 2 de Substance, em vez de ser lançado isoladamente. Também foi incluído na re-edição japonesa em comemoração ao 20º aniversário de Metal Gear Solid 2: Sons of Liberty, em julho de 2007."
+      ]
+    },
+    {
+      "id": "mgs2/related-media/comics",
+      "ordem": 17,
+      "nivel": 3,
+      "pai": "mgs2/related-media",
+      "titulo": "Quadrinhos",
+      "paragrafos": [
+        "A IDW Publishing publicou uma adaptação em quadrinhos de 12 edições entre 2006 e 2007, intitulada Metal Gear Solid: Sons of Liberty, ilustrada por Ashley Wood (que também trabalhou na adaptação em quadrinhos do jogo anterior) e escrita por Alex Garner. Essa versão se desvia do jogo, pois muitas cenas envolvendo Raiden são substituídas por Snake.",
+        "Uma versão digital da história em quadrinhos, intitulada Metal Gear Solid 2: Bande Dessinée, foi lançada em 12 de junho de 2008, no Japão. Anunciada originalmente como um jogo para PlayStation Portable, semelhante ao Metal Gear Solid: Digital Graphic Novel, a HQ digital acabou sendo lançada como um filme em DVD. Uma versão com dublagem completa da adaptação em romance gráfico do primeiro Metal Gear Solid também está incluída."
+      ]
+    },
+    {
+      "id": "mgs2/related-media/novels",
+      "ordem": 18,
+      "nivel": 3,
+      "pai": "mgs2/related-media",
+      "titulo": "Romances",
+      "paragrafos": [
+        "Uma novelização do jogo foi escrita por Raymond Benson e publicada pela Del Rey. A edição americana em brochura foi publicada em 24 de novembro de 2009. A maior parte das interações entre personagens no romance é retirada literalmente das conversas no Codec do próprio jogo.",
+        "Uma segunda novelização, de Kenji Yano (que assina sob o pseudônimo Hitori Nojima), intitulada Metal Gear Solid Substance II, foi publicada pela Kadokawa Shoten no Japão em 24 de setembro de 2015. Esta novelização é narrada em tempo real durante os eventos do capítulo Plant, sob a perspectiva de um jovem que vive em Manhattan."
+      ]
+    },
+    {
+      "id": "mgs2/reception",
+      "ordem": 19,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Recepção",
+      "paragrafos": []
+    },
+    {
+      "id": "mgs2/reception/critical-reception",
+      "ordem": 20,
+      "nivel": 3,
+      "pai": "mgs2/reception",
+      "titulo": "Recepção da crítica",
+      "paragrafos": [
+        "Metal Gear Solid 2 recebeu “aclamação universal” segundo o agregador de avaliações Metacritic, onde está entre os jogos mais bem avaliados do site e continua sendo o exclusivo mais bem avaliado do PlayStation 2. A Game Informer deu ao jogo nota 10/10, enquanto a GameSpot deu nota 9,6, afirmando: “Resumindo: você precisa jogar Metal Gear Solid 2.” A crítica elogiou a jogabilidade furtiva e as melhorias em relação ao antecessor, além do nível de detalhe gráfico do jogo, especialmente o uso de gráficos dentro do jogo para renderizar cenas cinematográficas que movem a história.",
+        "O enredo do título, no entanto, foi inicialmente polêmico e tornou-se fonte de controvérsia. O roteiro ambicioso de Hideo Kojima foi elogiado por explorar em detalhes vários temas sociais, filosóficos e cyberpunk, e frequentemente foi chamado de primeiro exemplo de videogame pós-moderno. Contudo, alguns críticos consideraram o enredo “incompreensível” e excessivamente complicado para um jogo de ação, e também acharam que as longas seções de diálogo interrompiam bastante a jogabilidade e que o próprio diálogo era confuso e desconexo. A introdução surpresa de Raiden como protagonista da maior parte do jogo (substituindo o protagonista de longa data da série, Solid Snake) também foi controversa entre os fãs de Metal Gear Solid.",
+        "Blake Fischer analisou a versão para PlayStation 2 do jogo para a Next Generation, dando-lhe cinco estrelas de cinco, e afirmou: “MGS2 é tudo o que esperávamos e mais. Ótima ação, uma história envolvente e muitas surpresas tornam este o jogo de PS2 a se ter nesta temporada de fim de ano.”"
+      ]
+    },
+    {
+      "id": "mgs2/reception/sales",
+      "ordem": 21,
+      "nivel": 3,
+      "pai": "mgs2/reception",
+      "titulo": "Vendas",
+      "paragrafos": [
+        "Havia grande expectativa na comunidade de jogos em torno do lançamento de Metal Gear Solid 2: Sons of Liberty. A demonstração do jogo na E3 2000 gerou muita especulação sobre o potencial do PlayStation 2, e muitos comentaristas elogiaram seu nível de realismo. A revista Hyper o considerou “o jogo mais aguardado para o PlayStation 2” em 2001.",
+        "No Japão, o jogo vendeu 400.000 unidades no primeiro dia, além de 600.000 pré-encomendas no país. Metal Gear Solid 2: Sons of Liberty vendeu, no total, 687.000 unidades em 2001, tornando-se o 10º videogame mais vendido de 2001 no Japão e o jogo mais vendido da Konami no mercado japonês naquele ano. Nos Estados Unidos, o jogo vendeu 500.000 unidades em dois dias após o lançamento e 680.000 cópias em cinco dias. Foi o jogo mais vendido em novembro de 2001, com 1,8 milhão de unidades vendidas, e liderou a lista de aluguel de videogames no mesmo mês. Ao longo do ano, tornou-se um dos quatro jogos mais vendidos de 2001 nos Estados Unidos. Em julho de 2006, havia vendido 2 milhões de cópias e arrecadado US$ 85.000.000 (equivalentes a US$ 155.000.000 em 2025) somente nos Estados Unidos. A Next Generation o classificou como o 16º jogo mais vendido lançado para PlayStation 2, Xbox ou GameCube entre janeiro de 2000 e julho de 2006 no país.",
+        "Na Europa, o jogo recebeu 1,57 milhão de pré-encomendas, superando a expectativa inicial da Konami de 1 milhão de unidades. No Reino Unido, estabeleceu o recorde de venda mais rápida, com 200.000 cópias vendidas e £ 9 milhões, ou US$ 13.000.000 (equivalentes a US$ 23.000.000 em 2025), arrecadados em três dias. A versão para PlayStation 2 recebeu um prêmio de vendas “Platinum” da Entertainment and Leisure Software Publishers Association (ELSPA), que indica vendas de pelo menos 300.000 cópias no Reino Unido. Também recebeu um Prêmio Platinum na Alemanha por vendas superiores a 200.000 unidades no país.",
+        "No total, o jogo vendeu mais de 7 milhões de unidades até 2003. Em 2004, o lançamento original havia vendido 5,64 milhões e Substance havia vendido 1,39 milhão, totalizando 7,03 milhões de unidades vendidas no mundo, o que o tornou o jogo mais vendido da série."
+      ]
+    },
+    {
+      "id": "mgs2/reception/awards",
+      "ordem": 22,
+      "nivel": 3,
+      "pai": "mgs2/reception",
+      "titulo": "Prêmios",
+      "paragrafos": [
+        "E3 2000 Game Critics Awards: “Menção Especial para Gráficos”. E3 2001 Game Critics Awards: “Melhor Jogo de Console” e “Melhor Jogo de Ação/Aventura”. Edge: “Inovação do Ano”. Game Informer 2001 Game of the Year Awards: “Jogo do Ano”. Japan Game Awards 2001-2002: “Prêmio de Excelência”. AIAS' 5th Annual Interactive Achievement Awards: “Conquista Excepcional em Design de Som”.",
+        "A GameSpot elegeu Metal Gear Solid 2 o quarto melhor jogo de console de 2001 e lhe concedeu os prêmios anuais de “Melhor Música” e “Maior Surpresa” entre os jogos de console. O jogo foi indicado nas categorias “Melhor Jogo para PlayStation 2”, “Melhor Som”, “Melhor História”, “Melhores Gráficos, Técnicos”, “Melhores Gráficos, Artísticos” e “Melhor Água no Jogo”. Durante a 5ª edição anual dos Interactive Achievement Awards, a Academy of Interactive Arts & Sciences premiou Sons of Liberty com o prêmio de “Design de Som”, além de indicações por conquista excepcional em “Direção de Arte” e “Desenvolvimento de Personagem ou História”.",
+        "Substance foi indicado aos prêmios de 2002 “Melhor Música no Xbox” e “Melhor História no Xbox”."
+      ]
+    },
+    {
+      "id": "mgs2/legacy",
+      "ordem": 23,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Legado",
+      "paragrafos": [
+        "Desde o seu lançamento, Metal Gear Solid 2 é amplamente considerado um dos melhores e mais influentes videogames de todos os tempos. Em uma enquete com leitores realizada pela revista japonesa Famitsu em 2006, sobre os 100 melhores jogos de todos os tempos, Metal Gear Solid 2 ficou em 42º lugar. Na 200ª edição da Game Informer, em 2009, em sua lista dos 200 melhores jogos de todos os tempos, o jogo ficou na 50ª posição. Metal Gear Solid 2 foi classificado em 7º lugar na lista de 2008 da Game Informer sobre as dez melhores aberturas de videogames. Em 2010, a GamesRadar o incluiu em sua lista dos sete jogos “com reviravoltas de enredo que você nunca viu chegando”. O jogo foi incluído no livro 1001 Video Games You Must Play Before You Die, de Tony Mott e Peter Molyneux, publicado em 2011. Segundo John Linneman, da Digital Foundry, o jogo foi um marco técnico para sua época. Ele serviu como um “killer app” que mostrou o que o hardware do PlayStation 2 era capaz de fazer, com o jogo estabelecendo “um novo padrão de apresentação cinematográfica” e atenção aos detalhes, e demonstrando “um grande número de inimigos na tela com corpos que permanecem na cena, a interação de luz e sombra, interações físicas com objetos do mundo real, ambientes de múltiplos níveis e IA avançada dos inimigos”. Isso possibilitou novas “oportunidades de jogabilidade” e uma sensação de liberdade oferecida por fases “projetadas como mini-sandboxes com uma enorme quantidade de interatividade”. A expectativa que cercou Metal Gear Solid 2 desde sua demonstração na E3 2000 é creditada como um fator decisivo para o sucesso de vendas do PlayStation 2 e para a dominância do console na sexta geração, bem como para o declínio do Dreamcast, da Sega. Segundo John Szczepaniak, “MGS2 foi o jogo que sozinho levou o novo PlayStation 2 da Sony às massas”. Em junho de 2008, o jogo foi incluído no The Guinness World Records: Gamer's Edition 2008, com Metal Gear. Outros grandes veículos que o elogiaram como um dos melhores jogos já feitos incluem Electronic Gaming Monthly, Empire, GameFAQs, GameRankings, IGN, Metacritic, Slant e Stuff.",
+        "Em 2009, a Wired incluiu o jogo em sua lista “The 15 Most Influential Games of the Decade”, na 13ª posição, concluindo que toda “história de videogame que subverte as expectativas do jogador deve uma dívida ao terreno desbravado por Metal Gear Solid 2”. A influência artística de Metal Gear Solid 2 pode ser percebida em jogos posteriores, como Killer7, de Goichi Suda, igualmente pós-moderno; Portal, de narrativa também metanarrativa; o título de terror de sobrevivência Eternal Darkness: Sanity's Requiem; e o jogo de tiro em primeira pessoa BioShock, que apresentou uma reviravolta de enredo semelhante à de Metal Gear Solid 2. Várias mecânicas desenvolvidas em Metal Gear Solid 2, como o sistema de cobertura e a mira a laser, tornaram-se elementos básicos de jogos furtivos e de tiro, incluindo Kill Switch (2003), Resident Evil 4 (2005) e Gears of War (2006). A revelação de Metal Gear Solid 2 também levou ao desenvolvimento de Splinter Cell, que a Ubisoft originalmente pretendia que fosse “um assassino de Metal Gear Solid 2”. Segundo Kojima, Metal Gear Solid 2 dedicou mais “atenção aos arredores” em tempo real, e, posteriormente, “jogos como Call of Duty seguiram essa tendência de tornar os arredores do jogador mais realistas”. Neil Druckmann citou a revelação de Raiden em Metal Gear Solid 2 como inspiração para a surpresa ousada de The Last of Us Part II (2020).",
+        "Em uma retrospectiva de 20 anos, Christian Smith, da Collider, afirmou que Metal Gear Solid 2 continua sendo uma “obra-prima controversa” que desempenhou papel central em “redefinir a arte de fazer videogames após a virada do milênio”. Em 2021, a PC Gamer incluiu a versão para PC entre as piores adaptações para PC: “MGS2 funcionava bem em alguns sistemas, mas em outros você podia esperar texturas piscando, sombras que desapareciam, efeitos ausentes, travamentos frequentes e áudio instável.”",
+        "Para além dos videogames, o cineasta Jordan Peele citou o jogo como inspiração, afirmando que “desde o primeiro momento em que joguei Metal Gear Solid 2, eu soube que estava vivenciando a obra de um artista cujo ofício simplesmente impressiona de outra forma”. Vários críticos também traçaram comparações entre Metal Gear Solid 2 e o filme do Universo Cinematográfico Marvel “Capitão América: O Soldado Invernal” (2014). A Gameranx disse que a primeira metade de “Capitão América: O Soldado Invernal” “parece provavelmente a adaptação cinematográfica mais próxima que tivemos de Metal Gear Solid 2”, com elementos semelhantes, incluindo “furtividade, um grupo malvado, CQC e até o dilema moral de sacrificar as liberdades pessoais em nome da sensação de segurança”. A Eye For Film também afirmou que a sequência de abertura “certamente será familiar para qualquer um que já tenha jogado Metal Gear Solid 2”."
+      ]
+    }
+  ]
+}

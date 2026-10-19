@@ -1,0 +1,251 @@
+{
+  "jogo": {
+    "id": "mgs1",
+    "titulo": "Metal Gear Solid",
+    "anoLancamento": 1998
+  },
+  "fonte": {
+    "url": "https://en.wikipedia.org/api/rest_v1/page/html/Metal%20Gear%20Solid%20(video%20game)",
+    "dataColeta": "2026-10-19",
+    "licenca": "CC BY-SA 4.0"
+  },
+  "secoes": [
+    {
+      "id": "mgs1/introducao",
+      "ordem": 0,
+      "nivel": 0,
+      "pai": null,
+      "titulo": "Metal Gear Solid",
+      "paragrafos": [
+        "Metal Gear Solid é um jogo de ação-aventura e furtividade de 1998, desenvolvido e distribuído pela Konami para o PlayStation. Dirigido, produzido e escrito por Hideo Kojima, o jogo é a terceira parcela principal da série Metal Gear e serve como sequência de “Metal Gear 2: Solid Snake” (1990), jogo para MSX2. A história acompanha Solid Snake, um ex-operativo das forças especiais que é tirado da aposentadoria pelo governo dos Estados Unidos para se infiltrar em Shadow Moses, uma instalação de armas nucleares tomada pela unidade rebelde FOXHOUND, liderada por Liquid Snake. Solid Snake deve libertar os reféns e impedir que a FOXHOUND use Metal Gear REX, um mecha capaz de lançar uma ogiva nuclear a qualquer ponto do mundo, enquanto confronta as próprias origens.",
+        "O jogo é jogado a partir de uma perspectiva de cima para baixo, na qual Solid Snake precisa navegar pelo ambiente. A furtividade é opcional, mas altamente incentivada, com um sistema de cobertura e um radar usados para evitar a visão dos guardas. Ser detectado ativa um modo “Alert”, no qual os inimigos tentam matar o jogador, e normalmente ele é desativado se os guardas forem evitados por tempo suficiente. Ao longo do jogo, o jogador obtém diversos itens e armas, incluindo cartões-chave, usados para desbloquear diferentes áreas da base e normalmente obtidos ao derrotar chefes.",
+        "Concebido por Kojima durante o desenvolvimento de “Policenauts” (1994), Metal Gear Solid foi inicialmente desenvolvido para o 3DO Interactive Multiplayer em 1995, mas logo foi transferido para o PlayStation. Com uma equipe pequena de 20 pessoas, Kojima deu ênfase a detalhes extremos, usando demonstrações reais de armas, cenários individualmente projetados e maquetes feitas com blocos de montar Lego. O artista Yoji Shinkawa criou a maioria dos personagens, incluindo Solid Snake, cujo físico foi baseado em Jean-Claude Van Damme e Christopher Walken. As cenas cinematográficas foram renderizadas com os gráficos do próprio motor do jogo, e houve dublagem em todo o jogo. Metal Gear Solid foi apresentado na Tokyo Game Show de 1996 e demonstrado em feiras do setor, como a Electronic Entertainment Expo de 1997, com recepção amplamente positiva.",
+        "Ao ser lançado, Metal Gear Solid recebeu aclamação unânime, com a crítica elogiando a apresentação cinematográfica do jogo, sua narrativa, sua jogabilidade e suas mecânicas de furtividade. Considerado um dos maiores e mais influentes videogames já feitos, ele é frequentemente visto como o pai fundador do gênero de jogos de furtividade, um dos melhores jogos do PlayStation, e é creditado por popularizar o estilo cinematográfico nos videogames. Apesar das expectativas baixas, Metal Gear Solid também foi um sucesso comercial, com mais de sete milhões de cópias vendidas no mundo todo, e consolidou a série Metal Gear como um ícone cultural. As “VR Missions” estendidas e uma versão ampliada, “Metal Gear Solid: Integral”, foram lançadas em 1999 e 2000 para PlayStation e Windows. Tanto o jogo quanto suas expansões foram relançados na PlayStation Network para PlayStation 3 e PlayStation Portable, além das coletâneas “Metal Gear Solid: The Legacy Collection” (2013) e “Metal Gear Solid: Master Collection Vol. 1” (2023) para diversas plataformas. Uma sequência direta, “Metal Gear Solid 2: Sons of Liberty”, foi lançada para o PlayStation 2 em 2001. Um remake, “Metal Gear Solid: The Twin Snakes”, foi lançado para o GameCube em 2004."
+      ]
+    },
+    {
+      "id": "mgs1/gameplay",
+      "ordem": 1,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Jogabilidade",
+      "paragrafos": [
+        "O jogador deve conduzir a protagonista, Solid Snake, por uma instalação de armas nucleares sem ser detectado pelos inimigos. Quando Snake entra no campo de visão de um inimigo, ele ativa um “modo de alerta” que atrai os inimigos. O jogador deve então se esconder até que o “modo de evasão” comece; quando o contador chega a zero, o jogo volta ao “modo de infiltração”, no qual os inimigos deixam de desconfiar. O radar não pode ser usado no modo de alerta ou de evasão. Além da jogabilidade furtiva, sequências de ação roteirizadas envolvem tiroteios entre o jogador e os inimigos.",
+        "Para permanecer não detectado, o jogador pode usar técnicas que aproveitam as habilidades de Snake e o ambiente, como rastejar sob objetos, usar caixas como cobertura, agachar-se ou se esconder atrás de paredes e fazer barulho para distrair os inimigos. Um radar na tela informa ao jogador a localização dos inimigos próximos e seus campos de visão. Snake também pode usar muitos itens e equipamentos, como óculos de visão infravermelha e um disfarce de caixa de papelão. A ênfase na furtividade promove uma jogabilidade menos violenta, já que confrontos com grandes grupos de inimigos costumam causar sérios danos a Snake.",
+        "Apesar da mudança para o 3D, o jogo ainda é jogado principalmente a partir de uma perspectiva aérea semelhante aos jogos Metal Gear originais em 2D. No entanto, o ângulo da câmera muda em certas situações, como uma visão de canto quando Snake se encosta na parede ao lado de um espaço aberto, ou para a primeira pessoa ao rastejar em espaços apertados ou ao equipar certos itens, como binóculos ou um rifle de precisão. O jogador também pode usar a visão em primeira pessoa enquanto permanece parado, para olhar ao redor de Snake e ver o que há à frente dele.",
+        "O progresso é pontuado por cenas cinematográficas e conversas por rádio, além de encontros com chefes. Para avançar, os jogadores devem descobrir os pontos fracos de cada chefe e derrotá-los, o que normalmente rende um cartão-chave usado para desbloquear diferentes áreas da base. Os controles e as estratégias também podem ser consultados pelo Codec, um dispositivo de comunicação por rádio por onde a equipe de apoio de Snake dá conselhos; por exemplo, a equipe pode repreender Snake por não salvar o progresso com frequência suficiente ou explicar seus movimentos de combate em termos de quais botões apertar no controle. O Codec também é usado para fornecer informações sobre o histórico do jogo.",
+        "Além da história principal, há também um modo de treinamento VR no qual o jogador pode testar suas habilidades de furtividade em uma série de ambientes artificiais. Esse modo é dividido em três categorias principais (prática, contra o tempo e tiro com arma), cada uma com dez fases. Depois de concluir todas as 30 fases, desbloqueia-se uma missão de sobrevivência na qual o jogador deve se esgueirar por dez fases consecutivas dentro do limite de sete minutos."
+      ]
+    },
+    {
+      "id": "mgs1/synopsis",
+      "ordem": 2,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Sinopse",
+      "paragrafos": []
+    },
+    {
+      "id": "mgs1/synopsis/setting",
+      "ordem": 3,
+      "nivel": 3,
+      "pai": "mgs1/synopsis",
+      "titulo": "Cenário",
+      "paragrafos": [
+        "Metal Gear Solid se passa em uma história alternativa na qual a Guerra Fria continuou até a década de 1990, terminando em algum momento próximo do fim do século XX. O jogo se passa em 2005, seis anos após os eventos de “Metal Gear 2: Solid Snake”, e forma o terceiro capítulo de uma trama maior envolvendo o personagem Solid Snake."
+      ]
+    },
+    {
+      "id": "mgs1/synopsis/characters",
+      "ordem": 4,
+      "nivel": 3,
+      "pai": "mgs1/synopsis",
+      "titulo": "Personagens",
+      "paragrafos": [
+        "O protagonista é Solid Snake (Akio Otsuka/David Hayter), um infiltrador e sabotador lendário. Durante a missão, Snake recebe apoio e conselhos pelo rádio Codec. O Colonel Roy Campbell, antigo comandante de Solid Snake, fornece informações e táticas a Snake. Embora inicialmente guarde alguns segredos de Snake, ele aos poucos os revela. Juntam-se a ele Naomi Hunter, que oferece conselhos médicos; Nastasha Romanenko, que fornece dicas sobre itens e armas; Master Miller, um antigo instrutor de treinamento e treinador de sobrevivência; e Mei Ling, que inventou o sistema de radar Soliton usado na missão e também é responsável pelos dados da missão; o jogador pode chamá-la para salvar o jogo.",
+        "O principal antagonista do jogo é Liquid Snake, líder de uma célula dissidente, hoje terrorista, da organização FOXHOUND, e contraparte genética de Solid Snake. Uma unidade de forças especiais de elite, a FOXHOUND reúne especialistas em diferentes tarefas. Seus membros são Revolver Ocelot, um pistoleiro ao estilo faroeste e especialista em interrogatórios, cuja arma preferida é a Colt Single Action Army; Sniper Wolf, uma atiradora de elite sobrenatural; Vulcan Raven, um xamã imenso do Alasca, armado com uma M61 Vulcan arrancada de um F-16 abatido; Psycho Mantis, um perfilador psíquico e especialista em psicocinese; e Decoy Octopus, um mestre do disfarce.",
+        "Outros personagens incluem Meryl Silverburgh, sobrinha do Colonel Campbell e uma soldado novata estacionada em Shadow Moses que não aderiu à revolta; o Dr. Hal Emmerich, desenvolvedor principal do Metal Gear REX; e Gray Fox, também conhecido como o “Ninja”, um misterioso agente aprimorado ciberneticamente que não é nem aliado nem inimigo de Snake, mas se opõe à FOXHOUND."
+      ]
+    },
+    {
+      "id": "mgs1/synopsis/plot",
+      "ordem": 5,
+      "nivel": 3,
+      "pai": "mgs1/synopsis",
+      "titulo": "Enredo",
+      "paragrafos": [
+        "Em 2005, a unidade rebelde de forças especiais geneticamente aprimoradas FOXHOUND toma o controle de uma ilha remota no Arquipélago Fox, no Alasca, com o codinome “Shadow Moses”, que abriga uma instalação de descarte de armas nucleares. A FOXHOUND ameaça usar contra o governo dos Estados Unidos o Metal Gear REX, mecha capaz de lançar armas nucleares e que está sendo testado em segredo na instalação, caso não receba os restos mortais de Big Boss e um resgate de $1 bilhão em 24 horas. Snake deve libertar os reféns e impedir que os terroristas lancem um ataque nuclear. Solid Snake é tirado da aposentadoria pelo Colonel Roy Campbell para se infiltrar na ilha e neutralizar a ameaça.",
+        "Snake entra na instalação por um duto de ventilação e localiza o primeiro refém, o chefe da DARPA, Donald Anderson. Anderson revela que o Metal Gear REX pode ser desativado com um código secreto de anulação de detonação, mas morre de um ataque cardíaco. A sobrinha do Colonel Campbell, Meryl Silverburgh, mantida refém em uma cela vizinha, ajuda Snake a escapar. Snake encontra outro refém, o presidente da ArmsTech, Kenneth Baker, mas é confrontado pelo membro da FOXHOUND Revolver Ocelot. O duelo de tiros entre eles é interrompido por um misterioso ninja ciborgue, que decepa a mão direita de Ocelot. Baker informa Snake sobre o projeto Metal Gear e aconselha que ele entre em contato com Meryl, a quem entregou um cartão PAL que pode impedir o lançamento, mas ele também morre de um ataque cardíaco repentino.",
+        "Pelo Codec, Meryl concorda em se encontrar na área de descarte de ogivas, com a condição de que Snake entre em contato com o projetista de Metal Gear, Dr. Hal “Otacon” Emmerich. No caminho, Snake recebe uma ligação anônima no Codec de alguém que se apresenta como “Deepthroat”, alertando-o sobre uma emboscada de tanques. Snake repele o ataque de Vulcan Raven e segue para o encontro, onde localiza Otacon. O ninja reaparece, e Snake percebe que se trata de seu antigo aliado Gray Fox, dado como morto. Devastado ao saber as verdadeiras intenções do REX, Otacon concorda em ajudar Snake à distância, usando uma camuflagem especial para obter informações e suprimentos.",
+        "Snake encontra Meryl e recebe o cartão PAL. Enquanto seguem para a base subterrânea, Meryl é possuída pelo psíquico Psycho Mantis e aponta a arma para Snake. Ele desarma Meryl e derrota Mantis, que informa a Snake que ele ocupa “um grande lugar” em seu coração. Depois de atravessarem a passagem subterrânea, Sniper Wolf os surpreende em uma emboscada, fere Meryl e captura Snake. Liquid confirma a suspeita de Snake de que são irmãos gêmeos. Depois de ser torturado por Ocelot, Snake fica confuso ao descobrir o corpo de Anderson em sua cela, aparentemente morto havia dias. Ele escapa com a ajuda de Otacon, sobe a torre de comunicações e repele um ataque do helicóptero Hind D de Liquid. Ao emergir em um campo nevado, é confrontado novamente por Sniper Wolf. Ele a mata, o que devasta Otacon, que era apaixonado por ela.",
+        "Snake segue para o hangar do REX e é emboscado novamente por Raven. Depois que Snake o derrota, Raven revela que o “Anderson” com quem ele conversou era, na verdade, o artista de disfarces da FOXHOUND, Decoy Octopus. Ao se infiltrar no hangar de Metal Gear, Snake ouve Liquid e Ocelot preparando a sequência de lançamento do REX e usa o cartão PAL, mas isso ativa o REX de forma inesperada. Liquid revela que vinha se passando por Master Miller, conselheiro de Snake, e que a FOXHOUND usou Snake para facilitar o lançamento do REX. Ele e Snake são produtos do projeto Les Enfants Terribles, um programa governamental dos anos 1970 para clonar Big Boss. Ele também revela a Snake o verdadeiro motivo de o governo tê-lo enviado: sem saber, Snake carrega um vírus “FOXDIE” armado, que causa parada cardíaca nos membros da FOXHOUND ao contato, permitindo que o governo recupere o REX intacto.",
+        "Enquanto Liquid, no REX, luta contra Snake, Gray Fox aparece. Ele revela a Snake que era Deepthroat, destrói o radome do REX e é esmagado até a morte pelo próprio REX. Snake destrói o REX e derrota Liquid, então escapa com Meryl ou Otacon por um túnel, perseguido por Liquid em um jipe. Depois que os veículos colidem, Liquid aponta uma arma para Snake, mas morre por causa do FOXDIE. O Colonel Campbell, afastado do comando por pouco tempo, cancela um ataque nuclear destinado a destruir as provas da operação e faz com que Snake seja registrado como morto em combate, para impedir que o governo dos Estados Unidos o procure. Naomi Hunter, que aplicou o vírus FOXDIE em Snake, diz a ele que ele tem um tempo indeterminado antes que o vírus o mate. Ocelot telefona para o presidente dos Estados Unidos; ele era um agente duplo cuja missão era roubar o disco de Baker com as especificações de Metal Gear, e identifica o presidente como Solidus Snake, o terceiro clone secreto de Big Boss."
+      ]
+    },
+    {
+      "id": "mgs1/development",
+      "ordem": 6,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Desenvolvimento",
+      "paragrafos": [
+        "O diretor Hideo Kojima planejou originalmente seu terceiro jogo de Metal Gear em 1994, para o 3DO Interactive Multiplayer. Kojima começou a planejar Metal Gear Solid enquanto “Policenauts” (1994), um jogo de aventura, ainda estava em desenvolvimento. Ilustrações conceituais de Yoji Shinkawa com os personagens Solid Snake, Meryl Silverburgh (que também era personagem de “Policenauts”) e a equipe FOXHOUND foram incluídas no “Policenauts: Pilot Disk”, lançado antes da versão completa para 3DO de “Policenauts”, em 1995.",
+        "O jogo recebeu o título Metal Gear Solid, em vez de Metal Gear 3, porque Kojima achava que os jogos MSX2 em que ele havia trabalhado não eram muito conhecidos, já que não foram lançados na América do Norte e apenas o primeiro foi lançado na Europa (uma versão para NES do primeiro Metal Gear foi lançada na América do Norte, mas Kojima não teve envolvimento com ela nem com sua sequência, “Snake's Revenge”). A palavra “Solid”, derivada do codinome do protagonista da série, Solid Snake (e também título do segundo jogo MSX2), foi escolhida não apenas para representar o fato de ser a terceira parcela da série, mas também a transição dos gráficos de computador 2D para 3D.",
+        "Considerando os jogos em primeira pessoa difíceis de controlar, a equipe optou por dar ao jogo um estilo 2D, sendo jogado predominantemente de um ângulo aéreo, enquanto usava gráficos 3D e a capacidade de alternar para a primeira pessoa a qualquer momento, para dar a impressão de que o jogo se passava em um mundo 3D real.",
+        "O desenvolvimento de Metal Gear Solid começou em 1995, mas foi brevemente interrompido pelo Grande Terremoto de Hanshin, que causou sérios danos ao estúdio de desenvolvimento. Quando o trabalho foi retomado, o jogo foi transferido para a plataforma PlayStation. Os desenvolvedores buscaram precisão e realismo, tornando o jogo ao mesmo tempo agradável e tenso. No início do desenvolvimento, a equipe SWAT de Huntington Beach apresentou aos criadores uma demonstração de veículos, armas e explosivos. O especialista em armas Motosada Mori também foi convocado como consultor técnico na pesquisa, que incluiu visitas a Fort Irwin e sessões de tiro na Stembridge Gun Rentals. Kojima afirmou que “se o jogador não for enganado a ponto de acreditar que o mundo é real, não há razão para fazer o jogo”. Para isso, foram feitos ajustes em cada detalhe, como mesas desenhadas individualmente.",
+        "Os personagens e os designs de mechas foram criados pelo artista Yoji Shinkawa com base nos conceitos de Kojima. Ao projetar adereços e equipamentos, ele primeiro construía modelos de plástico em casa e depois desenhava os designs finais a partir dos modelos. Segundo Shinkawa, o físico de Solid Snake nesta parcela foi baseado em Jean-Claude Van Damme, enquanto sua aparência facial foi baseada em Christopher Walken. A Konami decidiu que a aparência de meia-idade de Snake nos jogos anteriores não tinha bom apelo comercial e optou por redesenhá-lo para que parecesse mais jovem. Os personagens foram concluídos por artistas de modelagem poligonal, usando desenhos a pincel e modelos de argila de Shinkawa. Segundo Kojima, “o efeito de camuflagem do ninja é resultado de um bug. Claro, não foi totalmente uma coincidência, já que queríamos esse efeito de qualquer forma, mas obtivemos um resultado um tanto inesperado.” Kojima queria maior interação com objetos e com o ambiente, como permitir que o jogador escondesse corpos em um compartimento de armazenamento. Além disso, ele queria “uma orquestra completa bem ao lado do jogador”: um sistema que modificasse a faixa em reprodução, alterando andamento e textura, em vez de trocá-la por outra faixa pré-gravada. Embora esses recursos não tenham sido alcançados, eles foram implementados em “Metal Gear Solid 2: Sons of Liberty”.",
+        "Kojima usou blocos de montar Lego e figuras de brinquedo para modelar áreas 3D e ver como ficariam os ângulos de câmera planejados. O jogo foi desenvolvido por uma equipe de vinte pessoas, pequena para um título de tamanho tão grande. Kojima preferia uma equipe menor para conhecer todos e saber no que cada um estava trabalhando, além de perceber se alguém estava doente ou infeliz. A equipe só atingiu sua força total em setembro de 1996; inicialmente, havia apenas um programador trabalhando no código do jogo.",
+        "Como os desenvolvedores queriam que a ação do jogo fosse estilizada e parecesse um filme, em vez de realista, optaram por não usar captura de movimento e contrataram um artista com experiência em design de anime para animar tudo à mão.",
+        "Uma demonstração de jogabilidade de Metal Gear Solid foi revelada ao público pela primeira vez na Tokyo Game Show de 1996 e depois exibida na E3 1997 como um vídeo curto. A versão de 1997 tinha várias diferenças, incluindo uma câmera mais controlável e cones de visão em azul. A demonstração gerou grande repercussão e avaliações positivas no evento, pelo design de jogo focado em furtividade e estratégia (como os jogos Metal Gear anteriores), pela apresentação e pelo nível sem precedentes de detalhes gráficos 3D em tempo real para o PlayStation. A resposta entusiasmada ao jogo na E3 surpreendeu Kojima e aumentou suas expectativas sobre o desempenho do jogo no mercado norte-americano. O lançamento japonês do jogo estava originalmente previsto para o final de 1997, mas foi adiado para 1998.",
+        "O jogo foi jogável pela primeira vez na Tokyo Game Show de 1998 e foi lançado no mesmo ano no Japão, com uma extensa campanha promocional. O jogo, que levou dois anos para ser desenvolvido, teve um orçamento de produção de £10 milhões ($17 milhões). Anúncios na televisão e em revistas, amostras nas lojas e distribuição de demos contribuíram para um total de $8 milhões em custos promocionais."
+      ]
+    },
+    {
+      "id": "mgs1/development/voice-acting",
+      "ordem": 7,
+      "nivel": 3,
+      "pai": "mgs1/development",
+      "titulo": "Dublagem",
+      "paragrafos": [
+        "Com exceção de David Hayter (Solid Snake) e Doug Stone (Psycho Mantis), o elenco de dublagem em inglês foi creditado com pseudônimos. Segundo relatos, isso foi feito porque as regras do Screen Actors Guild da época não eram claras quanto às atuações em videogames. Quando os atores voltaram para o remake de 2004, “Metal Gear Solid: The Twin Snakes”, foram creditados com seus nomes reais."
+      ]
+    },
+    {
+      "id": "mgs1/development/music",
+      "ordem": 8,
+      "nivel": 3,
+      "pai": "mgs1/development",
+      "titulo": "Música",
+      "paragrafos": [
+        "A trilha sonora de Metal Gear Solid foi composta pelos músicos internos da Konami, incluindo Kazuki Muraoka, Hiroyuki Togo, Takanari Ishiyama, Lee Jeon Myung e Maki Kirioka. A compositora e letrista Rika Muranaka criou a canção “The Best is Yet To Come” para a sequência de créditos finais do jogo. A música é interpretada em irlandês por Aoife Ní Fhearraigh. O tema principal foi composto por Tappi Iwase, do Konami Kukeiha Club.",
+        "A música tocada durante o jogo tem um som sintético, com ritmo acelerado e introdução de cordas em momentos de tensão, em um estilo de loop típico dos videogames. Músicas claramente cinematográficas, com elementos orquestrais e corais mais fortes, aparecem nas cenas cinematográficas. A trilha sonora foi lançada em 23 de setembro de 1998, pela gravadora King Records."
+      ]
+    },
+    {
+      "id": "mgs1/release",
+      "ordem": 9,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Lançamento",
+      "paragrafos": [
+        "Metal Gear Solid foi lançado pela primeira vez para o PlayStation no Japão, em 3 de setembro de 1998. O jogo estava disponível em uma edição padrão, bem como em uma edição limitada “Premium Package”, vendida em uma caixa grande que também continha uma camiseta, um par de plaquetas de identificação com temática FOXHOUND, adesivos para cartão de memória, um CD de áudio com as trilhas sonoras dos jogos Metal Gear para MSX2 (incluindo algumas faixas rearranjadas como bônus) e um livreto de 40 páginas, “Metal Gear Solid Classified”, com notas de produção, entrevistas com os desenvolvedores e um glossário de termos do jogo.",
+        "A versão norte-americana foi lançada um mês depois, em 20 de outubro. Foram feitas mudanças e acréscimos nessa versão, como a escolha de três níveis de dificuldade ao iniciar um novo jogo (com um quarto nível, desbloqueado após concluir o jogo uma vez), um traje alternativo de smoking para Snake (que o personagem usa a cada terceira partida no mesmo arquivo salvo) e um modo “demo theater”, no qual o jogador assiste a todas as cenas cinematográficas e conversas de rádio relevantes para a história principal. Jeremy Blaustein, que anteriormente trabalhou na localização para o inglês de “Snatcher” para o Sega CD, escreveu o roteiro da versão em inglês. Uma mudança no roteiro em inglês foi a adição de fontes e autores ocidentais ao repertório de citações motivacionais de Mei-Ling; originalmente, a personagem citava apenas provérbios chineses em sua língua original, com uma explicação em japonês depois, mas isso se mostrou difícil de adaptar na tradução. Os jogos que Psycho Mantis detecta ao ler o cartão de memória do jogador também foram alterados, pois certos jogos (como a série “Tokimeki Memorial”) não foram lançados fora do Japão. Isso fez com que a participação especial de Kojima (em que ele agradece ao jogador pelo apoio ao seu trabalho por meio de uma narração) fosse removida das versões ocidentais, já que os dados salvos de dois jogos para PlayStation não disponíveis fora do Japão, “Snatcher” e “Policenauts”, precisavam estar no cartão de memória do jogador para que esse easter egg aparecesse.",
+        "O jogo foi lançado na Europa em 22 de fevereiro de 1999, com versões dubladas em francês, italiano e alemão, além do inglês. Uma versão dublada em espanhol foi lançada depois, em 1º de maio. Assim como no Japão, foi lançada uma edição limitada, embora o conteúdo da edição limitada europeia seja diferente da versão japonesa. O “Premium Package” europeu vem com o software do jogo e o CD com a trilha sonora, além de uma camiseta, plaquetas de identificação, adesivos para cartão de memória, um pôster de frente e verso no estilo de cinema e um conjunto de cartões-postais.",
+        "A versão japonesa de Metal Gear Solid para PlayStation foi relançada duas vezes: primeiro na série “The Best” e depois na série “PS one Books”. Da mesma forma, as versões norte-americana e europeia de Metal Gear Solid foram relançadas nas séries “Greatest Hits” e “Platinum”, respectivamente. Em comemoração ao 20º aniversário do Metal Gear original, em 2007, Metal Gear Solid foi relançado no Japão como uma edição independente com tema de 20º aniversário, além de ser incluído na coletânea comemorativa Metal Gear Solid Collection; na América do Norte, foi incluído no conjunto Metal Gear Solid: Essential Collection. O Metal Gear Solid original foi lançado para download na PlayStation Store para PlayStation 3 e PlayStation Portable em 21 de março de 2008, no Japão, em 18 de junho de 2009, na América do Norte, e em 19 de novembro do mesmo ano, na Europa.",
+        "Metal Gear Solid é um dos vinte jogos para PlayStation incluídos no PlayStation Classic, lançado em 2018. O jogo está presente nos modelos japonês e ocidental do aparelho, em suas respectivas versões."
+      ]
+    },
+    {
+      "id": "mgs1/release/integral",
+      "ordem": 10,
+      "nivel": 3,
+      "pai": "mgs1/release",
+      "titulo": "Integral",
+      "paragrafos": [
+        "Lançada em 25 de junho de 1999 para o PlayStation no Japão, “Metal Gear Solid: Integral” é uma edição ampliada do jogo que traz o conteúdo adicional das versões norte-americana e europeia. Ela substitui as vozes japonesas da versão original pela dublagem em inglês, oferecendo ao jogador a escolha entre legendas em japonês e em inglês durante as cenas cinematográficas e as conversas pelo Codec (descrições de itens, registros de missões e outros textos continuam em japonês). Outros conteúdos adicionais da história principal incluem um traje alternativo de “sneaking suit” para Meryl (que ela usa quando Snake está de smoking), um nível de dificuldade “Very Easy”, no qual o jogador começa a missão armado com uma submetralhadora MP5 com silenciador e munição infinita (substituindo o rifle FAMAS do inventário de Snake), uma oitava frequência do Codec com comentários da equipe de desenvolvimento (sem dublagem e apenas em texto japonês) sobre cada área e encontro com chefes, faixas musicais ocultas, um modo de jogo alternativo no qual o jogador controla Snake em primeira pessoa (somente na dificuldade “Normal”), uma opção de rotas de patrulha alternativas para os inimigos e um minijogo para PocketStation disponível para download. O Evento de Tortura também ficou mais fácil, com o número de rodadas reduzido para três por sessão em todos os cinco níveis de dificuldade.",
+        "O modo de treinamento VR agora fica armazenado em um terceiro disco separado, conhecido como “VR Disc”, e foi expandido para 300 missões. Esse novo conjunto de missões se divide em quatro categorias principais: Sneaking, Weapons, Advanced e Special. As três primeiras categorias apresentam exercícios de treinamento padrão que testam as habilidades de furtividade, tiro e combate do jogador, enquanto a quarta reúne testes menos convencionais, envolvendo mistérios de assassinato, soldados genoma gigantes e discos voadores. Um conjunto específico de missões coloca o jogador no controle do Ninja Ciborgue, desbloqueado ao concluir um minijogo no PocketStation e enviar os dados para o VR Disc ou ao alcançar o rank Fox no jogo principal. Concluir todas as 300 missões desbloqueia uma arte conceitual de Metal Gear RAY, um mecha que mais tarde apareceria em “Metal Gear Solid 2: Sons of Liberty”. Conteúdos adicionais incluem trailers de prévia de Metal Gear Solid exibidos em eventos do setor e um modo de sessão de fotos, no qual o jogador pode tirar fotografias de modelos poligonais totalmente expressivos de Mei Ling e da Dra. Naomi após concluir o jogo principal. A revista Famitsu deu a “Metal Gear Solid: Integral” nota 34 de 40.",
+        "O VR Disc do Integral foi lançado separadamente no mesmo ano em outras regiões: como “Metal Gear Solid: VR Missions”, na América do Norte, em 23 de setembro, e como “Metal Gear Solid: Special Missions”, na região PAL, em 29 de outubro. Embora o conteúdo de ambos, “VR Missions” e “Special Missions”, seja praticamente idêntico ao do VR Disc, os requisitos de desbloqueio das missões ninja e do modo de sessão de fotos foram alterados de acordo, de modo que os dados salvos do jogo principal deixaram de ser necessários. A versão “Special Missions” também adiciona um requisito extra: o usuário também deve possuir uma cópia do Metal Gear Solid original em formato PAL para iniciar o jogo. Depois de iniciar o “Special Missions” no console, o jogador é solicitado a trocar o disco pelo primeiro disco de Metal Gear Solid para carregar os dados e, em seguida, a voltar ao disco do “Special Missions” para seguir pelo restante do jogo."
+      ]
+    },
+    {
+      "id": "mgs1/release/windows-version",
+      "ordem": 11,
+      "nivel": 3,
+      "pai": "mgs1/release",
+      "titulo": "Versão para Windows",
+      "paragrafos": [
+        "A versão para Windows de Metal Gear Solid foi lançada na América do Norte em 22 de setembro de 2000, no Reino Unido em 20 de outubro de 2000 e em outros territórios europeus e asiáticos (exceto o Japão) no final de 2000. Essa versão foi distribuída pela Microsoft Games e desenvolvida pela Digital Dialect. Ela oferece suporte a teclado ou a um controle USB com pelo menos seis botões (o manual recomenda o Sidewinder Game Pad Pro). Também oferece suporte a placas de vídeo compatíveis com Direct3D, permitindo resolução de até 1024x768. A versão para Windows vem rotulada como Metal Gear Solid na embalagem, mas o jogo em si usa o logotipo de “Metal Gear Solid: Integral”, embora tenha algumas diferenças em relação à versão de PlayStation do Integral e não inclua parte de seu conteúdo. A mudança mais significativa foi a redução do número de discos de três para dois, feita ao dar a cada disco dois arquivos executáveis separados, um para o jogo principal (mgsi.exe) e outro para a parte de treinamento VR (mgsvr.exe), eliminando a necessidade de um terceiro disco separado.",
+        "Uma omissão notável foi a remoção da cena anterior à batalha com Psycho Mantis, na qual ele lê o cartão de memória do jogador e ativa a função de vibração do controle, caso um DualShock esteja sendo usado, já que essa cena envolvia periféricos específicos do PlayStation. O método para derrotar Mantis também foi alterado: em vez de usar o segundo controle, o jogador usa apenas o teclado (independentemente de ter usado um controle até aquele ponto). Outras omissões incluem a remoção da oitava frequência do Codec (140.07), que apresentava comentários escritos pelos desenvolvedores, o traje alternativo de furtividade de Meryl e os registros de missões ao carregar um arquivo salvo. No entanto, a versão para Windows adiciona a opção de alternar entre movimento e tiro no modo de primeira pessoa a qualquer momento, independentemente do nível de dificuldade, e os jogadores agora podem salvar o progresso em qualquer ponto sem contatar Mei-Ling, por meio de salvamentos rápidos. Na parte de treinamento VR, todas as 300 missões, assim como o modo de sessão de fotos, estão disponíveis desde o início, embora o vídeo de abertura e os três trailers de prévia desbloqueáveis da versão para PlayStation tenham sido removidos.",
+        "Com nota 83 no agregador Metacritic, o jogo foi criticado por “falhas gráficas”, pela natureza antiquada do port e por ser praticamente idêntico à versão para PlayStation."
+      ]
+    },
+    {
+      "id": "mgs1/release/the-twin-snakes",
+      "ordem": 12,
+      "nivel": 3,
+      "pai": "mgs1/release",
+      "titulo": "The Twin Snakes",
+      "paragrafos": [
+        "Um remake, “Metal Gear Solid: The Twin Snakes”, foi desenvolvido pela Silicon Knights sob supervisão da KCE Japan e lançado para o GameCube na América do Norte, no Japão e na Europa em março de 2004. Embora The Twin Snakes tenha sido desenvolvido principalmente na Silicon Knights, suas cenas cinematográficas foram produzidas internamente pela Konami e dirigidas pelo cineasta japonês Ryuhei Kitamura, refletindo seu estilo dinâmico característico, com uso extensivo de fotografia em bullet time e tiroteios coreografados. Embora a história e os cenários do jogo não tenham sido alterados (algumas falas foram reescritas para se aproximar mais da versão original em japonês), vários recursos de jogabilidade de “Metal Gear Solid 2: Sons of Liberty” foram adicionados, como a mira em primeira pessoa e o ato de pendurar-se em barras nas paredes. Outra mudança na dublagem em inglês foi a redução do sotaque de Mei Ling, Naomi e Nastasha, além da substituição de Gray Fox, antes interpretado por Greg Eagles (que ainda reprisa o papel do chefe da DARPA), por Rob Paulsen. Os gráficos e as mecânicas de jogo também foram atualizados para se igualar aos de “Metal Gear Solid 2”."
+      ]
+    },
+    {
+      "id": "mgs1/release/master-collection-version",
+      "ordem": 13,
+      "nivel": 3,
+      "pai": "mgs1/release",
+      "titulo": "Versão Master Collection",
+      "paragrafos": [
+        "A versão original de Metal Gear Solid foi relançada em outubro de 2023 para PlayStation 4, PlayStation 5, Xbox Series X/S, Nintendo Switch e Windows (via Steam), como parte de uma série de relançamentos intitulada “Metal Gear Solid: Master Collection”. O título está disponível como download independente, com o Metal Gear original e “Metal Gear 2: Solid Snake” incluídos como bônus, e os três títulos também fazem parte de uma coletânea intitulada “Metal Gear Solid: Master Collection Vol.1”, junto com os relançamentos de “Metal Gear Solid 2” e “Metal Gear Solid 3” (ambos disponíveis também como downloads separados).",
+        "Na Master Collection, o jogo roda em um emulador desenvolvido pela M2, com a opção de jogar qualquer uma das sete versões regionais (japonesa, norte-americana, europeia em inglês, alemã, francesa, italiana e espanhola) por meio de downloads adicionais, além das expansões Integral, VR Missions e Special Missions. A edição Master Collection trata o evento de leitura mental de Psycho Mantis dando ao jogador a opção de criar um cartão de memória virtual com arquivos salvos de jogos compatíveis, para acionar falas específicas. Há também uma nova sequência animada quando o jogador chega ao alto-forno, que mostra visualmente o processo de troca de disco."
+      ]
+    },
+    {
+      "id": "mgs1/related-media",
+      "ordem": 14,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Mídias relacionadas",
+      "paragrafos": [
+        "Uma adaptação em radioteatro japonesa de Metal Gear Solid, dirigida por Shuyo Murata e escrita por Motosada Mori, foi produzida logo após o lançamento do jogo original para PlayStation. Foram exibidos 12 episódios, de 1998 a 1999, no programa CLUB db, da Konami. A série foi lançada depois em CD, em dois volumes intitulados “Drama CD Metal Gear Solid”. Ambientada após os eventos do jogo de PlayStation, a história mostra Snake, Meryl, Campbell e Mei Ling (todos interpretados por seus dubladores japoneses originais) em missões em países hostis do Terceiro Mundo, como membros da FOXHOUND. Os novos personagens incluem o sargento Allen Iishiba (dublado por Toshio Furukawa), um operativo da Delta Force que auxilia Snake e Meryl; o Col. Mark Cortez (dublado por Osamu Saka), velho amigo de Campbell que comanda as fictícias Forças Especiais do Exército de Esteria; e o capitão Sergei Ivanovich (dublado por Kazuhiro Nakata), antigo companheiro de guerra de Revolver Ocelot de seus tempos na SVR.",
+        "Em setembro de 2004, a IDW Publications começou a publicar uma série de quadrinhos de Metal Gear Solid, escritos por Kris Oprisko e ilustrados por Ashley Wood. A publicação era bimestral até 2006, com 12 edições que cobriram por completo a história de Metal Gear Solid. Os quadrinhos foram adaptados para um jogo de PlayStation Portable, “Metal Gear Solid: Digital Graphic Novel” (“Metal Gear Solid: Bande Dessinée” no Japão). O jogo traz melhorias visuais e dois modos interativos destinados a aprofundar a publicação. Ao visualizar as páginas, o jogador pode abrir uma interface de “escaneamento” para procurar personagens e itens em uma visualização tridimensional. As descobertas são adicionadas a um banco de dados que pode ser trocado com outros jogadores via Wi-Fi. O “modo missão” permite ao jogador adicionar as informações coletadas a uma biblioteca, e essas informações precisam ser corretamente conectadas para concluir uma missão. “Metal Gear Solid: Digital Graphic Novel” foi lançado na América do Norte em 13 de junho de 2006, no Japão em 21 de setembro e na região PAL em 22 de setembro. Em 2006, o jogo recebeu da IGN o prêmio de Melhor Uso de Som no PSP. Uma versão em DVD-Video está incluída com sua sequência (“Metal Gear Solid 2: Bande Dessinée”), lançada no Japão em 12 de junho de 2008. A versão em DVD conta com dublagem completa.",
+        "Uma novelização baseada no Metal Gear Solid original foi escrita por Raymond Benson e publicada pela Del Rey. A edição americana em brochura foi publicada em 27 de maio de 2008, e a edição britânica, em 5 de junho de 2008.",
+        "Uma segunda novelização, de Kenji Yano (sob o pseudônimo Hitori Nojima), intitulada “Metal Gear Solid Substance I”, foi publicada pela Kadokawa Shoten no Japão em 25 de agosto de 2015. Essa novelização é narrada por meio de um arquivo de texto escrito por um jovem que vivia em Manhattan em 2009 (ano em que se passa o capítulo Plant de “Metal Gear Solid 2: Sons of Liberty”). A história também reconhece certos elementos da trama de “Metal Gear Solid V: The Phantom Pain” em relação a personagens como Liquid Snake e Psycho Mantis."
+      ]
+    },
+    {
+      "id": "mgs1/reception",
+      "ordem": 15,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Recepção",
+      "paragrafos": [
+        "Antes do lançamento, as demonstrações do jogo em diversas feiras do setor entre 1996 e 1998 haviam recebido uma resposta positiva. Isso gerou um interesse mundial significativo no jogo antes de seu lançamento em 1998."
+      ]
+    },
+    {
+      "id": "mgs1/reception/critical-reception",
+      "ordem": 16,
+      "nivel": 3,
+      "pai": "mgs1/reception",
+      "titulo": "Recepção da crítica",
+      "paragrafos": [
+        "Metal Gear Solid recebeu “aclamação universal”, segundo o agregador de avaliações Metacritic.",
+        "A análise da PlayStation Official Magazine – UK chamou Metal Gear Solid de “o melhor jogo já feito. Impossível de largar e inesquecível”. A análise da IGN afirmou que o jogo chegou “mais perto da perfeição do que qualquer outro jogo do gênero de ação do PlayStation” e o chamou de “belo, envolvente e inovador… em todas as categorias concebíveis”. A Computer and Video Games o comparou a “jogar um blockbuster de ação de grande orçamento, só que melhor”. A revista Arcade o elogiou por “introduzir um gênero totalmente novo: o sneak-'em-up” e afirmou que ele iria “anunciar uma onda gigantesca” de “sneak-'em-ups”. Eles o chamaram de um lançamento “brilhante, tecnicamente impressionante e bem pensado, que certamente vai influenciar os jogos de ação e aventura por muitos anos”. A GMR o chamou de “clássico cinematográfico”.",
+        "A GamePro o chamou de “a melhor oferta da temporada e um jogo que nenhum jogador que se preze deve deixar de ter”, mas criticou a taxa de quadros, que “às vezes trava os gráficos chamativos”. A GameSpot criticou a facilidade com que o jogador evita ser visto, bem como a curta duração do jogo, chamando-o de “mais uma obra de arte do que… um jogo de fato”.",
+        "A Next Generation analisou a versão para PlayStation do jogo, dando-lhe cinco estrelas em cinco, e afirmou que “pode ter certeza de que este é um jogo que nenhum jogador deve perder e a melhor razão até hoje para ter um PlayStation”.",
+        "Metal Gear Solid recebeu o Prêmio de Excelência em Arte Interativa no Japan Media Arts Festival de 1998. Durante a 2ª edição anual do Interactive Achievement Awards, a Academy of Interactive Arts & Sciences indicou Metal Gear Solid nas categorias “Game of the Year”, “Console Game of the Year”, “Console Action Game of the Year” e nas categorias de excelência em “Interactive Design”, “Software Engineering” e “Character or Story Development”.",
+        "Em 1999, a Next Generation colocou Metal Gear Solid em 27º lugar em sua lista “Top 50 Games of All Time”, comentando que, “MGS é um dos esforços mais vibrantes da história dos games para trazer ideias sérias aos games”."
+      ]
+    },
+    {
+      "id": "mgs1/reception/sales",
+      "ordem": 17,
+      "nivel": 3,
+      "pai": "mgs1/reception",
+      "titulo": "Vendas",
+      "paragrafos": [
+        "Antes do lançamento na América do Norte, cerca de 12 milhões de demos do jogo foram distribuídas em 1998. Após o lançamento, o jogo foi um sucesso comercial. Foi o videogame de console doméstico mais vendido dos Estados Unidos no primeiro mês de lançamento, tornou-se um dos jogos mais alugados do país e liderou as paradas de vendas no Reino Unido e no Japão. A PC Data, que acompanhava as vendas nos Estados Unidos, informou que Metal Gear Solid vendeu 1.06 milhão de cópias e arrecadou $51,834,077 (equivalentes a $102,388,000 em 2025) em receita apenas em 1998. Isso fez dele o quinto lançamento para PlayStation mais vendido do país em 1998, e o terceiro título para PlayStation de maior arrecadação naquele ano.",
+        "No Reino Unido, foi um dos três videogames mais vendidos de 1999, com cerca de 400,000 cópias vendidas naquele ano. Na Alemanha, recebeu em junho de 1999 um prêmio Platinum da Verband der Unterhaltungssoftware Deutschland (VUD) por vendas acima de 200,000 cópias em poucos meses, e tornou-se o segundo jogo para PlayStation mais vendido do ano. Na Europa, o jogo arrecadou €40,034,122 ou $42,668,367 (equivalentes a $82,464,333 em 2025) em 1999, totalizando mais de $94,502,444 (equivalentes a $186,670,303 em 2025) arrecadados nos Estados Unidos e na Europa até 1999.",
+        "No início de 2001, o jogo havia vendido 6 milhões de unidades no mundo, incluindo 1 milhão no Japão e aproximadamente 5 milhões nos Estados Unidos e na Europa. Depois, chegou a mais de 6.6 milhões de unidades vendidas no mundo até 2002. Em 2004, a versão original havia vendido 5.51 milhões e a Integral, 1.27 milhão, totalizando 6.78 milhões de unidades no mundo. Em julho de 2009, o jogo já havia vendido mais de sete milhões de unidades no mundo. Nos EUA, 2.81 milhões de unidades foram vendidas até 2007.",
+        "Apesar do grande sucesso de vendas, Kojima, em uma entrevista a Geoff Keighley em 2014, revelou que as expectativas de vendas de Metal Gear Solid eram baixas e disse: “Nem eu nem ninguém esperava que Metal Gear Solid vendesse. Eu não pensei em nada sobre como fazer este jogo vender bem, porque não esperava que ele fosse vender.”"
+      ]
+    },
+    {
+      "id": "mgs1/legacy",
+      "ordem": 18,
+      "nivel": 2,
+      "pai": null,
+      "titulo": "Legado",
+      "paragrafos": [
+        "Metal Gear Solid é creditado por popularizar o gênero de jogos de furtividade. A ideia de o jogador estar desarmado e precisar evitar ser visto pelos inimigos, em vez de lutar contra eles, foi usada em muitos jogos desde então. Às vezes ele também é considerado tanto um filme quanto um jogo, devido às longas cenas cinematográficas e à trama complexa. A IGN o chamou de “fundador do gênero de furtividade”.",
+        "O jogo é frequentemente considerado um dos melhores do PlayStation e apareceu em listas de melhores videogames da Computer and Video Games, em 2000; da Electronic Gaming Monthly e da Game Informer, em 2001; da Retro Gamer, em 2004; da GameFAQs e da GamePro, em 2005; e da Famitsu. A revista Hyper, em 2001, o chamou de “Provavelmente o melhor jogo do PlayStation”.",
+        "Em 2002, a IGN o classificou como o melhor jogo para PlayStation de todos os tempos, afirmando que só a demonstração do jogo tinha “mais jogabilidade do que a maioria dos títulos finalizados”. A IGN também lhe concedeu os prêmios de “Best Ending” e “Best Villain”. Em 2005, ao colocá-lo em 19º lugar em sua lista “Top 100 Games”, a publicação disse que era “um jogo que realmente parecia um filme”. O Guinness World Records concedeu a Metal Gear Solid um recorde por “Most Innovative Use of a Video Game Controller”, pela luta contra o chefe Psycho Mantis, na edição Guinness World Records Gamer's Edition 2008. Em 2010, a PC Magazine o classificou em sétimo lugar na lista dos videogames mais influentes de todos os tempos, citando sua influência em “títulos furtivos como Assassin's Creed e Splinter Cell”. Em 2012, a Time o incluiu entre os 100 maiores videogames de todos os tempos, e a G4tv o classificou como o 45º melhor videogame de todos os tempos.",
+        "Segundo a 1UP.com, o estilo cinematográfico de Metal Gear Solid continua a influenciar jogos de ação modernos como Call of Duty. Metal Gear Solid, junto com sua sequência, “Metal Gear Solid 2”, foi apresentado na exposição “The Art of Video Games” do Smithsonian American Art Museum, em 2012. Em agosto de 2015, o Eurogamer reanalisou o impacto técnico e geral do jogo e afirmou que Metal Gear Solid havia sido nada menos que “o primeiro videogame moderno”. Em setembro de 2015, Metal Gear Solid foi eleito pelos usuários do PlayStation.Blog como o melhor jogo original para PlayStation de todos os tempos. Em maio de 2023, a GQ listou Metal Gear Solid como o sétimo melhor videogame de todos os tempos, segundo uma equipe de jornalistas de games de todo o setor."
+      ]
+    }
+  ],
+  "idioma": "pt-BR",
+  "revisado": false,
+  "traduzidoEm": "2026-10-18"
+}
